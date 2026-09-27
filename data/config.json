@@ -1,0 +1,299 @@
+{
+  "project": {
+    "title": "Guerra Mundial Z",
+    "subtitle": "Atlas interactivo",
+    "sourceNote": "Datos extraídos del libro de Max Brooks. Resúmenes propios; no se reproduce el texto."
+  },
+  "map": {
+    "center": [
+      25,
+      10
+    ],
+    "zoom": 2,
+    "minZoom": 1,
+    "maxZoom": 12,
+    "tileUrl": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+    "tileAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">colaboradores de OpenStreetMap</a>",
+    "approximateRadiusKm": 60,
+    "intensitySteps": [
+      1,
+      2,
+      3,
+      5,
+      8
+    ]
+  },
+  "extraCountryNames": {
+    "PYF": "Polinesia Francesa",
+    "TWN": "Taiwán",
+    "BRB": "Barbados",
+    "FSM": "Micronesia",
+    "BMU": "Bermudas"
+  },
+  "bookSections": [
+    {
+      "id": "advertencias",
+      "label": "Advertencias"
+    },
+    {
+      "id": "culpa",
+      "label": "Culpa"
+    },
+    {
+      "id": "gran-panico",
+      "label": "El Gran Pánico"
+    },
+    {
+      "id": "cambiando-la-marea",
+      "label": "Cambiando la marea"
+    },
+    {
+      "id": "frente-local",
+      "label": "Frente local: Estados Unidos"
+    },
+    {
+      "id": "alrededor-del-mundo",
+      "label": "Alrededor del mundo, y sobre él"
+    },
+    {
+      "id": "guerra-total",
+      "label": "Guerra total"
+    },
+    {
+      "id": "despedidas",
+      "label": "Despedidas"
+    }
+  ],
+  "typeGroups": {
+    "civil": {
+      "label": "Civil",
+      "color": "#3f5f7d",
+      "colorDark": "#9fb4c7"
+    },
+    "militar": {
+      "label": "Militar",
+      "color": "#9a3b1c",
+      "colorDark": "#c46a4f"
+    },
+    "naval": {
+      "label": "Mar y navegación",
+      "color": "#2c6e6b",
+      "colorDark": "#5fa3a0"
+    },
+    "territorio": {
+      "label": "Territorio y naturaleza",
+      "color": "#5f6b2e",
+      "colorDark": "#9aa86a"
+    },
+    "entrevista": {
+      "label": "Entrevista (posguerra)",
+      "color": "#8f3a1a",
+      "colorDark": "#d9a441"
+    }
+  },
+  "locationTypes": {
+    "ciudad": {
+      "label": "Ciudad",
+      "emoji": "🏙️",
+      "group": "civil"
+    },
+    "pueblo": {
+      "label": "Pueblo",
+      "emoji": "🏘️",
+      "group": "civil"
+    },
+    "puerto": {
+      "label": "Puerto",
+      "emoji": "⛴️",
+      "group": "naval"
+    },
+    "isla": {
+      "label": "Isla o atolón",
+      "emoji": "🏝️",
+      "group": "naval"
+    },
+    "oceano": {
+      "label": "Océano o mar",
+      "emoji": "🌊",
+      "group": "naval"
+    },
+    "barco": {
+      "label": "Barco",
+      "emoji": "🚢",
+      "group": "naval"
+    },
+    "submarino": {
+      "label": "Submarino",
+      "emoji": "⚓",
+      "group": "naval"
+    },
+    "base": {
+      "label": "Base o instalación militar",
+      "emoji": "🪖",
+      "group": "militar"
+    },
+    "bunker": {
+      "label": "Búnker",
+      "emoji": "🎯",
+      "group": "militar"
+    },
+    "campo-batalla": {
+      "label": "Campo de batalla",
+      "emoji": "⚔️",
+      "group": "militar"
+    },
+    "edificio": {
+      "label": "Edificio",
+      "emoji": "🏢",
+      "group": "civil"
+    },
+    "estadio": {
+      "label": "Estadio o recinto",
+      "emoji": "🏟️",
+      "group": "civil"
+    },
+    "infraestructura": {
+      "label": "Infraestructura",
+      "emoji": "🏗️",
+      "group": "civil"
+    },
+    "monumento": {
+      "label": "Monumento",
+      "emoji": "🏛️",
+      "group": "civil"
+    },
+    "campamento": {
+      "label": "Campamento",
+      "emoji": "⛺",
+      "group": "territorio"
+    },
+    "parque": {
+      "label": "Parque o reserva natural",
+      "emoji": "🌲",
+      "group": "territorio"
+    },
+    "region": {
+      "label": "Región",
+      "emoji": "🗺️",
+      "group": "territorio"
+    },
+    "otro": {
+      "label": "Otro",
+      "emoji": "📍",
+      "group": "civil"
+    }
+  },
+  "interviewMarker": {
+    "label": "Entrevista · posguerra",
+    "emoji": "🎙️"
+  },
+  "precision": {
+    "exact": {
+      "label": "Ubicación exacta",
+      "hint": "Punto conocido."
+    },
+    "approximate": {
+      "label": "Ubicación aproximada",
+      "hint": "El libro no da el sitio exacto; se marca la zona probable."
+    },
+    "regional": {
+      "label": "Ubicación regional",
+      "hint": "Solo se conoce la región."
+    },
+    "mobile": {
+      "label": "Entidad móvil",
+      "hint": "Barco o submarino: se muestra en las paradas de su recorrido."
+    },
+    "none": {
+      "label": "Sin ubicación",
+      "hint": "El libro no permite situarlo en el mapa."
+    }
+  },
+  "status": {
+    "confirmado": {
+      "label": "Confirmado",
+      "hint": "Dato tomado directamente del libro."
+    },
+    "aproximado": {
+      "label": "Aproximado",
+      "hint": "Deducido del libro, pero no dicho de forma explícita."
+    },
+    "pendiente": {
+      "label": "Pendiente",
+      "hint": "Falta completarlo."
+    }
+  },
+  "categories": {
+    "militar": {
+      "label": "Militar"
+    },
+    "civil": {
+      "label": "Civil"
+    },
+    "supervivencia": {
+      "label": "Supervivencia"
+    },
+    "desplazamiento": {
+      "label": "Desplazamiento"
+    },
+    "conflicto": {
+      "label": "Conflicto"
+    },
+    "politica": {
+      "label": "Política"
+    },
+    "espacio": {
+      "label": "Espacio"
+    }
+  },
+  "eventCategories": {
+    "conflicto": {
+      "label": "Conflicto",
+      "emoji": "⚔️"
+    },
+    "ataque": {
+      "label": "Ataque",
+      "emoji": "💥"
+    },
+    "evacuacion": {
+      "label": "Evacuación",
+      "emoji": "🚨"
+    },
+    "descubrimiento": {
+      "label": "Descubrimiento",
+      "emoji": "🔭"
+    },
+    "desplazamiento": {
+      "label": "Desplazamiento",
+      "emoji": "🧭"
+    },
+    "supervivencia": {
+      "label": "Supervivencia",
+      "emoji": "🔥"
+    },
+    "operacion-militar": {
+      "label": "Operación militar",
+      "emoji": "🎖️"
+    },
+    "catastrofe": {
+      "label": "Catástrofe",
+      "emoji": "🌋"
+    },
+    "brote": {
+      "label": "Brote",
+      "emoji": "☣️"
+    },
+    "otro": {
+      "label": "Otro",
+      "emoji": "📌"
+    }
+  },
+  "entityLabels": {
+    "narrative": "Narración",
+    "character": "Personaje",
+    "location": "Lugar",
+    "region": "Región",
+    "event": "Acontecimiento",
+    "phase": "Fase"
+  }
+}

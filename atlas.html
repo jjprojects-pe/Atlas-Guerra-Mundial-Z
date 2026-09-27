@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Atlas · Guerra Mundial Z</title>
+  <meta name="description" content="Atlas interactivo del mundo de Guerra Mundial Z: narraciones, personajes, lugares y acontecimientos conectados en un mapa.">
+  <script>
+    // Apply the saved theme before the page paints to avoid a flash of the wrong colours.
+    try { document.documentElement.dataset.theme = localStorage.getItem('gmz-theme') || 'print'; }
+    catch (e) { document.documentElement.dataset.theme = 'print'; }
+  </script>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@500;600&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Serif:wght@600&display=swap">
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/map.css">
+  <link rel="stylesheet" href="css/components.css">
+</head>
+<body class="atlas">
+  <header class="topbar">
+    <a class="brand" href="index.html" title="Volver a la portada">
+      <span class="brand__mark" aria-hidden="true">Z</span>
+      <span class="brand__text">Guerra Mundial Z<small>Atlas interactivo</small></span>
+    </a>
+    <div class="search" data-search role="search">
+      <span class="search__icon" aria-hidden="true">⌕</span>
+      <input type="search" placeholder="Buscar en el atlas…" aria-label="Buscar en el atlas" aria-expanded="false" aria-controls="search-results" autocomplete="off">
+      <div class="search__results" id="search-results" data-search-results hidden></div>
+    </div>
+    <button type="button" class="btn btn--theme" data-theme-toggle></button>
+    <button type="button" class="btn btn--home" data-home hidden>← <span class="hide-sm">Mapa </span>general</button>
+  </header>
+
+  <nav class="phases" data-phases aria-label="Fases de la guerra"></nav>
+
+  <main class="layout">
+    <aside class="nav" data-nav aria-label="Explorar">
+      <div class="nav__head">
+        <div class="tabs" data-nav-tabs role="tablist"></div>
+        <p class="nav__title" data-nav-title></p>
+        <button type="button" class="nav__close" data-drawer-close aria-label="Cerrar navegación">×</button>
+      </div>
+      <div class="nav__list" data-nav-list></div>
+      <details class="filters" data-filters>
+        <summary>Filtros <span class="count" data-filters-count hidden></span></summary>
+        <form data-filters-form></form>
+      </details>
+    </aside>
+
+    <section class="mapzone" aria-label="Mapa">
+      <div class="map" data-map></div>
+      <div class="map-context" data-map-context hidden></div>
+      <p class="map-banner" data-map-banner role="status" hidden></p>
+    </section>
+
+    <section class="panel" data-panel aria-label="Información seleccionada">
+      <button type="button" class="panel__toggle" data-panel-toggle aria-expanded="true"><span>Ocultar ficha</span></button>
+      <div class="panel__body" data-panel-body></div>
+    </section>
+  </main>
+
+  <nav class="mobile-tabs" data-mobile-tabs aria-label="Explorar"></nav>
+  <div class="backdrop" data-backdrop></div>
+
+  <div class="loading" data-loading>
+    <div class="loading__box"><p class="loading__title">Cargando el atlas…</p></div>
+  </div>
+
+  <script src="vendor/leaflet/leaflet.js"></script>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

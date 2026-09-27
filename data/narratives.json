@@ -1,0 +1,2115 @@
+[
+  {
+    "id": "nar-xu-zhicai",
+    "title": "Monumento a los Patriotas, Ciudad Prohibida, Beijing, China",
+    "bookSection": "alrededor-del-mundo",
+    "bookOrder": 36,
+    "narratorIds": [
+      "per-xu-zhicai"
+    ],
+    "mentionedCharacterIds": [
+      "per-capitan-chen",
+      "per-chen-zhi-xiao",
+      "per-song"
+    ],
+    "interview": {
+      "locationId": "loc-beijing-ciudad-prohibida"
+    },
+    "places": [
+      {
+        "ref": "loc-qingdao",
+        "order": 1
+      },
+      {
+        "ref": "loc-frente-a-dakar",
+        "order": 2
+      },
+      {
+        "ref": "reg-costa-guayanas",
+        "order": 3
+      },
+      {
+        "ref": "loc-manihi",
+        "order": 4
+      },
+      {
+        "ref": "loc-oceano-artico",
+        "order": 5
+      },
+      {
+        "ref": "loc-xilinhot"
+      }
+    ],
+    "countries": [],
+    "vesselId": "loc-almirante-zheng-he",
+    "eventIds": [
+      "evt-huida-qingdao",
+      "evt-nordic-empress",
+      "evt-busqueda-tierra-guayanas",
+      "evt-estancia-manihi",
+      "evt-combate-tipo-95",
+      "evt-colapso-tres-gargantas",
+      "evt-reencuentro-artico",
+      "evt-ataque-xilinhot",
+      "evt-guerra-nuclear-iran-pakistan"
+    ],
+    "categories": [
+      "militar",
+      "supervivencia",
+      "desplazamiento"
+    ],
+    "tags": [
+      "submarino",
+      "armas nucleares",
+      "guerra civil china",
+      "Continente Pacífico"
+    ],
+    "summary": "Xu Zhicai insiste en que no fueron traidores. Con China desbordada y un ejército que sacrificaba soldados sin sentido, el capitán Chen decidió huir en el Almirante Zheng He, un submarino nuclear lanzamisiles, llevándose a escondidas a las familias de la tripulación. Durante meses se ocultaron en el océano, viendo el mar lleno de barcos de refugiados y de muertos flotando. Buscaron tierra fértil sin poder desembarcar y acabaron en Manihi, donde vendían la energía de su reactor. Un submarino chino los atacó y lo hundieron, sin saber si iba en él el hijo del capitán. Refugiados en el Ártico, ese hijo apareció al fin del lado rebelde, y el Zheng He lanzó el misil que acabó con el búnker del gobierno.",
+    "context": "Xu elige para la entrevista el monumento levantado donde, según se dice, cayó el último muerto de Beijing, lejos de fotógrafos. Pide que se escuche «su versión».",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "nar-jesika-hendricks",
+    "title": "Parque Forestal de la Provincia de Sand Lakes, Manitoba, Canadá",
+    "bookSection": "cambiando-la-marea",
+    "bookOrder": 23,
+    "narratorIds": [
+      "per-jesika-hendricks"
+    ],
+    "mentionedCharacterIds": [
+      "per-patty"
+    ],
+    "interview": {
+      "locationId": "loc-sand-lakes"
+    },
+    "places": [
+      {
+        "ref": "loc-waukesha",
+        "order": 1
+      },
+      {
+        "ref": "loc-sand-lakes",
+        "order": 2
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-huida-al-norte",
+      "evt-invierno-campamento",
+      "evt-recuperacion-silvestre"
+    ],
+    "categories": [
+      "civil",
+      "supervivencia",
+      "desplazamiento"
+    ],
+    "tags": [
+      "refugiados",
+      "ir al norte",
+      "invierno",
+      "hambruna"
+    ],
+    "summary": "Jesika era una niña cuando, dos semanas después de Yonkers, su padre decidió llevar a la familia al norte, como repetían todos los noticieros sin dar más instrucciones. Salieron de los primeros y llegaron a un lago de Canadá. Al principio el campamento parecía una fiesta, pero llegaron más refugiados, se acabaron los peces, los árboles y la comida, y la gente empezó a robar y a pelear. Muchos no sabían protegerse del frío. En pleno invierno, el hambre llevó al canibalismo y su familia terminó cediendo para salvarla. Once millones de personas murieron ese invierno en Norteamérica. Con el deshielo, los muertos volvieron.",
+    "context": "Jesika vuelve cada verano a Sand Lakes como voluntaria para recoger los restos de aquel invierno. Durante la entrevista remata a un zombi que sale del hielo.",
+    "epilogue": {
+      "interviewLocationId": "loc-sand-lakes",
+      "summary": "Mientras recoge cadáveres en Sand Lakes, Jesika intenta no sentir rabia por lo injusta que fue la guerra. Escuchar en la radio a un famoso bocazas que sobrevivió le recuerda que sus padres no lo hicieron."
+    },
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Cambiando la marea; Despedidas"
+    }
+  },
+  {
+    "id": "nar-todd-wainio-yonkers",
+    "title": "Denver, Colorado, Estados Unidos",
+    "bookSection": "gran-panico",
+    "bookOrder": 19,
+    "narratorIds": [
+      "per-todd-wainio"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-denver"
+    },
+    "places": [
+      {
+        "ref": "loc-yonkers"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-yonkers"
+    ],
+    "categories": [
+      "militar",
+      "conflicto"
+    ],
+    "tags": [
+      "Yonkers",
+      "Land Warrior",
+      "Gran Pánico"
+    ],
+    "summary": "Todd Wainio llegó a Yonkers tres meses después del inicio del Gran Pánico, para una batalla pensada ante todo para las cámaras. Los soldados esperaban en trincheras, con trajes protectores asfixiantes y un sistema de comunicación en red, junto a tanques, artillería y periodistas. Los misiles y las bombas destrozaban cuerpos, pero no cabezas, y la munición útil se agotó. Cuando la horda llegó a la línea, el pánico se contagió por la red: alguien gritó que no morían ni con un tiro en la cabeza y todos vieron en directo cómo devoraban a un compañero. La línea se rompió y un bombardeo final arrasó la zona. Para Todd, lo que falló fue el miedo: el enemigo no podía sentirlo.",
+    "context": "Todd habla en la estación de tren de Denver, bajo el mural de la victoria, años después de la guerra. Yonkers se convirtió en el símbolo de la derrota del ejército convencional.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "El Gran Pánico"
+    }
+  },
+  {
+    "id": "nar-todd-wainio-esperanza",
+    "title": "Denver, Colorado, Estados Unidos",
+    "bookSection": "guerra-total",
+    "bookOrder": 40,
+    "narratorIds": [
+      "per-todd-wainio"
+    ],
+    "mentionedCharacterIds": [
+      "per-hermana-montoya",
+      "per-travis-dambrosia"
+    ],
+    "interview": {
+      "locationId": "loc-denver"
+    },
+    "places": [
+      {
+        "ref": "loc-needles",
+        "order": 1
+      },
+      {
+        "ref": "loc-esperanza",
+        "order": 2
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-batalla-esperanza"
+    ],
+    "categories": [
+      "militar",
+      "conflicto"
+    ],
+    "tags": [
+      "Esperanza",
+      "nueva doctrina",
+      "ofensiva"
+    ],
+    "summary": "Todd describe el nuevo ejército de la ofensiva: soldados a pie, uniformes resistentes a mordiscos, un rifle sencillo que nunca se atascaba y una herramienta para rematar cuerpo a cuerpo. Su primera gran prueba fue Esperanza, en Nuevo México. Formados en dos filas, con música para darse ánimo, disparaban una vez por segundo a los que cruzaban cada marcador, mientras equipos de recarga repartían munición y médicos relevaban a los que se cansaban. Los muertos llegaron en cadena durante un día y una noche; al rodearlos, formaron un cuadrado. Al amanecer estaban cercados por un muro de cadáveres, pero nadie se había quedado sin balas. Al día siguiente sintieron por primera vez que podían ganar.",
+    "context": "Todd cuenta esta parte mientras friega los platos en su casa de Denver. Esperanza fue la operación de prueba de la nueva doctrina diseñada por el alto mando.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total"
+    }
+  },
+  {
+    "id": "nar-todd-wainio-nueva-york",
+    "title": "Denver, Colorado",
+    "bookSection": "guerra-total",
+    "bookOrder": 45,
+    "narratorIds": [
+      "per-todd-wainio"
+    ],
+    "mentionedCharacterIds": [
+      "per-doctor-chandra",
+      "per-sargento-avalon"
+    ],
+    "interview": {
+      "locationId": "loc-denver"
+    },
+    "places": [
+      {
+        "ref": "loc-minneapolis"
+      },
+      {
+        "ref": "loc-hammond"
+      },
+      {
+        "ref": "loc-chicago-torre-sears"
+      },
+      {
+        "ref": "loc-detroit-comerica"
+      },
+      {
+        "ref": "loc-omaha-base"
+      },
+      {
+        "ref": "loc-janesville"
+      },
+      {
+        "ref": "loc-valley-city"
+      },
+      {
+        "ref": "loc-rochester"
+      },
+      {
+        "ref": "loc-pulaski"
+      },
+      {
+        "ref": "loc-portland-deering-oaks"
+      },
+      {
+        "ref": "loc-yonkers"
+      },
+      {
+        "ref": "loc-orilla-jersey"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-camino-nueva-york",
+      "evt-torre-sears",
+      "evt-foso-detroit",
+      "evt-declaracion-victoria",
+      "evt-separatistas"
+    ],
+    "categories": [
+      "militar",
+      "conflicto"
+    ],
+    "tags": [
+      "camino a Nueva York",
+      "Grupo Norte",
+      "salvajes",
+      "LaMOE"
+    ],
+    "summary": "La campaña para recuperar Estados Unidos duró tres años. Los soldados avanzaban en líneas desde las Rocosas hasta el Atlántico sin dejar un metro sin revisar, frenados por la noche, la niebla, el invierno y las zonas urbanas. Además de zombis, se enfrentaban a animales salvajes, a niños y adultos asilvestrados, a humanos que imitaban a los muertos y a supervivientes armados, como los de la Torre Sears de Chicago. Liberaron zonas aisladas con reacciones muy distintas, y perdieron gente por minas, enfermedades, accidentes y, sobre todo, por agotamiento mental. Todd vio caer a compañeros y a su jefa de escuadrón, a la que sustituyó. Al llegar a Yonkers era el único que quedaba de los que estuvieron en Esperanza.",
+    "context": "Todd habla durante un día de campo en el Victory Park de Denver. El médico de la compañía, el doctor Chandra, vigiló a los soldados durante todo el camino.",
+    "epilogue": {
+      "interviewLocationId": "loc-denver",
+      "summary": "Todd todavía sufre pequeñas crisis, que el doctor Chandra considera sanas. En la estación de tren de Denver señala el gran mural de la victoria: es él con su escuadrón a orillas del río, mirando amanecer sobre Nueva York el día en que se declaró la paz, algo que aún le parece un sueño."
+    },
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total; Despedidas"
+    }
+  },
+  {
+    "id": "nar-terry-knox",
+    "title": "Sydney, Australia",
+    "bookSection": "alrededor-del-mundo",
+    "bookOrder": 37,
+    "narratorIds": [
+      "per-terry-knox"
+    ],
+    "mentionedCharacterIds": [
+      "per-zhai",
+      "per-raj-singh"
+    ],
+    "interview": {
+      "locationId": "loc-sydney"
+    },
+    "places": [
+      {
+        "ref": "loc-eei"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-eei-en-orbita",
+      "evt-yang-liwei",
+      "evt-colapso-tres-gargantas",
+      "evt-yonkers",
+      "evt-parque-gandhi",
+      "evt-guerra-nuclear-iran-pakistan",
+      "evt-evacuacion-japon"
+    ],
+    "categories": [
+      "espacio",
+      "supervivencia"
+    ],
+    "tags": [
+      "Estación Espacial Internacional",
+      "satélites",
+      "órbita"
+    ],
+    "summary": "Terry Knox era el comandante de la Estación Espacial Internacional cuando la Tierra se hundió. Mandó de vuelta al personal no esencial y se quedó con unos pocos voluntarios para mantener en órbita los satélites vitales para la guerra, sin esperanza de rescate. Desde arriba vieron combates, enjambres enormes, la evacuación de Japón, el intercambio nuclear entre Irán y Pakistán, un planeta cubierto de humo y el colapso de la presa de las Tres Gargantas. Cuando la estación china Yang Liwei envió una señal, Knox la abordó: estaba llena de explosivos y un taikonauta había muerto despresurizándola. Sus provisiones les permitieron resistir tres años más. No se arrepiente, aunque la radiación lo está matando.",
+    "context": "Knox habla desde una habitación del hospital Clearwater Memorial de Sydney. Murió tres días después de la entrevista. La estación estaba en órbita, así que no se sitúa en el mapa.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "nar-kwang-jingshu",
+    "title": "Gran Chongqing, Federación Unida de China",
+    "bookSection": "advertencias",
+    "bookOrder": 1,
+    "narratorIds": [
+      "per-kwang-jingshu"
+    ],
+    "mentionedCharacterIds": [
+      "per-gu-wen-kuei"
+    ],
+    "interview": {
+      "locationId": "loc-chongqing"
+    },
+    "places": [
+      {
+        "ref": "loc-nuevo-dachang"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-paciente-cero-dachang"
+    ],
+    "categories": [
+      "civil"
+    ],
+    "tags": [
+      "paciente cero",
+      "Tres Gargantas",
+      "encubrimiento"
+    ],
+    "summary": "Kwang Jingshu, un médico veterano, recibe un aviso urgente desde una aldea sin nombre oficial junto al embalse de las Tres Gargantas. Allí encuentra a siete vecinos con fiebre y mordeduras que no se infectan, y a un niño atado que no tiene pulso y trata de morder a todo el que se acerca. El chico se contagió buceando en las ruinas sumergidas de su antiguo pueblo. Kwang llama a su amigo Gu Wen Kuei, que le responde con una frase en clave: algo muy grave está pasando. En menos de una hora llegan agentes de seguridad disfrazados de personal sanitario, se llevan a los enfermos y aíslan la aldea. Kwang solo alcanza a pedirle a su hija que salga del país.",
+    "context": "Es la primera entrevista del libro. En la posguerra, Kwang dirige el concejo de seguridad de un Chongqing casi despoblado y sigue atendiendo pacientes en casa.",
+    "epilogue": {
+      "interviewLocationId": "loc-chongqing",
+      "summary": "Tras atender a un niño enfermo, el viejo doctor Kwang reflexiona sobre la generación nacida después de la guerra: sabe convivir con los muertos sin vivir con miedo. Confía en que China y el mundo volverán a reconstruirse, como tantas otras veces."
+    },
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias"
+    }
+  },
+  {
+    "id": "nar-nury-televaldi",
+    "title": "Lhasa, República Popular del Tíbet",
+    "bookSection": "advertencias",
+    "bookOrder": 2,
+    "narratorIds": [
+      "per-nury-televaldi"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-lhasa"
+    },
+    "places": [
+      {
+        "ref": "loc-kashi"
+      },
+      {
+        "ref": "reg-asia-central"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-contrabando-kashi"
+    ],
+    "categories": [
+      "desplazamiento",
+      "civil"
+    ],
+    "tags": [
+      "contrabando",
+      "refugiados",
+      "shetou"
+    ],
+    "summary": "Nury Televaldi era contrabandista en Kashi. Cuando la plaga empieza a extenderse en secreto por China, su negocio se dispara: profesionales, funcionarios y familias enteras le pagan para cruzar hacia las antiguas repúblicas soviéticas. Sobornos mediante, las fronteras siguen abiertas para quien puede pagar. Nury explica cómo los contrabandistas aéreos sacaban a clientes ricos hacia Europa o Estados Unidos, y cómo muchos infectados viajaban escondidos creyendo que en Occidente había una cura. Con el tiempo empieza a ver familias que transportan a parientes atados en maleteros y cajones. Un camión lleno de golpes y gemidos camino de Kirguistán lo convence de retirarse.",
+    "context": "La entrevista se hace en un café de Lhasa, capital de un Tíbet independiente en la posguerra, en plena celebración electoral.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias"
+    }
+  },
+  {
+    "id": "nar-stanley-macdonald",
+    "title": "Meteora, Grecia",
+    "bookSection": "advertencias",
+    "bookOrder": 3,
+    "narratorIds": [
+      "per-stanley-macdonald"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-meteora"
+    },
+    "places": [
+      {
+        "ref": "loc-edmonton"
+      }
+    ],
+    "countries": [
+      "KGZ"
+    ],
+    "vesselId": null,
+    "eventIds": [
+      "evt-caverna-kirguistan"
+    ],
+    "categories": [
+      "militar"
+    ],
+    "tags": [
+      "Kirguistán",
+      "narcotráfico",
+      "estrés postraumático"
+    ],
+    "summary": "Mucho antes de que el mundo supiera de la plaga, la unidad canadiense de Stanley MacDonald participa en una operación antidroga en Kirguistán. Siguen un rastro de sangre desde una caravana atacada hasta la cueva de unos traficantes y la encuentran arrasada desde dentro: cuerpos mordidos, disparos en una sola dirección y la droga intacta. Todo empezó en la enfermería, donde atendían a un herido. En el último túnel, MacDonald tira de una mano que asoma entre las rocas y saca medio cuerpo que sigue intentando morderle. Al volver a Edmonton, el ejército atribuye lo ocurrido a agentes químicos y lo somete a una larga «evaluación».",
+    "context": "MacDonald, veterano de las campañas en Canadá, habla desde los monasterios de Meteora, a donde acude en busca de paz.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias"
+    }
+  },
+  {
+    "id": "nar-fernando-oliveira",
+    "title": "Selva lluviosa del Amazonas, Brasil",
+    "bookSection": "advertencias",
+    "bookOrder": 4,
+    "narratorIds": [
+      "per-fernando-oliveira"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-amazonas-yanomami"
+    },
+    "places": [
+      {
+        "ref": "loc-rio"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-trasplante-muller"
+    ],
+    "categories": [
+      "civil"
+    ],
+    "tags": [
+      "tráfico de órganos",
+      "trasplante",
+      "Río de Janeiro"
+    ],
+    "summary": "Fernando Oliveira se ganaba la vida con trasplantes ilegales en Río de Janeiro. Un cliente europeo con los órganos invertidos necesita un corazón compatible, y su proveedor de Macao consigue uno en China en pocas semanas. Minutos después de la operación el paciente empeora, muere y se reanima: muerde al cirujano jefe y Oliveira termina disparándole por accidente en la cabeza. La policía, cómplice del negocio, encubre las muertes. Años después, Oliveira sospecha que el tráfico de órganos procedentes de China extendió la plaga por los hospitales del mundo antes del Gran Pánico, aunque reconoce que no tiene pruebas.",
+    "context": "Oliveira vive entre los yanomami, en una aldea cuya ubicación se mantiene en secreto. No está claro si es su invitado o su prisionero.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias"
+    }
+  },
+  {
+    "id": "nar-jacob-nyathi",
+    "title": "Puerto de Bridgetown, Barbados, Federación de las Indias Occidentales",
+    "bookSection": "advertencias",
+    "bookOrder": 5,
+    "narratorIds": [
+      "per-jacob-nyathi"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-bridgetown"
+    },
+    "places": [
+      {
+        "ref": "loc-kayelitsha"
+      },
+      {
+        "ref": "loc-groote-schuur"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-brote-kayelitsha"
+    ],
+    "categories": [
+      "civil",
+      "supervivencia"
+    ],
+    "tags": [
+      "Ciudad del Cabo",
+      "rabia africana"
+    ],
+    "summary": "Jacob Nyathi creció en Kayelitsha, un barrio pobre de Ciudad del Cabo. Una madrugada, al volver del trabajo, se encuentra con disparos, casas en llamas y una multitud que huye gritando que «ya vienen». Intenta llegar hasta su familia, pero lo atacan figuras que no caen con heridas mortales; mata a una golpeándola con una olla. Mientras huye entre las chabolas, una mujer asustada le impide ayudarla. Al final llega a una zona iluminada y la policía le dispara por error. Despierta en el hospital Groote Schuur, bajo los efectos de la morfina, oyendo a los médicos discutir si aquello es realmente rabia.",
+    "context": "Nyathi es capitán del I.S. Imfingo, un barco privado de energía eólica, y concede la entrevista en el puerto de Bridgetown.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias"
+    }
+  },
+  {
+    "id": "nar-jurgen-warmbrunn",
+    "title": "Tel Aviv, Israel",
+    "bookSection": "advertencias",
+    "bookOrder": 6,
+    "narratorIds": [
+      "per-jurgen-warmbrunn"
+    ],
+    "mentionedCharacterIds": [
+      "per-paul-knight"
+    ],
+    "interview": {
+      "locationId": "loc-tel-aviv"
+    },
+    "places": [
+      {
+        "ref": "loc-bethesda"
+      }
+    ],
+    "countries": [
+      "ISR"
+    ],
+    "vesselId": null,
+    "eventIds": [
+      "evt-informe-warmbrunn-knight",
+      "evt-brote-kayelitsha",
+      "evt-caverna-kirguistan",
+      "evt-trasplante-muller",
+      "evt-cuarentena-israel"
+    ],
+    "categories": [
+      "politica"
+    ],
+    "tags": [
+      "inteligencia",
+      "informe",
+      "décimo hombre"
+    ],
+    "summary": "Jurgen Warmbrunn, agente de la inteligencia israelí, detecta la amenaza a partir de mensajes chinos descifrados que hablan de cadáveres reanimados. Siguiendo la regla israelí de investigar hasta la hipótesis más absurda, reúne pistas: los casos de Ciudad del Cabo, la evaluación psicológica de soldados canadienses llegados de Kirguistán, el blog de una enfermera brasileña e informes olvidados de la Organización Mundial de la Salud. Descubre además que destruir el cerebro los detiene. En casa de su amigo Paul Knight, en Bethesda, comprueba que han llegado a las mismas conclusiones y juntos redactan el informe Warmbrunn-Knight. Muy pocos gobiernos lo leen.",
+    "context": "Warmbrunn nunca dice para qué servicio trabajaba. La entrevista se hace en un restaurante etíope de Tel Aviv.",
+    "epilogue": {
+      "interviewLocationId": "loc-tel-aviv",
+      "summary": "Durante una comida en Tel Aviv, Warmbrunn recuerda que salió de la Alemania nazi siendo niño y nunca volvió a ver a su familia. Si es cierto que nadie sobrevivió de verdad al Holocausto, piensa, tampoco nadie sobrevivió a esta guerra."
+    },
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias; Despedidas"
+    }
+  },
+  {
+    "id": "nar-saladin-kader",
+    "title": "Belén, Palestina",
+    "bookSection": "advertencias",
+    "bookOrder": 7,
+    "narratorIds": [
+      "per-saladin-kader"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-belen"
+    },
+    "places": [
+      {
+        "ref": "loc-kuwait",
+        "order": 1
+      },
+      {
+        "ref": "loc-el-cairo",
+        "order": 2
+      },
+      {
+        "ref": "loc-taba",
+        "order": 3
+      },
+      {
+        "ref": "loc-yerohan",
+        "order": 4
+      },
+      {
+        "ref": "loc-beer-sheva",
+        "order": 5
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-brote-kuwait",
+      "evt-cuarentena-israel",
+      "evt-guerra-civil-israeli"
+    ],
+    "categories": [
+      "desplazamiento",
+      "politica"
+    ],
+    "tags": [
+      "cuarentena voluntaria",
+      "Israel",
+      "Palestina"
+    ],
+    "summary": "Saladin Kader es un adolescente palestino nacido en Kuwait que desprecia a Israel. Cuando Israel anuncia una cuarentena voluntaria y ofrece refugio también a los palestinos, su padre, que ha visto el primer brote en el hospital donde trabaja, decide aceptar. Saladin se niega hasta que su padre lo obliga por la fuerza. La familia viaja por El Cairo y el Sinaí hasta el cruce de Taba, donde perros detectan a los infectados, y pasa tres semanas de controles médicos en un campo del Néguev. Camino de Tel Aviv quedan atrapados en Beer-Sheva en el estallido de la guerra civil israelí. Allí Saladin ve a unos soldados abatir a infectados en llamas disparando a la cabeza y comprende por fin lo que Israel intentaba advertir.",
+    "context": "En la posguerra, Kader enseña planeación urbana en la Universidad Khalil Gibrán, en Belén.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias"
+    }
+  },
+  {
+    "id": "nar-bob-archer",
+    "title": "Langley, Virginia, Estados Unidos",
+    "bookSection": "culpa",
+    "bookOrder": 8,
+    "narratorIds": [
+      "per-bob-archer"
+    ],
+    "mentionedCharacterIds": [
+      "per-paul-knight"
+    ],
+    "interview": {
+      "locationId": "loc-langley"
+    },
+    "places": [
+      {
+        "ref": "loc-langley"
+      },
+      {
+        "ref": "loc-buenos-aires"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-maskirovka-taiwan",
+      "evt-informe-warmbrunn-knight",
+      "evt-cuarentena-israel"
+    ],
+    "categories": [
+      "politica"
+    ],
+    "tags": [
+      "CIA",
+      "inteligencia",
+      "Taiwán"
+    ],
+    "summary": "Bob Archer desmonta el mito de una CIA omnipresente: la agencia solo vigila las amenazas que considera prioritarias. Según él, China ocultó la plaga tras una crisis fabricada con Taiwán, y Estados Unidos, convencido de que se avecinaba una guerra, retiró agentes de los países donde empezaba la infección. A eso se sumaron las purgas internas que vaciaron la agencia de sus mejores analistas. Archer insinúa que sospechaba algo y que lo comentó a un superior; al día siguiente lo trasladaron a Buenos Aires. La copia del informe Warmbrunn-Knight dirigida al director apareció años después en un cajón del FBI en San Antonio.",
+    "context": "La entrevista se hace en la oficina del director de la CIA en Langley.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Culpa"
+    }
+  },
+  {
+    "id": "nar-travis-dambrosia-culpa",
+    "title": "Vaalajarvi, Finlandia",
+    "bookSection": "culpa",
+    "bookOrder": 9,
+    "narratorIds": [
+      "per-travis-dambrosia"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-vaalajarvi"
+    },
+    "places": [
+      {
+        "ref": "loc-pentagono"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-equipos-alfa",
+      "evt-cuarentena-israel"
+    ],
+    "categories": [
+      "militar",
+      "politica"
+    ],
+    "tags": [
+      "Equipos Alfa",
+      "Fase Dos",
+      "fatiga de guerra"
+    ],
+    "summary": "El general Travis D'Ambrosia explica por qué el ejército estadounidense llegó tan mal preparado. Tras la declaración israelí, el alto mando se atrevió a hablar en serio de los muertos vivientes y diseñó un plan en dos fases. La Casa Blanca aprobó la primera, barata y discreta: los Equipos Alfa, fuerzas especiales que eliminaban focos de infección con gran eficacia. La segunda, una movilización nacional a gran escala, nunca empezó. El país salía de una guerra larga en Oriente Medio, no había dinero ni voluntarios y la opinión pública estaba agotada. D'Ambrosia no culpa a los civiles, pero advierte que el apoyo popular no puede volver a malgastarse así.",
+    "context": "D'Ambrosia, Comandante Supremo de la Alianza Europea, supervisa en Finlandia la limpieza anual de zombies que se descongelan en primavera.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Culpa"
+    }
+  },
+  {
+    "id": "nar-breck-scott",
+    "title": "Estación Vostok: Antártida",
+    "bookSection": "culpa",
+    "bookOrder": 10,
+    "narratorIds": [
+      "per-breck-scott"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-vostok"
+    },
+    "places": [],
+    "countries": [
+      "USA"
+    ],
+    "vesselId": null,
+    "eventIds": [
+      "evt-phalanx"
+    ],
+    "categories": [
+      "politica",
+      "civil"
+    ],
+    "tags": [
+      "Phalanx",
+      "miedo",
+      "negocio"
+    ],
+    "summary": "Breck Scott vive de una idea: el miedo es el producto más valioso. Al ver las primeras noticias sobre la «rabia africana», decide vender una vacuna contra la rabia. Con contactos en la industria y en el gobierno, el Phalanx se aprueba en menos de dos meses y el presidente la presenta como protección contra la plaga. Las ventas se disparan, aparecen imitaciones, purificadores de aire y empresas fantasma, y la economía parece recuperarse. Scott sabe que el producto no sirve contra el virus, pero se defiende diciendo que técnicamente nunca mintió. Culpa del Gran Pánico a la periodista que reveló el engaño.",
+    "context": "Scott no ha salido de la estación Vostok, que alquiló al gobierno ruso, desde el Gran Pánico.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Culpa"
+    }
+  },
+  {
+    "id": "nar-grover-carlson",
+    "title": "Amarillo, Texas, Estados Unidos",
+    "bookSection": "culpa",
+    "bookOrder": 11,
+    "narratorIds": [
+      "per-grover-carlson"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-amarillo"
+    },
+    "places": [
+      {
+        "ref": "loc-casa-blanca"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-informe-warmbrunn-knight",
+      "evt-equipos-alfa",
+      "evt-phalanx"
+    ],
+    "categories": [
+      "politica"
+    ],
+    "tags": [
+      "Casa Blanca",
+      "negación",
+      "elecciones"
+    ],
+    "summary": "Grover Carlson, antiguo jefe de personal de la Casa Blanca, admite que el gobierno recibió el informe Warmbrunn-Knight meses antes de la declaración israelí y que el presidente lo discutió. Decidieron dar una respuesta «mesurada»: los Equipos Alfa, un vídeo informativo para autoridades locales y el apoyo a la aprobación del Phalanx, que sabían que era un placebo. Contar la verdad habría provocado pánico y costado las elecciones. Carlson sostiene que la política consiste en mantener los problemas en un nivel manejable, y que los medios, dependientes del mercado, se encargaron solos de enterrar la noticia.",
+    "context": "Tras la guerra, Carlson trabaja recogiendo estiércol como combustible para una planta de bioconversión en Amarillo.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Culpa"
+    }
+  },
+  {
+    "id": "nar-mary-jo-miller",
+    "title": "Troya, Montana, Estados Unidos",
+    "bookSection": "culpa",
+    "bookOrder": 12,
+    "narratorIds": [
+      "per-mary-jo-miller"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-troya"
+    },
+    "places": [
+      {
+        "ref": "loc-north-county"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-phalanx",
+      "evt-ataque-casa-miller"
+    ],
+    "categories": [
+      "civil",
+      "supervivencia"
+    ],
+    "tags": [
+      "vida cotidiana",
+      "Phalanx",
+      "negación"
+    ],
+    "summary": "Antes de la guerra, las preocupaciones de Mary Jo Miller eran las cuotas del coche, la piscina y los estudios de sus hijos. Apenas veía las noticias y confiaba en el Phalanx, que toda la familia tomaba. Sus hijos, en cambio, mostraban ansiedad sin saber por qué. Una noche, en su casa de North County, cerca de San Diego, dos infectados que huelen a mar rompen el ventanal y la ventana de su hija. Su marido se enfrenta a uno; Mary Jo libera a su hija del otro con una fuerza que ni ella recuerda bien. La familia huye en el coche mientras suena un disparo.",
+    "context": "Mary Jo Miller diseñó Troya, una comunidad fortificada de posguerra inspirada en el modelo israelí de Masada, y fue su primera alcaldesa.",
+    "epilogue": {
+      "interviewLocationId": "loc-troya",
+      "summary": "Mary Jo Miller asume su parte de culpa: en una democracia, todos son responsables. Su generación dejó que la amenaza creciera, pero también la detuvo, y espera que se la recuerde por haber recogido su propio desorden."
+    },
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Culpa; Despedidas"
+    }
+  },
+  {
+    "id": "nar-gavin-blaire",
+    "title": "Base Aérea Nacional Parnell: Memphis, Tennessee, Estados Unidos",
+    "bookSection": "gran-panico",
+    "bookOrder": 13,
+    "narratorIds": [
+      "per-gavin-blaire"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-parnell"
+    },
+    "places": [
+      {
+        "ref": "loc-i80-nebraska"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-exodo-i80"
+    ],
+    "categories": [
+      "desplazamiento",
+      "civil"
+    ],
+    "tags": [
+      "éxodo",
+      "autopista",
+      "dirigible"
+    ],
+    "summary": "Desde el aire, Gavin Blaire describe la huida masiva por la Interestatal 80, entre Lincoln y North Platte. La fila de vehículos se extiende hasta el horizonte: coches, autobuses, tractores, gente subida a los techos y objetos abandonados en las cunetas. Más atrás, el tráfico se mueve un poco más, pero la gente choca y pelea. Unos kilómetros después aparece la causa: un enjambre de muertos avanza entre los coches parados. Muchos conductores quedan atrapados con las puertas bloqueadas por los vehículos vecinos. Lo que más le impresiona es que la columna no iba a ninguna parte: las ciudades de ambos extremos ya estaban infestadas.",
+    "context": "Blaire pilota un dirigible de combate de la Patrulla Aérea Civil; antes de la guerra pilotaba uno publicitario.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "El Gran Pánico"
+    }
+  },
+  {
+    "id": "nar-ajay-shah",
+    "title": "Alang, India",
+    "bookSection": "gran-panico",
+    "bookOrder": 14,
+    "narratorIds": [
+      "per-ajay-shah"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-alang"
+    },
+    "places": [
+      {
+        "ref": "loc-bhavnagar",
+        "order": 1
+      },
+      {
+        "ref": "loc-alang",
+        "order": 2
+      },
+      {
+        "ref": "loc-sir-wilfred-grenfell"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-evacuacion-alang"
+    ],
+    "categories": [
+      "desplazamiento",
+      "supervivencia"
+    ],
+    "tags": [
+      "evacuación por mar",
+      "barcos",
+      "refugiados"
+    ],
+    "summary": "Ajay Shah huye a pie desde Bhavnagar hasta Alang creyendo que allí construyen barcos. En realidad es un desguace: los barcos que hay son cascos a punto de ser desmantelados. En la playa se agolpa una multitud iluminada por los incendios. Un buque intenta remolcar a otro y lo parte en dos, hundiendo a más de mil personas. Algunos barqueros cobran fortunas o eligen a quién suben según el sexo, el color de piel o la casta; otros vuelven una y otra vez a rescatar gente. Ajay intenta llegar nadando a un barco y, cuando está a punto de hundirse, lo sube a bordo la tripulación del Sir Wilfred Grenfell.",
+    "context": "Ajay habla junto a los restos oxidados de los barcos, que siguen en la playa porque no hay fondos para retirarlos.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "El Gran Pánico"
+    }
+  },
+  {
+    "id": "nar-sharon",
+    "title": "Topeka, Kansas, Estados Unidos",
+    "bookSection": "gran-panico",
+    "bookOrder": 15,
+    "narratorIds": [
+      "per-sharon"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-topeka"
+    },
+    "places": [],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-asedio-iglesia"
+    ],
+    "categories": [
+      "civil",
+      "supervivencia"
+    ],
+    "tags": [
+      "niños salvajes",
+      "iglesia",
+      "trauma"
+    ],
+    "summary": "Sharon cuenta, con palabras y gestos de niña pequeña, lo que vivió en una iglesia donde su madre la llevó a esperar a su padre. Había víveres, armas y muchas familias nerviosas; el pastor pedía calma sin éxito. Cuando los muertos llegan, rompen las ventanas y entran en la oscuridad. Sharon reproduce los gemidos, los golpes y los disparos. Para evitar que los niños sean devorados, algunas madres los matan; la suya intenta asfixiarla, pero recibe un disparo antes. Una mujer de manos grandes y suaves la saca al aparcamiento y le grita que corra.",
+    "context": "Sharon vive en un centro de rehabilitación para «niños salvajes». La encontraron en las ruinas de Wichita, pero no se sabe dónde ocurrió lo que relata.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "El Gran Pánico"
+    }
+  },
+  {
+    "id": "nar-maria-zhuganova",
+    "title": "Khuzhir, Isla Olkhon, Lago Baikal, Sagrado Imperio Ruso",
+    "bookSection": "gran-panico",
+    "bookOrder": 16,
+    "narratorIds": [
+      "per-maria-zhuganova"
+    ],
+    "mentionedCharacterIds": [
+      "per-sergei-ryzhkov"
+    ],
+    "interview": {
+      "locationId": "loc-khuzhir"
+    },
+    "places": [
+      {
+        "ref": "reg-osetia-norte"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-diezmo-rusia"
+    ],
+    "categories": [
+      "militar",
+      "conflicto"
+    ],
+    "tags": [
+      "diezmo",
+      "motín",
+      "obediencia"
+    ],
+    "summary": "María Zhuganova era una joven soldado destinada en Osetia del Norte. Casi un mes antes del Gran Pánico, su campamento queda incomunicado y los envían a registrar aldeas buscando «personas rabiosas» sin explicarles nada. Un día, un civil al que llaman «Cara de Rata» mata de un disparo a una niña que se acerca gimiendo. Poco después, un compañero muestra a la tropa una anciana infectada que no muere con puñaladas en el corazón y reclama volver a casa. La protesta termina a tiros. Como castigo, los soldados deben elegir y matar a pedradas a uno de cada diez compañeros. María cree que así el poder los ató con la culpa.",
+    "context": "La entrevista se hace en una sala con un espejo espía; María lleva su viejo uniforme y no le permiten al autor usar su grabadora.",
+    "epilogue": {
+      "interviewLocationId": "loc-khuzhir",
+      "summary": "María espera su octavo hijo en una clínica de natalidad del Estado. Lamenta no haber seguido en el ejército durante la «liberación» de las antiguas repúblicas. Habla sin miedo porque aún es útil: cree que la religión oficial es solo un instrumento de control y que Rusia vuelve a vivir tranquila bajo un nuevo zar."
+    },
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "El Gran Pánico; Despedidas"
+    }
+  },
+  {
+    "id": "nar-t-sean-collins",
+    "title": "Bridgetown, Barbados, Federación de las Indias Occidentales",
+    "bookSection": "gran-panico",
+    "bookOrder": 17,
+    "narratorIds": [
+      "per-t-sean-collins"
+    ],
+    "mentionedCharacterIds": [
+      "per-stanley-macdonald"
+    ],
+    "interview": {
+      "locationId": "loc-bridgetown"
+    },
+    "places": [
+      {
+        "ref": "loc-long-island"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-asalto-mansion"
+    ],
+    "categories": [
+      "civil",
+      "conflicto"
+    ],
+    "tags": [
+      "celebridades",
+      "seguridad privada",
+      "retransmisión en directo"
+    ],
+    "summary": "T. Sean Collins trabajaba como guardaespaldas para un millonario que convirtió su mansión junto al mar en un refugio para famosos. La casa tenía comida para años, agua, energía propia, muros y armas, pero también cámaras que lo emitían todo por internet. Actores, músicos y deportistas llegaron con decenas de asistentes, y los periodistas cubrían cada momento. Una noche saltan las alarmas: no son zombies, sino cientos de personas que han visto la casa en las noticias y buscan refugio. Vuelan la puerta y la mansión se convierte en un caos. Collins decide que no le pagan para matar a gente así y escapa por el mar en una tabla de surf.",
+    "context": "Collins habla en un bar de una «Zona Económica Especial» del Caribe, pensada para quienes buscan una vida de excesos.",
+    "epilogue": {
+      "interviewLocationId": "loc-bridgetown",
+      "summary": "En un bar destrozado de Bridgetown, Collins admite que es adicto a matar. Al volver a la vida civil no podía dejar de pensar en cómo acabar con la gente que tenía delante, así que se unió a un grupo privado de cazadores de zombis. Ahorra con la esperanza de curarse algún día, como un compañero que se retiró a Grecia; si no, teme cómo acabará."
+    },
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "El Gran Pánico; Despedidas"
+    }
+  },
+  {
+    "id": "nar-ahmed-farahnakian",
+    "title": "Ciudad de Hielo, Groenlandia",
+    "bookSection": "gran-panico",
+    "bookOrder": 18,
+    "narratorIds": [
+      "per-ahmed-farahnakian"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-ciudad-de-hielo"
+    },
+    "places": [
+      {
+        "ref": "loc-puente-ketch"
+      },
+      {
+        "ref": "reg-baluchistan"
+      }
+    ],
+    "countries": [
+      "IRN"
+    ],
+    "vesselId": null,
+    "eventIds": [
+      "evt-puente-ketch",
+      "evt-guerra-nuclear-iran-pakistan"
+    ],
+    "categories": [
+      "militar",
+      "conflicto"
+    ],
+    "tags": [
+      "guerra nuclear",
+      "refugiados",
+      "diplomacia"
+    ],
+    "summary": "Ahmed Farahnakian, piloto de la fuerza aérea iraní, explica cómo empezó una guerra nuclear que nadie esperaba. Irán resistía bien la plaga, pero millones de refugiados de la India cruzaban Pakistán y entraban por Baluchistán, muchos infectados. Pakistán rechazó una operación conjunta y los dos países no tenían canales para hablar. Farahnakian bombardea el puente del río Ketch para cortar la principal ruta de refugiados. Pakistán responde atacando un puesto fronterizo; nadie logra transmitir que Irán acepta dejarlo ahí. En tres días de ira y confusión, la guerra convencional se vuelve nuclear y destruye ciudades de ambos países.",
+    "context": "Farahnakian vive en la Ciudad de Hielo, un laberinto de túneles bajo el hielo de Groenlandia casi vacío tras la guerra, porque no tiene otro lugar adonde ir.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "El Gran Pánico"
+    }
+  },
+  {
+    "id": "nar-xolelwa-azania",
+    "title": "Isla Robben, Provincia del Cabo, Estados Unidos de Sudáfrica",
+    "bookSection": "cambiando-la-marea",
+    "bookOrder": 20,
+    "narratorIds": [
+      "per-xolelwa-azania"
+    ],
+    "mentionedCharacterIds": [
+      "per-paul-redeker"
+    ],
+    "interview": {
+      "locationId": "loc-robben"
+    },
+    "places": [
+      {
+        "ref": "loc-drakensberg"
+      },
+      {
+        "ref": "loc-kimberley"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-plan-redeker"
+    ],
+    "categories": [
+      "politica",
+      "militar"
+    ],
+    "tags": [
+      "Plan Redeker",
+      "Plan Naranja",
+      "apartheid"
+    ],
+    "summary": "Xolelwa Azania cuenta la historia de Paul Redeker, el estratega que en los años ochenta rediseñó para el apartheid un plan de supervivencia que decidía a quién salvar y a quién sacrificar. Durante el Gran Pánico sudafricano, agentes de inteligencia lo buscan en su cabaña de Drakensberg y le preguntan si tiene un plan. Lo tiene: retirar al ejército a una zona segura, salvar solo a una parte de la población y dejar a los demás en zonas aisladas como cebo para los muertos. En el búnker de Kimberley el gobierno reacciona con escándalo hasta que el anciano padre de la nueva democracia lo respalda y abraza a Redeker. Ese día Redeker desaparece. Al salir, el autor descubre que el paciente del instituto psiquiátrico al que vino a visitar se llama Paul Redeker.",
+    "context": "Azania escribe una historia de Sudáfrica en guerra. La entrevista se hace en la isla Robben, en un edificio con fuertes medidas de seguridad.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Cambiando la marea"
+    }
+  },
+  {
+    "id": "nar-philip-adler",
+    "title": "Armagh, Irlanda",
+    "bookSection": "cambiando-la-marea",
+    "bookOrder": 21,
+    "narratorIds": [
+      "per-philip-adler"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-armagh"
+    },
+    "places": [
+      {
+        "ref": "loc-hamburgo",
+        "order": 1
+      },
+      {
+        "ref": "loc-schafstedt",
+        "order": 2
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-abandono-hamburgo"
+    ],
+    "categories": [
+      "militar"
+    ],
+    "tags": [
+      "Plan Prochnow",
+      "conciencia",
+      "retirada"
+    ],
+    "summary": "Philip Adler defendía un sector de Hamburgo lleno de refugiados cuando recibe una orden codificada: retirarse al norte del canal de Kiel, casi en Dinamarca, sin llevar ni avisar a los civiles. Educado para anteponer su conciencia a las órdenes, se niega, hasta que el general Lang lo amenaza con juzgar por traición a sus jóvenes soldados. Obedece. Los civiles les gritan cobardes y les arrojan objetos desde los edificios. En la salida se cruza con una unidad «prescindible» que debe cubrir la retirada hasta el final. Adler planea matar a Lang al llegar, pero el general se suicida en cuanto recibe su informe. Hoy lo odia por no cargar con la responsabilidad.",
+    "context": "Adler está de peregrinación con su esposa en Armagh, donde el Papa se refugió durante la guerra. El encuentro con el autor es casual.",
+    "epilogue": {
+      "interviewLocationId": "loc-armagh",
+      "summary": "Philip Adler se despide con una sola idea: al abandonar a aquellas personas a los muertos, perdieron mucho más que vidas."
+    },
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Cambiando la marea; Despedidas"
+    }
+  },
+  {
+    "id": "nar-bohdan-kondratiuk",
+    "title": "Sanatorio para veteranos Yevchenko, Odessa, Ucrania",
+    "bookSection": "cambiando-la-marea",
+    "bookOrder": 22,
+    "narratorIds": [
+      "per-bohdan-kondratiuk"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-odessa"
+    },
+    "places": [
+      {
+        "ref": "loc-lutsk"
+      },
+      {
+        "ref": "loc-rovno"
+      },
+      {
+        "ref": "loc-novogrado"
+      },
+      {
+        "ref": "loc-zhytomyr"
+      },
+      {
+        "ref": "loc-puente-patona"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-gaseo-puente-patona"
+    ],
+    "categories": [
+      "militar",
+      "desplazamiento"
+    ],
+    "tags": [
+      "Kiev",
+      "armas químicas",
+      "evacuación"
+    ],
+    "summary": "Tras cuatro batallas brutales en retirada, la compañía de tanques de Bohdan Kondratiuk llega a Kiev esperando descansar. Pero el gobierno ya ha huido a Crimea y la ciudad se está evacuando. Les ordenan controlar el puente Patona y revisar a cada evacuado en busca de mordeduras, sin perros, sin material antidisturbios y con una multitud aterrorizada. Mientras Kiev arde, aparecen cuatro aviones. Kondratiuk cree que van a bombardear el puente, pero sueltan agente nervioso sobre la multitud. Encerrado en su tanque, ve morir a los evacuados y reanimarse a los que ocultaban una mordedura. Entonces comprende que el gas era un método para separar a los infectados.",
+    "context": "Kondratiuk, considerado un héroe de guerra, está enfermo en un sanatorio de veteranos sin médicos de Odesa.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Cambiando la marea"
+    }
+  },
+  {
+    "id": "nar-sardar-khan",
+    "title": "Palacio de Udaipur, Lago Pichola, Rajastán, India",
+    "bookSection": "cambiando-la-marea",
+    "bookOrder": 24,
+    "narratorIds": [
+      "per-sardar-khan"
+    ],
+    "mentionedCharacterIds": [
+      "per-raj-singh"
+    ],
+    "interview": {
+      "locationId": "loc-udaipur"
+    },
+    "places": [
+      {
+        "ref": "loc-chandigarh"
+      },
+      {
+        "ref": "loc-shimla"
+      },
+      {
+        "ref": "loc-paso-himalaya"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-voladura-paso-himalaya",
+      "evt-parque-gandhi"
+    ],
+    "categories": [
+      "militar",
+      "desplazamiento"
+    ],
+    "tags": [
+      "Himalayas",
+      "sacrificio",
+      "zona segura"
+    ],
+    "summary": "Durante la retirada india hacia los Himalayas, Sardar Khan, un joven soldado de ingenieros de carreteras, termina por casualidad de conductor de un sargento encargado de volar un paso de montaña. El paso sigue lleno de refugiados y una horda enorme viene detrás. El sargento se niega a detonar hasta que llega el general Raj-Singh y explica que, si no lo hacen, la aviación usará un arma nuclear que abriría el paso en lugar de cerrarlo. El detonador falla. El general corre hacia la multitud para activar las cargas a mano. Khan, arrollado por la muchedumbre, despierta bajo un microbús: el camino ha volado y los muertos caen al vacío.",
+    "context": "Khan dirige la reconstrucción del Palacio del Lago de Udaipur, que fue refugio de cientos de personas hasta que una epidemia de cólera las mató.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Cambiando la marea"
+    }
+  },
+  {
+    "id": "nar-arthur-sinclair",
+    "title": "Taos, Nuevo México",
+    "bookSection": "frente-local",
+    "bookOrder": 25,
+    "narratorIds": [
+      "per-arthur-sinclair"
+    ],
+    "mentionedCharacterIds": [
+      "per-travis-dambrosia",
+      "per-roy-elliot",
+      "per-breck-scott"
+    ],
+    "interview": {
+      "locationId": "loc-taos"
+    },
+    "places": [
+      {
+        "ref": "reg-zona-segura-oeste"
+      },
+      {
+        "ref": "loc-los-angeles"
+      }
+    ],
+    "countries": [
+      "USA"
+    ],
+    "vesselId": null,
+    "eventIds": [
+      "evt-destre",
+      "evt-linea-rocosas"
+    ],
+    "categories": [
+      "politica",
+      "civil"
+    ],
+    "tags": [
+      "economía de guerra",
+      "reentrenamiento",
+      "reciclaje",
+      "Lobo"
+    ],
+    "summary": "Arthur Sinclair dirigió el DEstRe, la agencia que debía convertir la zona segura al oeste de las Rocosas en una economía de guerra. Descubre que dos tercios de la población no tienen habilidades útiles: ejecutivos, asesores y analistas que no saben arreglar una ventana. Cierra los campos de refugiados, pone a todos a trabajar y crea un programa de reentrenamiento en el que los obreros e inmigrantes pasan a ser los maestros de la antigua élite. Negocia con rancheros y dueños de coches para reciclar todo lo aprovechable y se enfrenta a los militares por armas caras e inútiles. También reconoce errores, como apostar por un proyecto fallido de micromisiles. Termina señalando el «Lobo», la herramienta de combate que inventaron los marines con acero reciclado.",
+    "context": "Sinclair, hijo de un funcionario del New Deal y antiguo hombre de Wall Street, habla en su casa de Taos.",
+    "epilogue": {
+      "interviewLocationId": "loc-taos",
+      "summary": "Ahora al frente de la comisión que vigila el dinero y los mercados, Sinclair intenta que la gente vuelva a confiar en el dólar, frente al trueque y al peso cubano. Persigue a saqueadores y especuladores, incluido el vendedor del Phalanx. Cree que las cosas mejoran poco a poco, como el clima."
+    },
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Frente local; Despedidas"
+    }
+  },
+  {
+    "id": "nar-el-loco",
+    "title": "Burlington, Vermont",
+    "bookSection": "frente-local",
+    "bookOrder": 26,
+    "narratorIds": [
+      "per-el-loco"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-burlington"
+    },
+    "places": [
+      {
+        "ref": "loc-honolulu"
+      },
+      {
+        "ref": "loc-black-hills"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-gobierno-honolulu",
+      "evt-separatistas",
+      "evt-linea-rocosas"
+    ],
+    "categories": [
+      "politica"
+    ],
+    "tags": [
+      "gobierno de guerra",
+      "elecciones",
+      "separatistas"
+    ],
+    "summary": "El antiguo vicepresidente, al que todos llaman «el Loco», recuerda cómo el gobierno se reorganizó en un Honolulu caótico mientras se formaba la Línea de las Rocosas. Él quería suspender las elecciones; el presidente se negó, porque lo único que le quedaba al país eran sus ideales. Esa lógica guió medidas que parecían bárbaras, como los castigos públicos en lugar de la cárcel, y el rechazo a desterrar a los criminales a zonas infestadas. La mayor amenaza interna fueron los separatistas. A los del oeste los aplastaron sin dudar; a los enclaves abandonados del este les ofrecieron reintegrarse en paz, aunque no siempre funcionó. Recuerda cómo el peso de todo aquello fue consumiendo al presidente.",
+    "context": "La entrevista se hace caminando por la nieve junto a su casa en Vermont; su esposa es también su médica.",
+    "epilogue": {
+      "interviewLocationId": "loc-burlington",
+      "summary": "Ya como presidente, el Loco explica por qué Estados Unidos declaró la victoria en cuanto su territorio quedó limpio: los soldados merecían volver a casa. El resto del trabajo pasó a una fuerza multinacional de la ONU. Aún quedan Zonas Blancas por limpiar y ataques cada primavera, así que, insiste, todos deben seguir ayudando y hacer bien su trabajo."
+    },
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Frente local; Despedidas"
+    }
+  },
+  {
+    "id": "nar-joe-muhammad",
+    "title": "Wenatchee, Washington",
+    "bookSection": "frente-local",
+    "bookOrder": 27,
+    "narratorIds": [
+      "per-joe-muhammad"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-wenatchee"
+    },
+    "places": [
+      {
+        "ref": "reg-zona-segura-oeste"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-vigilancia-comunitaria"
+    ],
+    "categories": [
+      "civil",
+      "supervivencia"
+    ],
+    "tags": [
+      "vigilancia comunitaria",
+      "quislings",
+      "discapacidad"
+    ],
+    "summary": "Joe Muhammad se presenta para los Equipos de Vigilancia Comunitaria y la funcionaria intenta disuadirlo por su silla de ruedas; él le demuestra que no hay razón y consigue su chaqueta naranja. Cuenta cómo patrullaban de noche su barrio: casas vacías, refugiados realojados con desconocidos, ladrones y niños salvajes. Una noche, un zombie sin piernas se agarra a su rueda, y la silla le da el segundo que necesita para disparar. Explica también el fenómeno de los «quislings», personas que enloquecían e imitaban a los muertos: comían gente, pero sangraban y parpadeaban. Su existencia explicó muchos falsos casos de inmunidad, y los zombies de verdad los devoraban igualmente.",
+    "context": "Joe trabaja en un taller de bicicletas y es escultor; su obra más conocida es el Monumento a los Vigilantes Comunitarios de Washington D. C.",
+    "epilogue": {
+      "interviewLocationId": "loc-wenatchee",
+      "summary": "Joe Muhammad cree que la guerra unió a la gente como nunca: en cualquier parte del mundo todos comparten historias parecidas. Sospecha que las próximas generaciones volverán a ser egoístas, pero confía en que no se olvide lo vivido. Del viejo mundo solo echa de menos algunas cosas materiales."
+    },
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Frente local; Despedidas"
+    }
+  },
+  {
+    "id": "nar-roy-elliot",
+    "title": "Malibú, California",
+    "bookSection": "frente-local",
+    "bookOrder": 28,
+    "narratorIds": [
+      "per-roy-elliot"
+    ],
+    "mentionedCharacterIds": [
+      "per-sargento-avalon",
+      "per-arthur-sinclair"
+    ],
+    "interview": {
+      "locationId": "loc-malibu"
+    },
+    "places": [
+      {
+        "ref": "loc-claremont"
+      },
+      {
+        "ref": "loc-los-angeles"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-cinco-universidades",
+      "evt-peliculas-sda"
+    ],
+    "categories": [
+      "civil"
+    ],
+    "tags": [
+      "cine",
+      "esperanza",
+      "propaganda",
+      "SDA"
+    ],
+    "summary": "Tras estabilizarse la Línea de las Rocosas, más de cien personas mueren cada día simplemente porque pierden las ganas de vivir. Roy Elliot, un director famoso convertido en trabajador sin oficio útil, decide combatirlo con películas. Sin ayuda oficial, graba con su hijo el final del asedio de Claremont, donde trescientos estudiantes resistieron a diez mil zombies, y estrena «Victoria en Avalon» en los refugios. Cree que ha fracasado, hasta que descubre que las muertes por desesperanza bajaron donde se proyectó. Con acceso al ejército rueda películas sobre armas láser espectaculares pero inútiles. Defiende esas mentiras como una forma de esperanza.",
+    "context": "Elliot habla en la Fortaleza del Muelle de Malibú, donde la gente lo reconoce pero respeta su espacio.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Frente local"
+    }
+  },
+  {
+    "id": "nar-christina-eliopolis",
+    "title": "Base Aérea de la Guardia Nacional, Parnell, Tennessee",
+    "bookSection": "frente-local",
+    "bookOrder": 29,
+    "narratorIds": [
+      "per-christina-eliopolis"
+    ],
+    "mentionedCharacterIds": [
+      "per-gavin-blaire",
+      "per-arthur-sinclair"
+    ],
+    "interview": {
+      "locationId": "loc-parnell"
+    },
+    "places": [
+      {
+        "ref": "loc-phoenix",
+        "order": 1
+      },
+      {
+        "ref": "loc-atchafalaya",
+        "order": 2
+      },
+      {
+        "ref": "loc-i10-atchafalaya",
+        "order": 3
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-derribo-c130"
+    ],
+    "categories": [
+      "militar",
+      "supervivencia"
+    ],
+    "tags": [
+      "abastecimiento aéreo",
+      "Mets Fan",
+      "soledad"
+    ],
+    "summary": "Christina Eliópolis pasó de pilotar cazas a transportar suministros a las «islas» que resistían en territorio infestado. En un vuelo de Phoenix hacia Florida, su avión se rompe y ella sale despedida. Cae sola en los pantanos de Luisiana, donde encuentra a su copiloto muerto y devorado. Hundida en la culpa, recibe por radio la voz de una observadora civil, «Mets Fan», que la guía hacia la autopista elevada, la calma y la obliga a pelear cuando la rodean. Tras una noche en un árbol y un tobillo roto, llega a la autopista y la recoge un helicóptero. Después descubre que no hay registro de esa observadora y que su radio estaba rota desde la caída.",
+    "context": "Eliópolis, una leyenda por su carácter, comanda el escuadrón de dirigibles de Gavin Blaire y conserva en su oficina el mapa de las zonas que abastecían.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Frente local"
+    }
+  },
+  {
+    "id": "nar-david-allen-forbes",
+    "title": "Provincia de Bohemia, Unión Europea",
+    "bookSection": "alrededor-del-mundo",
+    "bookOrder": 30,
+    "narratorIds": [
+      "per-david-allen-forbes"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-hrad-kost"
+    },
+    "places": [
+      {
+        "ref": "loc-windsor"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [],
+    "categories": [
+      "civil",
+      "supervivencia"
+    ],
+    "tags": [
+      "castillos",
+      "Windsor",
+      "armas medievales"
+    ],
+    "summary": "David Allen Forbes repasa cómo los castillos europeos salvaron o condenaron a quienes se refugiaron en ellos. Muchos palacios eran trampas; en otros, las enfermedades, los incendios o los errores acabaron con los defensores. Otros resistieron durante años aprovechando que el invierno congelaba a los muertos para salir a buscar provisiones. Forbes pasó la guerra en Windsor, un castillo casi perfecto para defenderse: tenía agua propia, sistemas de seguridad modernos y petróleo bajo sus cimientos. Allí aprendió a pelear con un montante. Al final, con dificultad, recuerda a la reina, que se negó a huir y permaneció en Windsor hasta el final para dar ejemplo a su pueblo.",
+    "context": "La entrevista tiene lugar junto al castillo de Kost, en Bohemia, mientras Forbes prepara un libro sobre los castillos de la guerra en el continente.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "nar-barati-palshigar",
+    "title": "Atolón Ulithi, Estados Confederados de Micronesia",
+    "bookSection": "alrededor-del-mundo",
+    "bookOrder": 31,
+    "narratorIds": [
+      "per-barati-palshigar"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-ulithi"
+    },
+    "places": [
+      {
+        "ref": "loc-ulithi"
+      },
+      {
+        "ref": "loc-varanasi"
+      }
+    ],
+    "countries": [],
+    "vesselId": "loc-ural",
+    "eventIds": [
+      "evt-radio-mundo-libre",
+      "evt-zona-blanca-varanasi"
+    ],
+    "categories": [
+      "civil",
+      "supervivencia"
+    ],
+    "tags": [
+      "Radio Mundo Libre",
+      "desinformación",
+      "idiomas"
+    ],
+    "summary": "Para Barati Palshigar, el verdadero enemigo fue la ignorancia. Trabajó como intérprete en el Ural, un viejo buque ruso desde el que Radio Mundo Libre emitía a todo el mundo consejos para filtrar agua, cultivar alimentos o fabricar medicinas, y desmentía mitos sobre los muertos. Con turnos de hasta veinte horas, tuvo que combatir creencias peligrosas de muchas culturas, incluida la suya: la peregrinación a Varanasi convirtió el Ganges en una enorme zona infectada. Reconoce que su vida nunca estuvo en peligro. Los que peor lo pasaron fueron los operadores que recibían la información: escuchaban sin poder responder los gritos de auxilio de millones de personas, y con el tiempo ninguno de ellos sobrevivió a ese recuerdo.",
+    "context": "El Ural es hoy un museo en el atolón Ulithi y protagonista del documental británico Mundos en Guerra, para el que se entrevistó a Palshigar.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "nar-hyungchol-choi",
+    "title": "Zona Desmilitarizada: Corea del Sur",
+    "bookSection": "alrededor-del-mundo",
+    "bookOrder": 32,
+    "narratorIds": [
+      "per-hyungchol-choi"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-panmunjom"
+    },
+    "places": [
+      {
+        "ref": "loc-panmunjom"
+      }
+    ],
+    "countries": [
+      "PRK",
+      "KOR"
+    ],
+    "vesselId": null,
+    "eventIds": [
+      "evt-desaparicion-corea-norte"
+    ],
+    "categories": [
+      "militar",
+      "politica"
+    ],
+    "tags": [
+      "Corea del Norte",
+      "misterio",
+      "inteligencia"
+    ],
+    "summary": "Hyungchol Choi explica que ningún país parecía mejor preparado que Corea del Norte: fronteras naturales, un ejército enorme y una población entrenada para obedecer. Sin embargo, un mes antes de los primeros casos en el sur, el norte cortó todo contacto. Los guardias fronterizos desaparecieron, los espías dejaron de llegar, las radios callaron y los satélites dejaron de ver gente en los campos y las calles. Mientras tanto, Corea del Sur estuvo a punto de hundirse y llegó a planear una evacuación. Choi cree que el miedo histórico al norte ayudó a resistir. Hoy sigue pidiendo una expedición, pero nadie se atreve: la frontera está minada y quizá bajo tierra haya millones de muertos esperando.",
+    "context": "La entrevista se hace frente al paisaje desierto de la zona desmilitarizada. La suerte de la población norcoreana sigue sin conocerse.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "nar-kondo-tatsumi",
+    "title": "Kyoto, Japón",
+    "bookSection": "alrededor-del-mundo",
+    "bookOrder": 33,
+    "narratorIds": [
+      "per-kondo-tatsumi"
+    ],
+    "mentionedCharacterIds": [
+      "per-doctor-komatsu",
+      "per-tomonaga-ijiro"
+    ],
+    "interview": {
+      "locationId": "loc-kyoto"
+    },
+    "places": [
+      {
+        "ref": "loc-kokura"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-evacuacion-japon",
+      "evt-caida-kokura"
+    ],
+    "categories": [
+      "civil",
+      "supervivencia"
+    ],
+    "tags": [
+      "otaku",
+      "evacuación de Japón",
+      "espada"
+    ],
+    "summary": "Kondo Tatsumi era un adolescente que vivía conectado a internet y apenas hablaba con sus padres. Siguió la crisis como un tema de estudio, acumulando datos sobre la evacuación de Japón sin sentirse en peligro. Un día sus padres no volvieron, la red se cayó y descubrió que su edificio de Kokura estaba lleno de muertos. Con cuerdas hechas de sábanas bajó por los balcones, piso a piso, durante tres días, buscando provisiones en los apartamentos vacíos. Casi cae al vacío y tuvo que luchar contra un anciano reanimado. En ese piso encontró una espada militar antigua, cuidada durante décadas, que se convirtió en su arma.",
+    "context": "Kondo es hoy un monje guerrero, segundo al mando de la Sociedad del Escudo. La espada que encontró descansa a su lado durante la entrevista.",
+    "epilogue": {
+      "interviewLocationId": "loc-kyoto",
+      "summary": "La Sociedad del Escudo es reconocida como una rama independiente de las Fuerzas de Defensa de Japón, dedicada a enseñar a los ciudadanos a defenderse sin armas de fuego. Kondo no cree en la espiritualidad de su maestro, pero piensa que Tomonaga ha creado algo necesario para el país, y lo seguirá."
+    },
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él; Despedidas"
+    }
+  },
+  {
+    "id": "nar-tomonaga-ijiro",
+    "title": "Kyoto, Japón",
+    "bookSection": "alrededor-del-mundo",
+    "bookOrder": 34,
+    "narratorIds": [
+      "per-tomonaga-ijiro"
+    ],
+    "mentionedCharacterIds": [
+      "per-kondo-tatsumi"
+    ],
+    "interview": {
+      "locationId": "loc-kyoto"
+    },
+    "places": [
+      {
+        "ref": "loc-sapporo",
+        "order": 1
+      },
+      {
+        "ref": "loc-montes-hidaka",
+        "order": 2
+      },
+      {
+        "ref": "loc-tokachi-dake"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-evacuacion-japon",
+      "evt-sociedad-del-escudo"
+    ],
+    "categories": [
+      "civil",
+      "supervivencia"
+    ],
+    "tags": [
+      "hibakusha",
+      "Hokkaido",
+      "Sociedad del Escudo",
+      "kami"
+    ],
+    "summary": "Tomonaga Ijiro quedó ciego por la bomba de Nagasaki y vivió avergonzado, sintiéndose una carga. Trabajaba como jardinero en un hotel de Sapporo cuando llegaron los rumores de la epidemia. Para no estorbar a nadie, se internó solo en las montañas Hidaka, que conocía de memoria. Allí un oso huyó de algo que se acercaba, y Tomonaga mató a su primer muerto con su pala de jardinero. Entendió que los dioses querían que sobreviviera. Durante meses cazó zombis por el oído y el olfato, enterrando siempre los cuerpos. Antes de su segundo invierno se topó con Kondo, que huía hacia el puerto de evacuación, y le propuso quedarse para cuidar Japón como un jardín.",
+    "context": "La entrevista se hace en la sede de la Sociedad del Escudo; Kondo interviene al final para contar su encuentro desde su lado.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "nar-sergio-garcia-alvarez",
+    "title": "Cienfuegos, Cuba",
+    "bookSection": "alrededor-del-mundo",
+    "bookOrder": 35,
+    "narratorIds": [
+      "per-sergio-garcia-alvarez"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-cienfuegos"
+    },
+    "places": [],
+    "countries": [
+      "CUB"
+    ],
+    "vesselId": null,
+    "eventIds": [
+      "evt-centros-reubicacion-cuba",
+      "evt-arsenal-victoria"
+    ],
+    "categories": [
+      "civil",
+      "politica",
+      "desplazamiento"
+    ],
+    "tags": [
+      "Cuba",
+      "refugiados",
+      "nortecubanos",
+      "democracia"
+    ],
+    "summary": "Sergio García Álvarez sostiene que Cuba ganó la guerra. Aislada y muy controlada, la isla contuvo pronto los primeros casos y, al ser una isla, solo tuvo que defenderse de los barcos de refugiados. Llegaron unos cinco millones, casi todos estadounidenses, que fueron internados en campos de trabajo. Como no había soldados para vigilarlos y proteger la costa a la vez, un sistema de fianzas los fue liberando hasta integrarlos en la sociedad. Cuando el mundo pasó a la ofensiva, Cuba se convirtió en el gran arsenal y puerto de la guerra. El dinero, la nueva clase media y la influencia de los «nortecubanos» trajeron reformas y, al final, elecciones libres.",
+    "context": "La entrevista se hace en un rascacielos de Cienfuegos, con vistas al puerto de una Cuba próspera. El libro no sitúa los campos de reubicación, por eso se pinta el país completo.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "nar-ernesto-holguin",
+    "title": "Ancud, Isla Grande de Chiloé, Chile",
+    "bookSection": "alrededor-del-mundo",
+    "bookOrder": 38,
+    "narratorIds": [
+      "per-ernesto-holguin"
+    ],
+    "mentionedCharacterIds": [
+      "per-emile-renard"
+    ],
+    "interview": {
+      "locationId": "loc-ancud"
+    },
+    "places": [
+      {
+        "ref": "loc-honolulu"
+      }
+    ],
+    "countries": [],
+    "vesselId": "loc-uss-saratoga",
+    "eventIds": [
+      "evt-conferencia-honolulu"
+    ],
+    "categories": [
+      "politica",
+      "militar"
+    ],
+    "tags": [
+      "Conferencia de Honolulu",
+      "Naciones Unidas",
+      "ofensiva"
+    ],
+    "summary": "Ernesto Holguín asistió como agregado naval a la Conferencia de Honolulu, celebrada durante catorce días a bordo del Saratoga. Esperaba hablar de comercio y transporte, pero el embajador estadounidense propuso pasar al ataque y recuperar el planeta. La sala estalló: unos querían esperar a que los muertos se pudrieran y otros acusaban a los países del norte de merecer su suerte. Entonces el presidente estadounidense habló con calma: defenderse había salvado a la especie, pero no al espíritu humano, y había que demostrar que se podía recuperar el mundo. Mientras se votaba, Holguín compartió con sus colegas de Francia y Sudáfrica una botella de vino irrepetible. La ofensiva se aprobó.",
+    "context": "Holguín vive en Chiloé, antigua base de refugio de Chile, y hoy es capitán de un barco mercante. Honolulu marca el lugar de la conferencia; el libro no da la posición del Saratoga.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "nar-travis-dambrosia-ofensiva",
+    "title": "A bordo del Mauro Altieri, a cien metros sobre Vaalajarvi, Finlandia",
+    "bookSection": "guerra-total",
+    "bookOrder": 39,
+    "narratorIds": [
+      "per-travis-dambrosia"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-vaalajarvi"
+    },
+    "places": [],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [],
+    "categories": [
+      "militar"
+    ],
+    "tags": [
+      "guerra total",
+      "estrategia",
+      "ofensiva"
+    ],
+    "summary": "El general D'Ambrosia confiesa que la orden de atacar le dio miedo, lejos del estereotipo del general brutal. Explica por qué esta guerra obligaba a escribir un manual nuevo. Todo ejército humano necesita reclutar, alimentarse y ser dirigido, y los muertos no necesitan nada de eso: cada baja humana puede sumarles un soldado, no comen ni beben, y no tienen líderes ni centros que atacar. Además, ninguna nación humana puede entregarse por completo a la guerra ni resistir sin límite. Los muertos sí: no se cansan, no negocian y no se rinden. Esa «guerra total» de verdad era la que esperaba a los soldados al otro lado de las Rocosas.",
+    "context": "La entrevista se hace a bordo del dirigible de mando europeo que dirige una operación sobre Vaalajarvi. El relato habla de la ofensiva en general y no describe un lugar concreto de la guerra.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total"
+    }
+  },
+  {
+    "id": "nar-darnell-hackworth",
+    "title": "Ainsworth, Nebraska, Estados Unidos",
+    "bookSection": "guerra-total",
+    "bookOrder": 41,
+    "narratorIds": [
+      "per-darnell-hackworth"
+    ],
+    "mentionedCharacterIds": [
+      "per-maze"
+    ],
+    "interview": {
+      "locationId": "loc-ainsworth"
+    },
+    "places": [
+      {
+        "ref": "loc-atlanta",
+        "order": 1
+      },
+      {
+        "ref": "reg-montanas-rocosas",
+        "order": 2
+      },
+      {
+        "ref": "loc-mitchell-oregon",
+        "order": 3
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-ciudad-perro",
+      "evt-batalla-esperanza"
+    ],
+    "categories": [
+      "militar"
+    ],
+    "tags": [
+      "perros",
+      "K-9",
+      "Ciudad Perro"
+    ],
+    "summary": "Darnell Hackworth reivindica el papel de los perros en la guerra. Primero detectaban infectados; después, entrenados desde cachorros para dominar su miedo, sirvieron de cebo, de señuelo y de exploradores con cámaras y GPS. Él trabajó en Mitchell, un pueblo abandonado donde se entrenaba el combate urbano, con Maze, una pequeña perra cruzada que se metía por tuberías y conductos. Cuenta que muchos guías se quitaron la vida tras perder a sus compañeros y que un caso trágico cambió la forma en que el ejército los trataba. A él lo reclutaron cuando, medio muerto de hambre tras huir de Atlanta, atacó a dos hombres que maltrataban a un perro. Antes de la guerra odiaba a los perros.",
+    "context": "Hackworth y su esposa dirigen la última granja de retiro para perros veteranos del país. Maze, ya anciana, duerme en sus rodillas durante la entrevista. El libro no sitúa con precisión la carretera de Colorado donde lo reclutaron.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total"
+    }
+  },
+  {
+    "id": "nar-sergei-ryzhkov",
+    "title": "Siberia, Sagrado Imperio Ruso",
+    "bookSection": "guerra-total",
+    "bookOrder": 42,
+    "narratorIds": [
+      "per-sergei-ryzhkov"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-siberia-ryzhkov"
+    },
+    "places": [
+      {
+        "ref": "loc-ufa",
+        "order": 1
+      },
+      {
+        "ref": "loc-kostroma",
+        "order": 2
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-batalla-ufa",
+      "evt-purificacion-final",
+      "evt-diezmo-rusia"
+    ],
+    "categories": [
+      "militar",
+      "politica"
+    ],
+    "tags": [
+      "Rusia",
+      "religión",
+      "Purificación Final"
+    ],
+    "summary": "El padre Sergei Ryzhkov fue capellán de una división rusa armada con equipo de la época soviética. En la ofensiva, los soldados infectados tenían que morir de un disparo, pero nadie quería hacerlo: cuando lo hicieron los oficiales, muchos se derrumbaron o se suicidaron, y cuando lo hicieron los propios soldados, se suicidaban en grupo. Tras la batalla de Kostromá, en un hospital, Ryzhkov disparó a un muchacho infectado antes de que se matara. Sintió que Dios le pedía evitar que más almas se condenaran, y los sacerdotes asumieron esa tarea. Así empezó el fervor religioso del nuevo Estado. Cuando se le pregunta por los abusos posteriores, guarda silencio.",
+    "context": "Ryzhkov vive en una choza de un poblado pobre de Siberia, lejos de Moscú. La entrevista termina cuando un niño viene a buscarlo y él toma una Biblia y una pistola. El libro no dice dónde está el poblado.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total"
+    }
+  },
+  {
+    "id": "nar-michael-choi",
+    "title": "A bordo del U.S.S. Holo Kai, cerca de las costas de Hawaii",
+    "bookSection": "guerra-total",
+    "bookOrder": 43,
+    "narratorIds": [
+      "per-michael-choi"
+    ],
+    "mentionedCharacterIds": [],
+    "interview": {
+      "locationId": "loc-frente-hawaii"
+    },
+    "places": [
+      {
+        "ref": "loc-troll",
+        "order": 1
+      },
+      {
+        "ref": "loc-bermuda",
+        "order": 2
+      },
+      {
+        "ref": "loc-charleston"
+      },
+      {
+        "ref": "loc-norfolk"
+      },
+      {
+        "ref": "loc-boston"
+      },
+      {
+        "ref": "loc-puerto-nueva-york"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-combate-troll",
+      "evt-desembarco-bermudas",
+      "evt-limpieza-puertos"
+    ],
+    "categories": [
+      "militar"
+    ],
+    "tags": [
+      "buzos",
+      "guerra submarina",
+      "exoesqueleto"
+    ],
+    "summary": "Michael Choi pilota un minisubmarino mientras recuerda su guerra bajo el agua, que para él no ha terminado. Combatió con un traje blindado que lo protegía de la presión y de los muertos, aunque le impedía sentir si lo agarraban. En un ataque por sorpresa contra una plataforma de gas del mar del Norte comprobó lo terrible de pelear a ciegas, y eso llevó a armar mejor a los buzos. Después protegió desembarcos, empezando por Bermudas, y limpió puertos llenos de barcos hundidos, donde una vez cayó en una sala de máquinas repleta de muertos. En la inmersión marcan a un grupo de zombis para seguirlos; uno es radiactivo.",
+    "context": "La entrevista se hace dentro del minisubmarino, en una de las últimas inmersiones tripuladas antes de pasar a vehículos a control remoto. El punto de la entrevista frente a Hawái es aproximado.",
+    "epilogue": {
+      "interviewLocationId": "loc-uss-tracy-bowden",
+      "summary": "Para Michael Choi, las grandes perdedoras de la guerra fueron las ballenas. Millones de personas hambrientas en barcos las cazaron hasta hacer desaparecer a las grandes especies, como la ballena gris de California que él admiraba de joven."
+    },
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total; Despedidas"
+    }
+  },
+  {
+    "id": "nar-andre-renard",
+    "title": "Quebec, Canadá",
+    "bookSection": "guerra-total",
+    "bookOrder": 44,
+    "narratorIds": [
+      "per-andre-renard"
+    ],
+    "mentionedCharacterIds": [
+      "per-emil-renard"
+    ],
+    "interview": {
+      "locationId": "loc-quebec-granja"
+    },
+    "places": [
+      {
+        "ref": "loc-paris-subterraneo"
+      }
+    ],
+    "countries": [],
+    "vesselId": null,
+    "eventIds": [
+      "evt-limpieza-paris"
+    ],
+    "categories": [
+      "militar"
+    ],
+    "tags": [
+      "París",
+      "catacumbas",
+      "combate subterráneo"
+    ],
+    "summary": "André Renard afirma que ninguna campaña fue tan dura como la limpieza del subsuelo de París. Durante el Gran Pánico, unas 250 000 personas se refugiaron en catacumbas, canteras y túneles, y allí quedaron atrapadas con los muertos. Los soldados bajaron casi a ciegas, con máscaras viejas, cables telefónicos para orientarse, el agua hasta la cintura y sin poder disparar por riesgo de explosión. Peleaban cuerpo a cuerpo con armas que él mismo diseñó. En tres meses murieron o desaparecieron quince mil hombres, porque Francia necesitaba héroes. Su hermano menor, Emil, murió con su escuadrón al enfrentarse a cientos de muertos en el lugar llamado «el Hospital».",
+    "context": "Renard vive en una granja sin protección de Quebec y pidió mantener en secreto su ubicación; por eso la entrevista no se marca en el mapa. Nunca ha vuelto a Francia.",
+    "epilogue": null,
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total"
+    }
+  }
+]

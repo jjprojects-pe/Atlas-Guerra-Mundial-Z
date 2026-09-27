@@ -1,0 +1,44 @@
+[
+  {
+    "id": "fase-primeros-brotes",
+    "order": 1,
+    "name": "Primeros brotes",
+    "description": "Los primeros casos y las advertencias ignoradas. Se corresponde con la sección «Advertencias» del libro."
+  },
+  {
+    "id": "fase-negacion",
+    "order": 2,
+    "name": "Negación",
+    "description": "Los gobiernos minimizan la amenaza. Se corresponde con la sección «Culpa» del libro."
+  },
+  {
+    "id": "fase-gran-panico",
+    "order": 3,
+    "name": "El Gran Pánico",
+    "description": "Colapso generalizado, huidas masivas y derrotas militares. Se corresponde con la sección «El Gran Pánico» del libro."
+  },
+  {
+    "id": "fase-estabilizacion",
+    "order": 4,
+    "name": "Estabilización",
+    "description": "Los países aplican estrategias de repliegue y consolidación, como el Plan Redeker. Se corresponde con «Cambiando la marea»."
+  },
+  {
+    "id": "fase-ofensiva",
+    "order": 5,
+    "name": "Ofensiva",
+    "description": "La humanidad pasa al ataque para recuperar el territorio perdido. Se corresponde con «Guerra total»."
+  },
+  {
+    "id": "fase-victoria",
+    "order": 6,
+    "name": "Victoria",
+    "description": "Declaraciones de victoria y cese oficial de las hostilidades."
+  },
+  {
+    "id": "fase-posguerra",
+    "order": 7,
+    "name": "Posguerra",
+    "description": "El presente de las entrevistas: reconstrucción, limpieza y memoria."
+  }
+]

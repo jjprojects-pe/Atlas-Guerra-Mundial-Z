@@ -1,0 +1,1520 @@
+[
+  {
+    "id": "evt-huida-qingdao",
+    "name": "Huida del Almirante Zheng He desde Qingdao",
+    "category": "desplazamiento",
+    "phaseId": "fase-gran-panico",
+    "timeNote": "Tras tres meses de preparativos, con Qingdao sitiada",
+    "places": [
+      {
+        "ref": "loc-qingdao"
+      }
+    ],
+    "characterIds": [
+      "per-capitan-chen",
+      "per-xu-zhicai"
+    ],
+    "description": "La tripulación zarpa en una supuesta patrulla de rutina con sus familias escondidas a bordo.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "evt-nordic-empress",
+    "name": "El crucero infestado Nordic Empress",
+    "category": "descubrimiento",
+    "phaseId": "fase-gran-panico",
+    "timeNote": "Durante los meses en que el submarino solo observaba el mundo",
+    "places": [
+      {
+        "ref": "loc-frente-a-dakar"
+      }
+    ],
+    "characterIds": [
+      "per-xu-zhicai",
+      "per-capitan-chen"
+    ],
+    "description": "Desde el periscopio ven un crucero lleno de zombies; el capitán descarta abordarlo.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "evt-busqueda-tierra-guayanas",
+    "name": "Búsqueda de tierra fértil en la costa de las Guayanas",
+    "category": "supervivencia",
+    "phaseId": null,
+    "timeNote": "Cuando empiezan a escasear la comida y las medicinas",
+    "places": [
+      {
+        "ref": "reg-costa-guayanas"
+      }
+    ],
+    "characterIds": [
+      "per-xu-zhicai",
+      "per-capitan-chen"
+    ],
+    "description": "La sirena del submarino atrae a cientos de zombies a la playa y se descarta desembarcar.",
+    "status": "confirmado",
+    "pending": [
+      "phaseId"
+    ],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "evt-estancia-manihi",
+    "name": "Estancia en el atolón de Manihi",
+    "category": "supervivencia",
+    "phaseId": null,
+    "timeNote": "Varios meses",
+    "places": [
+      {
+        "ref": "loc-manihi"
+      }
+    ],
+    "characterIds": [
+      "per-xu-zhicai",
+      "per-song"
+    ],
+    "description": "El submarino alquila la energía de su reactor a la comunidad de refugiados a cambio de provisiones.",
+    "status": "confirmado",
+    "pending": [
+      "phaseId"
+    ],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "evt-combate-tipo-95",
+    "name": "Ataque en Manihi y combate contra un submarino Tipo 95",
+    "category": "conflicto",
+    "phaseId": "fase-estabilizacion",
+    "timeNote": "La misma noche en que llegan rumores de un desastre en China (la presa de las Tres Gargantas)",
+    "places": [
+      {
+        "ref": "loc-manihi"
+      }
+    ],
+    "characterIds": [
+      "per-xu-zhicai",
+      "per-capitan-chen",
+      "per-song"
+    ],
+    "description": "Un misil destruye un buque del atolón; el Zheng He hunde al submarino atacante.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "evt-colapso-tres-gargantas",
+    "name": "Colapso de la presa de las Tres Gargantas",
+    "category": "catastrofe",
+    "phaseId": "fase-estabilizacion",
+    "timeNote": "Precede a la guerra civil china",
+    "places": [
+      {
+        "ref": "loc-presa-tres-gargantas"
+      }
+    ],
+    "characterIds": [
+      "per-terry-knox"
+    ],
+    "description": "Terry Knox lo observa desde la órbita; en Manihi solo llegan rumores. Desencadena la rebelión en China.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "evt-reencuentro-artico",
+    "name": "Encuentro con el submarino del comandante Chen Zhi Xiao",
+    "category": "descubrimiento",
+    "phaseId": "fase-estabilizacion",
+    "timeNote": "Muchos meses después del combate en Manihi",
+    "places": [
+      {
+        "ref": "loc-oceano-artico"
+      }
+    ],
+    "characterIds": [
+      "per-chen-zhi-xiao",
+      "per-capitan-chen",
+      "per-xu-zhicai"
+    ],
+    "description": "El hijo del capitán, aliado con los rebeldes, les explica la guerra civil y les pide volver.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "evt-ataque-xilinhot",
+    "name": "Ataque nuclear contra el búnker de Xilinhot",
+    "category": "operacion-militar",
+    "phaseId": "fase-estabilizacion",
+    "timeNote": "Durante la guerra civil china, antes de que China aplique su versión del Plan Sudafricano",
+    "places": [
+      {
+        "ref": "loc-xilinhot"
+      }
+    ],
+    "characterIds": [
+      "per-capitan-chen",
+      "per-xu-zhicai",
+      "per-chen-zhi-xiao"
+    ],
+    "description": "Un misil lanzado desde el Zheng He destruye el búnker del Politburó y termina la guerra civil.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "evt-yonkers",
+    "name": "Batalla de Yonkers",
+    "category": "conflicto",
+    "phaseId": "fase-gran-panico",
+    "timeNote": "Unos tres meses después del inicio del Gran Pánico, en verano",
+    "places": [
+      {
+        "ref": "loc-yonkers"
+      }
+    ],
+    "characterIds": [
+      "per-todd-wainio",
+      "per-terry-knox"
+    ],
+    "description": "El ejército intenta frenar la horda que sale de Nueva York y su línea se derrumba. Terry Knox la observa desde la órbita.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "El Gran Pánico"
+    }
+  },
+  {
+    "id": "evt-huida-al-norte",
+    "name": "Huida de la familia Hendricks hacia el norte",
+    "category": "desplazamiento",
+    "phaseId": "fase-gran-panico",
+    "timeNote": "Agosto, dos semanas después de Yonkers y tres días después de que el gobierno se retirara a la costa oeste",
+    "places": [
+      {
+        "ref": "loc-waukesha"
+      },
+      {
+        "ref": "loc-sand-lakes"
+      }
+    ],
+    "characterIds": [
+      "per-jesika-hendricks",
+      "per-patty"
+    ],
+    "description": "La familia sale de Waukesha en furgoneta y acampa junto a un lago en el norte.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Cambiando la marea"
+    }
+  },
+  {
+    "id": "evt-invierno-campamento",
+    "name": "Primer invierno en el campamento del norte",
+    "category": "supervivencia",
+    "phaseId": "fase-gran-panico",
+    "timeNote": "De septiembre a mediados de julio; el invierno fuerte llega en diciembre",
+    "places": [
+      {
+        "ref": "loc-sand-lakes"
+      }
+    ],
+    "characterIds": [
+      "per-jesika-hendricks"
+    ],
+    "description": "Hambre, enfermedades y violencia entre los refugiados durante el primer invierno gris.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Cambiando la marea"
+    }
+  },
+  {
+    "id": "evt-recuperacion-silvestre",
+    "name": "Proyecto de Recuperación Silvestre",
+    "category": "otro",
+    "phaseId": "fase-posguerra",
+    "timeNote": "Cada verano desde el cese oficial de las hostilidades",
+    "places": [
+      {
+        "ref": "loc-sand-lakes"
+      }
+    ],
+    "characterIds": [
+      "per-jesika-hendricks"
+    ],
+    "description": "Voluntarios limpian la región de restos y de zombies que se descongelan.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Cambiando la marea; Despedidas"
+    }
+  },
+  {
+    "id": "evt-batalla-esperanza",
+    "name": "Batalla de Esperanza",
+    "category": "conflicto",
+    "phaseId": "fase-ofensiva",
+    "timeNote": "Primera gran batalla a campo abierto desde Yonkers; empieza a las 13:00 y termina cerca del amanecer",
+    "places": [
+      {
+        "ref": "loc-esperanza"
+      }
+    ],
+    "characterIds": [
+      "per-todd-wainio",
+      "per-hermana-montoya"
+    ],
+    "description": "Prueba de la nueva doctrina de combate del ejército estadounidense. Se considera «el comienzo del fin».",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total"
+    }
+  },
+  {
+    "id": "evt-camino-nueva-york",
+    "name": "Campaña «El camino a Nueva York»",
+    "category": "operacion-militar",
+    "phaseId": "fase-ofensiva",
+    "timeNote": "Tres años",
+    "places": [],
+    "characterIds": [
+      "per-todd-wainio",
+      "per-doctor-chandra",
+      "per-sargento-avalon"
+    ],
+    "description": "Avance del ejército estadounidense en tres grupos desde las Rocosas hasta el Atlántico.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total"
+    }
+  },
+  {
+    "id": "evt-torre-sears",
+    "name": "Asalto a la Torre Sears",
+    "category": "conflicto",
+    "phaseId": "fase-ofensiva",
+    "timeNote": "A mitad del invierno",
+    "places": [
+      {
+        "ref": "loc-chicago-torre-sears"
+      }
+    ],
+    "characterIds": [
+      "per-todd-wainio"
+    ],
+    "description": "Sobrevivientes atrincherados en la torre disparan contra el ejército.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total"
+    }
+  },
+  {
+    "id": "evt-foso-detroit",
+    "name": "Liberación de la zona aislada de Detroit",
+    "category": "conflicto",
+    "phaseId": "fase-ofensiva",
+    "timeNote": "Tres días seguidos de combate",
+    "places": [
+      {
+        "ref": "loc-detroit-comerica"
+      }
+    ],
+    "characterIds": [
+      "per-todd-wainio"
+    ],
+    "description": "Rescate de los refugiados de Comerica Park y Ford Field.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total"
+    }
+  },
+  {
+    "id": "evt-declaracion-victoria",
+    "name": "Se declara la victoria en Estados Unidos",
+    "category": "otro",
+    "phaseId": "fase-victoria",
+    "timeNote": "Al amanecer, tras cruzar el Hudson",
+    "places": [
+      {
+        "ref": "loc-orilla-jersey"
+      }
+    ],
+    "characterIds": [
+      "per-todd-wainio"
+    ],
+    "description": "El escuadrón de Todd Wainio recibe la noticia frente a Nueva York.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Despedidas"
+    }
+  },
+  {
+    "id": "evt-eei-en-orbita",
+    "name": "La tripulación de la EEI se queda en órbita",
+    "category": "supervivencia",
+    "phaseId": null,
+    "timeNote": "Cuando la tripulación de reemplazo no puede despegar de Baikonur",
+    "places": [
+      {
+        "ref": "loc-eei"
+      }
+    ],
+    "characterIds": [
+      "per-terry-knox"
+    ],
+    "description": "Mantienen en órbita los satélites vitales para la guerra.",
+    "status": "confirmado",
+    "pending": [
+      "phaseId"
+    ],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "evt-yang-liwei",
+    "name": "Abordaje de la estación espacial Yang Liwei",
+    "category": "descubrimiento",
+    "phaseId": "fase-estabilizacion",
+    "timeNote": "Dos semanas después del comienzo de la revolución china",
+    "places": [
+      {
+        "ref": "loc-yang-liwei"
+      }
+    ],
+    "characterIds": [
+      "per-terry-knox",
+      "per-zhai"
+    ],
+    "description": "Knox descubre que la estación china es una bomba orbital y aprovecha sus provisiones.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "evt-paciente-cero-dachang",
+    "name": "El «paciente cero» de Nuevo Dachang",
+    "category": "brote",
+    "phaseId": "fase-primeros-brotes",
+    "timeNote": "Uno de los primeros brotes que cuenta el libro",
+    "places": [
+      {
+        "ref": "loc-nuevo-dachang"
+      }
+    ],
+    "characterIds": [
+      "per-kwang-jingshu",
+      "per-gu-wen-kuei"
+    ],
+    "description": "Un niño mordido al bucear en las ruinas sumergidas del Viejo Dachang infecta a varios aldeanos; el gobierno chino oculta el caso.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias"
+    }
+  },
+  {
+    "id": "evt-contrabando-kashi",
+    "name": "Contrabando de refugiados desde Kashi",
+    "category": "desplazamiento",
+    "phaseId": "fase-primeros-brotes",
+    "timeNote": "Mientras China oculta la plaga",
+    "places": [
+      {
+        "ref": "loc-kashi"
+      },
+      {
+        "ref": "reg-asia-central"
+      }
+    ],
+    "characterIds": [
+      "per-nury-televaldi"
+    ],
+    "description": "El tráfico ilegal de personas, algunas infectadas, ayuda a extender la plaga fuera de China.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias"
+    }
+  },
+  {
+    "id": "evt-caverna-kirguistan",
+    "name": "La caverna de los traficantes en Kirguistán",
+    "category": "descubrimiento",
+    "phaseId": "fase-primeros-brotes",
+    "timeNote": "Antes del primer contagio reportado en Ciudad del Cabo",
+    "places": [],
+    "countries": [
+      "KGZ"
+    ],
+    "characterIds": [
+      "per-stanley-macdonald"
+    ],
+    "description": "Soldados canadienses encuentran una cueva de traficantes arrasada desde dentro por un infectado.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias"
+    }
+  },
+  {
+    "id": "evt-trasplante-muller",
+    "name": "El trasplante de corazón infectado",
+    "category": "brote",
+    "phaseId": "fase-primeros-brotes",
+    "timeNote": "Años antes del Gran Pánico",
+    "places": [
+      {
+        "ref": "loc-rio"
+      }
+    ],
+    "characterIds": [
+      "per-fernando-oliveira"
+    ],
+    "description": "Un paciente recibe en Río un corazón traído de China y se reanima poco después de la operación.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias"
+    }
+  },
+  {
+    "id": "evt-brote-kayelitsha",
+    "name": "Brote de Kayelitsha (Ciudad del Cabo)",
+    "category": "brote",
+    "phaseId": "fase-primeros-brotes",
+    "timeNote": "El primer contagio reportado en Ciudad del Cabo",
+    "places": [
+      {
+        "ref": "loc-kayelitsha"
+      },
+      {
+        "ref": "loc-groote-schuur"
+      }
+    ],
+    "characterIds": [
+      "per-jacob-nyathi"
+    ],
+    "description": "Un ataque nocturno en el barrio de Kayelitsha; las autoridades lo llaman «rabia».",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias"
+    }
+  },
+  {
+    "id": "evt-informe-warmbrunn-knight",
+    "name": "El informe Warmbrunn-Knight",
+    "category": "descubrimiento",
+    "phaseId": "fase-primeros-brotes",
+    "timeNote": "Llega a la Casa Blanca tres meses antes de la declaración israelí",
+    "places": [
+      {
+        "ref": "loc-bethesda"
+      }
+    ],
+    "characterIds": [
+      "per-jurgen-warmbrunn",
+      "per-paul-knight"
+    ],
+    "description": "Informe de menos de cien páginas que describe la amenaza y cómo contenerla. Casi nadie lo aplica.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias; Culpa"
+    }
+  },
+  {
+    "id": "evt-brote-kuwait",
+    "name": "Brotes del Hospital Amiri y de Al-Jahra",
+    "category": "brote",
+    "phaseId": "fase-primeros-brotes",
+    "timeNote": "Antes y después de la declaración israelí",
+    "places": [
+      {
+        "ref": "loc-kuwait"
+      }
+    ],
+    "characterIds": [
+      "per-saladin-kader"
+    ],
+    "description": "El padre de Kader presencia el primer contagio en el hospital donde trabaja.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias"
+    }
+  },
+  {
+    "id": "evt-cuarentena-israel",
+    "name": "Israel anuncia la «cuarentena voluntaria»",
+    "category": "evacuacion",
+    "phaseId": "fase-negacion",
+    "timeNote": "Justo después de que la CIA traslada a Bob Archer",
+    "places": [
+      {
+        "ref": "loc-taba"
+      },
+      {
+        "ref": "loc-yerohan"
+      }
+    ],
+    "countries": [
+      "ISR"
+    ],
+    "characterIds": [
+      "per-saladin-kader",
+      "per-jurgen-warmbrunn"
+    ],
+    "description": "Israel se aísla, se retira de los territorios ocupados y ofrece asilo a judíos y palestinos, a los que somete a controles médicos.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias; Culpa"
+    }
+  },
+  {
+    "id": "evt-guerra-civil-israeli",
+    "name": "Guerra civil israelí",
+    "category": "conflicto",
+    "phaseId": "fase-negacion",
+    "timeNote": "Tres semanas después de la llegada de la familia Kader",
+    "places": [
+      {
+        "ref": "loc-beer-sheva"
+      }
+    ],
+    "characterIds": [
+      "per-saladin-kader"
+    ],
+    "description": "Grupos ultraortodoxos se rebelan contra la retirada y la repatriación de palestinos; el ejército israelí se impone.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias"
+    }
+  },
+  {
+    "id": "evt-maskirovka-taiwan",
+    "name": "La crisis de Taiwán como engaño",
+    "category": "otro",
+    "phaseId": "fase-primeros-brotes",
+    "timeNote": "Al mismo tiempo que empieza la epidemia en China",
+    "places": [],
+    "countries": [
+      "TWN"
+    ],
+    "characterIds": [
+      "per-bob-archer"
+    ],
+    "description": "Según Archer, China fabrica una crisis con Taiwán para ocultar sus redadas contra la plaga.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Culpa"
+    }
+  },
+  {
+    "id": "evt-equipos-alfa",
+    "name": "Los Equipos Alfa",
+    "category": "operacion-militar",
+    "phaseId": "fase-negacion",
+    "timeNote": "Fase Uno del plan militar; la Fase Dos nunca empieza",
+    "places": [],
+    "characterIds": [
+      "per-travis-dambrosia",
+      "per-grover-carlson"
+    ],
+    "description": "Unidades de fuerzas especiales enviadas a eliminar focos de infección en secreto.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Culpa"
+    }
+  },
+  {
+    "id": "evt-phalanx",
+    "name": "El Phalanx, la falsa vacuna",
+    "category": "otro",
+    "phaseId": "fase-negacion",
+    "timeNote": "Aprobada en menos de dos meses; se vende hasta que la prensa revela que no sirve",
+    "places": [],
+    "countries": [
+      "USA"
+    ],
+    "characterIds": [
+      "per-breck-scott",
+      "per-grover-carlson",
+      "per-mary-jo-miller"
+    ],
+    "description": "Vacuna contra la rabia vendida como protección contra la plaga. Su descubrimiento contribuye a desatar el Gran Pánico.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Culpa"
+    }
+  },
+  {
+    "id": "evt-ataque-casa-miller",
+    "name": "Ataque a la casa de los Miller",
+    "category": "ataque",
+    "phaseId": "fase-gran-panico",
+    "timeNote": "Una noche de partido; los atacantes huelen a mar",
+    "places": [
+      {
+        "ref": "loc-north-county"
+      }
+    ],
+    "characterIds": [
+      "per-mary-jo-miller"
+    ],
+    "description": "Dos infectados irrumpen en la casa familiar; la familia huye en coche.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Culpa"
+    }
+  },
+  {
+    "id": "evt-exodo-i80",
+    "name": "El atasco mortal de la Interestatal 80",
+    "category": "desplazamiento",
+    "phaseId": "fase-gran-panico",
+    "timeNote": "Durante el Gran Pánico",
+    "places": [
+      {
+        "ref": "loc-i80-nebraska"
+      }
+    ],
+    "characterIds": [
+      "per-gavin-blaire"
+    ],
+    "description": "Una fila interminable de refugiados atrapada entre ciudades infestadas mientras un enjambre avanza entre los coches.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "El Gran Pánico"
+    }
+  },
+  {
+    "id": "evt-evacuacion-alang",
+    "name": "La huida hacia los barcos de Alang",
+    "category": "evacuacion",
+    "phaseId": "fase-gran-panico",
+    "timeNote": "Una noche durante el Gran Pánico",
+    "places": [
+      {
+        "ref": "loc-alang"
+      }
+    ],
+    "characterIds": [
+      "per-ajay-shah"
+    ],
+    "description": "Miles de personas intentan subir a los barcos para desguace; muchos mueren ahogados o atacados desde el agua.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "El Gran Pánico"
+    }
+  },
+  {
+    "id": "evt-asedio-iglesia",
+    "name": "El asedio de la iglesia",
+    "category": "ataque",
+    "phaseId": "fase-gran-panico",
+    "timeNote": "Durante el Gran Pánico",
+    "places": [],
+    "characterIds": [
+      "per-sharon"
+    ],
+    "description": "Los refugiados de una iglesia son atacados; las madres matan a sus hijos para que no los alcancen.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "El Gran Pánico"
+    }
+  },
+  {
+    "id": "evt-diezmo-rusia",
+    "name": "Motín y diezmo en el ejército ruso",
+    "category": "conflicto",
+    "phaseId": "fase-gran-panico",
+    "timeNote": "El campamento queda aislado casi un mes antes de que empiece el Gran Pánico",
+    "places": [
+      {
+        "ref": "reg-osetia-norte"
+      }
+    ],
+    "characterIds": [
+      "per-maria-zhuganova"
+    ],
+    "description": "Tras una revuelta, los soldados deben elegir y ejecutar a uno de cada diez compañeros.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "El Gran Pánico"
+    }
+  },
+  {
+    "id": "evt-asalto-mansion",
+    "name": "El asalto a la mansión de las celebridades",
+    "category": "ataque",
+    "phaseId": "fase-gran-panico",
+    "timeNote": "Una noche en que la casa sale en las noticias",
+    "places": [
+      {
+        "ref": "loc-long-island"
+      }
+    ],
+    "characterIds": [
+      "per-t-sean-collins"
+    ],
+    "description": "Una multitud de vivos, atraída por la retransmisión en directo, asalta el refugio de lujo.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "El Gran Pánico"
+    }
+  },
+  {
+    "id": "evt-puente-ketch",
+    "name": "Bombardeo del puente del río Ketch",
+    "category": "operacion-militar",
+    "phaseId": "fase-gran-panico",
+    "timeNote": "Para frenar la llegada de refugiados a Irán",
+    "places": [
+      {
+        "ref": "loc-puente-ketch"
+      },
+      {
+        "ref": "reg-baluchistan"
+      }
+    ],
+    "characterIds": [
+      "per-ahmed-farahnakian"
+    ],
+    "description": "Irán destruye un puente en suelo pakistaní para cortar el flujo de refugiados; Pakistán responde atacando un puesto fronterizo.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "El Gran Pánico"
+    }
+  },
+  {
+    "id": "evt-guerra-nuclear-iran-pakistan",
+    "name": "Guerra nuclear entre Irán y Pakistán",
+    "category": "ataque",
+    "phaseId": "fase-gran-panico",
+    "timeNote": "Tras tres días de guerra convencional",
+    "places": [
+      {
+        "ref": "loc-teheran"
+      },
+      {
+        "ref": "loc-qom"
+      },
+      {
+        "ref": "loc-bandar-abbas"
+      },
+      {
+        "ref": "loc-islamabad"
+      },
+      {
+        "ref": "loc-lahore"
+      },
+      {
+        "ref": "loc-faisalabad"
+      },
+      {
+        "ref": "loc-ormara"
+      }
+    ],
+    "characterIds": [
+      "per-ahmed-farahnakian",
+      "per-terry-knox"
+    ],
+    "description": "Sin canales diplomáticos entre ambos países, la escalada termina en un intercambio nuclear cuya nube radiactiva llega hasta América.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "El Gran Pánico; Alrededor del mundo"
+    }
+  },
+  {
+    "id": "evt-plan-redeker",
+    "name": "Adopción del Plan Redeker",
+    "category": "operacion-militar",
+    "phaseId": "fase-estabilizacion",
+    "timeNote": "Durante el Gran Pánico sudafricano, semanas antes que el de Estados Unidos",
+    "places": [
+      {
+        "ref": "loc-kimberley"
+      },
+      {
+        "ref": "loc-drakensberg"
+      }
+    ],
+    "characterIds": [
+      "per-paul-redeker",
+      "per-xolelwa-azania"
+    ],
+    "description": "Retirada a zonas seguras y abandono de parte de la población como cebo. El modelo se copia en todo el mundo.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Cambiando la marea"
+    }
+  },
+  {
+    "id": "evt-abandono-hamburgo",
+    "name": "Retirada de Hamburgo (Plan Prochnow)",
+    "category": "operacion-militar",
+    "phaseId": "fase-estabilizacion",
+    "timeNote": "Orden codificada con mapas de la Guerra Fría",
+    "places": [
+      {
+        "ref": "loc-hamburgo"
+      },
+      {
+        "ref": "loc-schafstedt"
+      }
+    ],
+    "characterIds": [
+      "per-philip-adler"
+    ],
+    "description": "Las tropas alemanas abandonan a los civiles y se retiran al norte del canal; unidades «prescindibles» cubren la retirada.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Cambiando la marea"
+    }
+  },
+  {
+    "id": "evt-gaseo-puente-patona",
+    "name": "El gaseo del puente Patona",
+    "category": "ataque",
+    "phaseId": "fase-gran-panico",
+    "timeNote": "Durante la evacuación de Kiev hacia Crimea",
+    "places": [
+      {
+        "ref": "loc-puente-patona"
+      }
+    ],
+    "characterIds": [
+      "per-bohdan-kondratiuk"
+    ],
+    "description": "La aviación rocía con agente nervioso a los evacuados para separar a los infectados, que se reaniman.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Cambiando la marea"
+    }
+  },
+  {
+    "id": "evt-parque-gandhi",
+    "name": "El cuadrado de Raj-Singh en el Parque Gandhi",
+    "category": "conflicto",
+    "phaseId": "fase-gran-panico",
+    "timeNote": "Tras intentar rescatar a los civiles del estadio Ambedkar",
+    "places": [
+      {
+        "ref": "loc-parque-gandhi"
+      }
+    ],
+    "characterIds": [
+      "per-raj-singh",
+      "per-terry-knox"
+    ],
+    "description": "Las tropas del general forman en cuadrado hasta quedarse sin munición; sus hombres lo sacan inconsciente en helicóptero.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Cambiando la marea; Alrededor del mundo"
+    }
+  },
+  {
+    "id": "evt-voladura-paso-himalaya",
+    "name": "La voladura del paso del Himalaya",
+    "category": "operacion-militar",
+    "phaseId": "fase-gran-panico",
+    "timeNote": "Durante la retirada india hacia los Himalayas",
+    "places": [
+      {
+        "ref": "loc-paso-himalaya"
+      }
+    ],
+    "characterIds": [
+      "per-raj-singh",
+      "per-sardar-khan"
+    ],
+    "description": "El general Raj-Singh detona a mano las cargas para cerrar el paso a la horda.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Cambiando la marea"
+    }
+  },
+  {
+    "id": "evt-linea-rocosas",
+    "name": "La Línea de las Montañas Rocosas",
+    "category": "operacion-militar",
+    "phaseId": "fase-estabilizacion",
+    "timeNote": "Tras la gran retirada al oeste",
+    "places": [
+      {
+        "ref": "reg-montanas-rocosas"
+      }
+    ],
+    "characterIds": [
+      "per-arthur-sinclair",
+      "per-el-loco"
+    ],
+    "description": "Estados Unidos se repliega detrás de las Rocosas, siguiendo la lógica del Plan Redeker.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Frente local"
+    }
+  },
+  {
+    "id": "evt-destre",
+    "name": "El DEstRe reorganiza el país",
+    "category": "otro",
+    "phaseId": "fase-estabilizacion",
+    "timeNote": "Primeros meses tras establecer la zona segura",
+    "places": [
+      {
+        "ref": "reg-zona-segura-oeste"
+      },
+      {
+        "ref": "loc-los-angeles"
+      }
+    ],
+    "characterIds": [
+      "per-arthur-sinclair"
+    ],
+    "description": "Reentrenamiento masivo de la población, fin de los campos de refugiados, reciclaje industrial y control de los proyectos militares.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Frente local"
+    }
+  },
+  {
+    "id": "evt-gobierno-honolulu",
+    "name": "El gobierno en Honolulu",
+    "category": "otro",
+    "phaseId": "fase-estabilizacion",
+    "timeNote": "Mientras la Línea de las Rocosas apenas se formaba",
+    "places": [
+      {
+        "ref": "loc-honolulu"
+      }
+    ],
+    "characterIds": [
+      "per-el-loco"
+    ],
+    "description": "El nuevo presidente se niega a suspender las elecciones e impone castigos públicos en lugar de cárceles.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Frente local"
+    }
+  },
+  {
+    "id": "evt-separatistas",
+    "name": "La reintegración de los separatistas",
+    "category": "conflicto",
+    "phaseId": "fase-ofensiva",
+    "timeNote": "Al recuperar el territorio perdido",
+    "places": [
+      {
+        "ref": "loc-black-hills"
+      }
+    ],
+    "characterIds": [
+      "per-el-loco",
+      "per-todd-wainio"
+    ],
+    "description": "Los enclaves que se sintieron abandonados reciben la opción de reintegrarse en paz; algunos terminan en combate.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Frente local; Guerra total"
+    }
+  },
+  {
+    "id": "evt-vigilancia-comunitaria",
+    "name": "Los Equipos de Vigilancia Comunitaria",
+    "category": "supervivencia",
+    "phaseId": "fase-estabilizacion",
+    "timeNote": "Sobre todo el primer año en la zona segura",
+    "places": [
+      {
+        "ref": "reg-zona-segura-oeste"
+      }
+    ],
+    "characterIds": [
+      "per-joe-muhammad"
+    ],
+    "description": "Voluntarios patrullan de noche sus barrios en busca de zombies, ladrones, niños salvajes y «quislings».",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Frente local"
+    }
+  },
+  {
+    "id": "evt-cinco-universidades",
+    "name": "La Batalla de las Cinco Universidades",
+    "category": "conflicto",
+    "phaseId": "fase-estabilizacion",
+    "timeNote": "Cuatro meses de asedio, desde el comienzo del Gran Pánico",
+    "places": [
+      {
+        "ref": "loc-claremont"
+      }
+    ],
+    "characterIds": [
+      "per-roy-elliot",
+      "per-sargento-avalon"
+    ],
+    "description": "Trescientos estudiantes resisten a diez mil zombies. Roy Elliot filma el final y convierte la historia en la película «Victoria en Avalon».",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Frente local"
+    }
+  },
+  {
+    "id": "evt-peliculas-sda",
+    "name": "Películas contra el Síndrome de Depresión Apocalíptica",
+    "category": "otro",
+    "phaseId": "fase-estabilizacion",
+    "timeNote": "Cuando morían más de cien personas al día por desesperanza",
+    "places": [
+      {
+        "ref": "loc-los-angeles"
+      }
+    ],
+    "characterIds": [
+      "per-roy-elliot"
+    ],
+    "description": "Los documentales de Elliot reducen de forma medible las muertes por desesperanza en la zona segura.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Frente local"
+    }
+  },
+  {
+    "id": "evt-derribo-c130",
+    "name": "La caída del avión de Christina Eliópolis",
+    "category": "supervivencia",
+    "phaseId": "fase-estabilizacion",
+    "timeNote": "Finales de octubre, en una misión hacia la Zona Azul de Tallahassee",
+    "places": [
+      {
+        "ref": "loc-atchafalaya"
+      },
+      {
+        "ref": "loc-i10-atchafalaya"
+      }
+    ],
+    "characterIds": [
+      "per-christina-eliopolis"
+    ],
+    "description": "Sola en el pantano, sobrevive guiada por la voz de una misteriosa observadora de radio.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Frente local"
+    }
+  },
+  {
+    "id": "evt-radio-mundo-libre",
+    "name": "Radio Mundo Libre",
+    "category": "otro",
+    "phaseId": "fase-estabilizacion",
+    "timeNote": "Pocos meses después del plan sudafricano y años antes de la Conferencia de Honolulu",
+    "places": [
+      {
+        "ref": "loc-ulithi"
+      }
+    ],
+    "characterIds": [
+      "per-barati-palshigar"
+    ],
+    "description": "Programa internacional de información que emite, desde el buque Ural, consejos de supervivencia en muchos idiomas y desmiente mitos sobre los muertos. Sigue el modelo de la sudafricana Radio Ubunye.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "evt-zona-blanca-varanasi",
+    "name": "Zona Blanca de Varanasi",
+    "category": "catastrofe",
+    "phaseId": "fase-gran-panico",
+    "timeNote": "Durante el colapso de la India; los peregrinajes siguen incluso después de la retirada del gobierno al Himalaya",
+    "places": [
+      {
+        "ref": "loc-varanasi"
+      }
+    ],
+    "characterIds": [
+      "per-barati-palshigar"
+    ],
+    "description": "Millones de peregrinos acuden al Ganges creyendo en su poder curativo y la zona se convierte en uno de los mayores focos de infección.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "evt-desaparicion-corea-norte",
+    "name": "La desaparición de Corea del Norte",
+    "category": "otro",
+    "phaseId": "fase-negacion",
+    "timeNote": "Empieza un mes antes de los primeros casos en Pusán",
+    "places": [
+      {
+        "ref": "loc-panmunjom"
+      }
+    ],
+    "countries": [
+      "PRK"
+    ],
+    "characterIds": [
+      "per-hyungchol-choi"
+    ],
+    "description": "Corea del Norte corta todas sus relaciones y, poco a poco, sus guardias, espías, transmisiones y habitantes desaparecen de la vista. Se desconoce qué ocurrió con su población.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "evt-evacuacion-japon",
+    "name": "Evacuación de Japón",
+    "category": "evacuacion",
+    "phaseId": "fase-gran-panico",
+    "timeNote": "Tras la declaración pública del doctor Komatsu",
+    "places": [],
+    "countries": [
+      "JPN"
+    ],
+    "characterIds": [
+      "per-doctor-komatsu",
+      "per-kondo-tatsumi",
+      "per-tomonaga-ijiro",
+      "per-terry-knox"
+    ],
+    "description": "Japón decide evacuar a toda su población, con destino principal a Kamchatka. Desde la estación espacial se ve el enorme movimiento de barcos y aviones.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "evt-caida-kokura",
+    "name": "Caída de Kokura",
+    "category": "brote",
+    "phaseId": "fase-gran-panico",
+    "timeNote": "Durante la evacuación de Japón",
+    "places": [
+      {
+        "ref": "loc-kokura"
+      }
+    ],
+    "characterIds": [
+      "per-kondo-tatsumi"
+    ],
+    "description": "La ciudad se llena de muertos; Kondo baja piso a piso por los balcones de su edificio con cuerdas hechas de sábanas.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "evt-sociedad-del-escudo",
+    "name": "Nace la Sociedad del Escudo",
+    "category": "otro",
+    "phaseId": null,
+    "timeNote": "En vísperas del segundo invierno de Tomonaga en las montañas, después de la evacuación",
+    "places": [
+      {
+        "ref": "loc-montes-hidaka"
+      }
+    ],
+    "characterIds": [
+      "per-tomonaga-ijiro",
+      "per-kondo-tatsumi"
+    ],
+    "description": "Tomonaga y Kondo se encuentran en Hokkaido y deciden quedarse para limpiar Japón de muertos: el origen de los Tatenokai.",
+    "status": "confirmado",
+    "pending": [
+      "phaseId"
+    ],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "evt-centros-reubicacion-cuba",
+    "name": "Centros de reubicación en Cuba",
+    "category": "desplazamiento",
+    "phaseId": "fase-gran-panico",
+    "timeNote": "Desde el Gran Pánico; los centros se vacían en unos seis meses",
+    "places": [],
+    "countries": [
+      "CUB"
+    ],
+    "characterIds": [
+      "per-sergio-garcia-alvarez"
+    ],
+    "description": "Cuba recibe a unos cinco millones de refugiados, sobre todo estadounidenses, en campos de cuarentena y trabajo. Un sistema de fianzas los integra poco a poco en la sociedad cubana.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "evt-arsenal-victoria",
+    "name": "Cuba, «Arsenal de la Victoria»",
+    "category": "otro",
+    "phaseId": "fase-ofensiva",
+    "timeNote": "Cuando los gobiernos pasan a la ofensiva",
+    "places": [],
+    "countries": [
+      "CUB"
+    ],
+    "characterIds": [
+      "per-sergio-garcia-alvarez"
+    ],
+    "description": "La isla se convierte en despensa, fábrica, campo de entrenamiento y gran puerto para la ofensiva mundial, lo que impulsa su economía y su apertura política.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "evt-conferencia-honolulu",
+    "name": "Conferencia de Honolulu",
+    "category": "otro",
+    "phaseId": "fase-estabilizacion",
+    "timeNote": "Catorce días a bordo del USS Saratoga; decide el paso a la ofensiva",
+    "places": [
+      {
+        "ref": "loc-honolulu"
+      }
+    ],
+    "characterIds": [
+      "per-ernesto-holguin",
+      "per-emile-renard"
+    ],
+    "description": "Las Naciones Unidas se reúnen en el Saratoga. Estados Unidos propone pasar al ataque para recuperar el planeta; la propuesta se aprueba con votos en contra y muchas abstenciones.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "evt-ciudad-perro",
+    "name": "Ciudad Perro: la Escuela K-9 de Combate Urbano",
+    "category": "otro",
+    "phaseId": null,
+    "timeNote": "Durante la guerra; el libro no precisa cuándo",
+    "places": [
+      {
+        "ref": "loc-mitchell-oregon"
+      }
+    ],
+    "characterIds": [
+      "per-darnell-hackworth",
+      "per-maze"
+    ],
+    "description": "Un pueblo abandonado de Oregón sirve para entrenar a perros y guías en combate urbano con zombis reales.",
+    "status": "confirmado",
+    "pending": [
+      "phaseId"
+    ],
+    "source": {
+      "section": "Guerra total"
+    }
+  },
+  {
+    "id": "evt-batalla-ufa",
+    "name": "Batalla de Ufá",
+    "category": "conflicto",
+    "phaseId": "fase-ofensiva",
+    "timeNote": "Primera gran batalla de la ofensiva rusa",
+    "places": [
+      {
+        "ref": "loc-ufa"
+      }
+    ],
+    "characterIds": [
+      "per-sergei-ryzhkov"
+    ],
+    "description": "Combates casa por casa con armas y municiones viejísimas. Tras ella, Rusia deja de entrar en las ciudades y prefiere amurallarlas en invierno.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total"
+    }
+  },
+  {
+    "id": "evt-purificacion-final",
+    "name": "La «Purificación Final»",
+    "category": "otro",
+    "phaseId": "fase-ofensiva",
+    "timeNote": "Tras la batalla de Kostromá, semanas antes del asalto a Moscú",
+    "places": [
+      {
+        "ref": "loc-kostroma"
+      }
+    ],
+    "characterIds": [
+      "per-sergei-ryzhkov"
+    ],
+    "description": "Los sacerdotes asumen la tarea de matar a los soldados infectados para evitarles el suicidio. Es el comienzo del fervor religioso del nuevo Estado ruso.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total"
+    }
+  },
+  {
+    "id": "evt-combate-troll",
+    "name": "Combate en la plataforma Troll",
+    "category": "ataque",
+    "phaseId": null,
+    "timeNote": "Antes de que el ECP recibiera las armas M-11",
+    "places": [
+      {
+        "ref": "loc-troll"
+      }
+    ],
+    "characterIds": [
+      "per-michael-choi"
+    ],
+    "description": "Un enjambre sorprende en la oscuridad a los buzos que reparan la plataforma. Tras el ataque, la Armada arma mejor a sus buzos y crea oficialmente el ECP.",
+    "status": "confirmado",
+    "pending": [
+      "phaseId"
+    ],
+    "source": {
+      "section": "Guerra total"
+    }
+  },
+  {
+    "id": "evt-desembarco-bermudas",
+    "name": "Desembarco en Bermudas",
+    "category": "operacion-militar",
+    "phaseId": "fase-ofensiva",
+    "timeNote": "Primer desembarco anfibio",
+    "places": [
+      {
+        "ref": "loc-bermuda"
+      }
+    ],
+    "characterIds": [
+      "per-michael-choi"
+    ],
+    "description": "Los buzos tienden redes bajo el mar para impedir que los muertos salgan de las olas mientras desembarcan los marines.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total"
+    }
+  },
+  {
+    "id": "evt-limpieza-puertos",
+    "name": "Limpieza de los puertos",
+    "category": "operacion-militar",
+    "phaseId": "fase-ofensiva",
+    "timeNote": "En las etapas finales de la guerra",
+    "places": [
+      {
+        "ref": "loc-charleston"
+      },
+      {
+        "ref": "loc-norfolk"
+      },
+      {
+        "ref": "loc-boston"
+      },
+      {
+        "ref": "loc-puerto-nueva-york"
+      }
+    ],
+    "characterIds": [
+      "per-michael-choi"
+    ],
+    "description": "Operaciones conjuntas de buzos militares y civiles para limpiar los puertos y los barcos hundidos y reabrir el comercio.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total"
+    }
+  },
+  {
+    "id": "evt-limpieza-paris",
+    "name": "Limpieza del subsuelo de París",
+    "category": "operacion-militar",
+    "phaseId": "fase-ofensiva",
+    "timeNote": "Tres meses, cuando la guerra ya se calmaba en el resto del mundo",
+    "places": [
+      {
+        "ref": "loc-paris-subterraneo"
+      }
+    ],
+    "characterIds": [
+      "per-andre-renard",
+      "per-emil-renard"
+    ],
+    "description": "El ejército francés limpia catacumbas, túneles y alcantarillas sin poder usar armas de fuego. Mueren o desaparecen unos quince mil soldados.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total"
+    }
+  }
+]

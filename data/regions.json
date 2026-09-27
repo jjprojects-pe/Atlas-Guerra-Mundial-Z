@@ -1,0 +1,92 @@
+[
+  {
+    "id": "reg-costa-guayanas",
+    "name": "Costa de las Guayanas",
+    "bookName": "Desde Georgetown hasta las costas de Surinam y la Guayana Francesa",
+    "countries": [
+      "GUY",
+      "SUR"
+    ],
+    "labelCoords": [
+      6.2,
+      -55.8
+    ],
+    "note": "Esto ocurre en la costa atlántica entre Georgetown y la Guayana Francesa. La Guayana Francesa pertenece a Francia y no se pinta.",
+    "status": "confirmado"
+  },
+  {
+    "id": "reg-asia-central",
+    "name": "Asia Central",
+    "bookName": "Las antiguas Repúblicas Soviéticas",
+    "countries": [
+      "KAZ",
+      "KGZ",
+      "TJK",
+      "UZB",
+      "TKM"
+    ],
+    "labelCoords": [
+      42.5,
+      64
+    ],
+    "note": "Destino de las rutas de contrabando terrestre que salían de Kashi. El libro no precisa el país.",
+    "status": "confirmado"
+  },
+  {
+    "id": "reg-osetia-norte",
+    "name": "Osetia del Norte-Alania",
+    "bookName": "Ossetia del Norte, en Alania",
+    "countries": [
+      "RUS"
+    ],
+    "labelCoords": [
+      43.0,
+      44.3
+    ],
+    "note": "Esto ocurre en la república de Osetia del Norte-Alania, en el Cáucaso ruso. El libro no nombra el pueblo.",
+    "status": "confirmado"
+  },
+  {
+    "id": "reg-baluchistan",
+    "name": "Baluchistán",
+    "bookName": "Baluchistán",
+    "countries": [
+      "PAK",
+      "IRN"
+    ],
+    "labelCoords": [
+      28.0,
+      64.0
+    ],
+    "note": "Región repartida entre Pakistán e Irán por donde entran millones de refugiados.",
+    "status": "confirmado"
+  },
+  {
+    "id": "reg-zona-segura-oeste",
+    "name": "Zona segura occidental (EE. UU.)",
+    "bookName": "La zona segura al oeste de las Montañas Rocosas",
+    "countries": [
+      "USA"
+    ],
+    "labelCoords": [
+      41.5,
+      -119.5
+    ],
+    "note": "Territorio de Estados Unidos al oeste de la Línea de las Rocosas, donde se reorganiza el país durante la guerra.",
+    "status": "confirmado"
+  },
+  {
+    "id": "reg-montanas-rocosas",
+    "name": "Línea de las Montañas Rocosas",
+    "bookName": "La Línea de las Rocosas",
+    "countries": [
+      "USA"
+    ],
+    "labelCoords": [
+      43.0,
+      -109.5
+    ],
+    "note": "Línea de defensa que separa la zona segura occidental del territorio infestado.",
+    "status": "confirmado"
+  }
+]

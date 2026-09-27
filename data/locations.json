@@ -1,0 +1,1953 @@
+[
+  {
+    "id": "loc-beijing-ciudad-prohibida",
+    "name": "Monumento a los Patriotas, Ciudad Prohibida",
+    "bookName": "Monumento a los Patriotas, Ciudad Prohibida, Beijing, China",
+    "type": "monumento",
+    "emoji": null,
+    "coords": [
+      39.9163,
+      116.3972
+    ],
+    "precision": "exact",
+    "country": "CHN",
+    "description": "Monumento levantado donde, según el libro, fue destruido el último zombie de Beijing. Lugar de la entrevista con el almirante Xu Zhicai.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-qingdao",
+    "name": "Qingdao",
+    "bookName": "Qingdao",
+    "type": "puerto",
+    "emoji": null,
+    "coords": [
+      36.067,
+      120.383
+    ],
+    "precision": "exact",
+    "country": "CHN",
+    "description": "Puerto base del Almirante Zheng He, sitiado mientras se preparaba la huida.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-frente-a-dakar",
+    "name": "Frente a Dakar",
+    "bookName": "Frente a Dakar, en Senegal",
+    "type": "oceano",
+    "emoji": null,
+    "coords": [
+      14.7,
+      -17.9
+    ],
+    "precision": "approximate",
+    "country": null,
+    "label": "Sucede en el océano Atlántico, frente a Dakar",
+    "description": "Aguas donde el submarino observa el crucero infestado Nordic Empress.",
+    "status": "aproximado"
+  },
+  {
+    "id": "loc-manihi",
+    "name": "Atolón de Manihi",
+    "bookName": "Manihi",
+    "type": "isla",
+    "emoji": null,
+    "coords": [
+      -14.4,
+      -145.95
+    ],
+    "precision": "exact",
+    "country": "PYF",
+    "description": "Atolón de la Polinesia Francesa convertido en comunidad de refugiados del «Continente Pacífico».",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-oceano-artico",
+    "name": "Océano Ártico",
+    "bookName": "Los hielos del Ártico",
+    "type": "oceano",
+    "emoji": null,
+    "coords": [
+      84,
+      0
+    ],
+    "precision": "regional",
+    "country": null,
+    "label": "Sucede en el océano Ártico",
+    "description": "Refugio del submarino tras el combate en Manihi.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-xilinhot",
+    "name": "Búnker de Xilinhot",
+    "bookName": "Xilinhot",
+    "type": "bunker",
+    "emoji": null,
+    "coords": [
+      43.93,
+      116.08
+    ],
+    "precision": "approximate",
+    "country": "CHN",
+    "description": "Búnker de mando donde se refugia el Politburó. Se marca la ciudad; el libro no sitúa el búnker con más detalle.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-presa-tres-gargantas",
+    "name": "Presa de las Tres Gargantas",
+    "bookName": "Represa de las Tres Gargantas",
+    "type": "infraestructura",
+    "emoji": null,
+    "coords": [
+      30.82,
+      111.0
+    ],
+    "precision": "exact",
+    "country": "CHN",
+    "description": "Su colapso desencadena la guerra civil china.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-almirante-zheng-he",
+    "name": "Almirante Zheng He",
+    "bookName": "Almirante Zheng He",
+    "type": "submarino",
+    "emoji": null,
+    "coords": null,
+    "precision": "mobile",
+    "country": null,
+    "description": "Submarino nuclear lanzamisiles chino, el más nuevo de su clase.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-sand-lakes",
+    "name": "Parque Forestal de Sand Lakes",
+    "bookName": "Parque Forestal de la Provincia de Sand Lakes, Manitoba, Canadá",
+    "type": "parque",
+    "emoji": null,
+    "coords": [
+      57.6,
+      -98.3
+    ],
+    "precision": "approximate",
+    "country": "CAN",
+    "description": "Lugar de la entrevista con Jesika Hendricks. Allí muestra restos del campamento de refugiados; el libro no nombra el lago junto al que acamparon.",
+    "status": "aproximado"
+  },
+  {
+    "id": "loc-waukesha",
+    "name": "Waukesha",
+    "bookName": "Waukesha, Wisconsin",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      43.0117,
+      -88.2315
+    ],
+    "precision": "exact",
+    "country": "USA",
+    "description": "Ciudad natal de Jesika Hendricks y punto de partida de su familia.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-denver",
+    "name": "Denver",
+    "bookName": "Denver, Colorado, Estados Unidos",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      39.7392,
+      -104.9903
+    ],
+    "precision": "exact",
+    "country": "USA",
+    "description": "Lugar de las entrevistas con Todd Wainio: la estación de tren del Mural de la Victoria, su casa y Victory Park.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-yonkers",
+    "name": "Yonkers",
+    "bookName": "Yonkers",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      40.9312,
+      -73.8988
+    ],
+    "precision": "exact",
+    "country": "USA",
+    "description": "Suburbio al norte de Nueva York donde se libra la batalla de Yonkers.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-needles",
+    "name": "Needles",
+    "bookName": "Needles",
+    "type": "base",
+    "emoji": null,
+    "coords": [
+      34.848,
+      -114.614
+    ],
+    "precision": "approximate",
+    "country": "USA",
+    "description": "Cuartel de la unidad de Todd Wainio antes de la batalla de Esperanza. Se marca la localidad.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-esperanza",
+    "name": "Esperanza (Hope), Nuevo México",
+    "bookName": "Esperanza, en Nuevo México",
+    "type": "campo-batalla",
+    "emoji": null,
+    "coords": [
+      32.81,
+      -104.73
+    ],
+    "precision": "approximate",
+    "country": "USA",
+    "description": "La batalla se libra en las afueras del pueblo, en terreno llano con el desierto delante y montañas detrás. La traducción usa «Esperanza»; el pueblo real se llama Hope.",
+    "status": "aproximado"
+  },
+  {
+    "id": "loc-minneapolis",
+    "name": "Afueras de Minneápolis",
+    "bookName": "Afuera de Minneápolis",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      44.9778,
+      -93.265
+    ],
+    "precision": "approximate",
+    "country": "USA",
+    "description": "Limpieza de un centro comercial donde Todd Wainio recibe las cicatrices de la cara.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-hammond",
+    "name": "Hammond",
+    "bookName": "Hammond, Indiana",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      41.583,
+      -87.5
+    ],
+    "precision": "exact",
+    "country": "USA",
+    "description": "Puestos de defensa organizados antes del ataque a Chicago.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-chicago-torre-sears",
+    "name": "Torre Sears, Chicago",
+    "bookName": "Torre Sears en Chicago",
+    "type": "edificio",
+    "emoji": null,
+    "coords": [
+      41.8789,
+      -87.6359
+    ],
+    "precision": "exact",
+    "country": "USA",
+    "description": "Rascacielos ocupado por sobrevivientes hostiles durante el avance del Grupo Norte.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-detroit-comerica",
+    "name": "Comerica Park y Ford Field, Detroit",
+    "bookName": "Comerica Park y Ford Field",
+    "type": "estadio",
+    "emoji": null,
+    "coords": [
+      42.339,
+      -83.0485
+    ],
+    "precision": "exact",
+    "country": "USA",
+    "description": "Zona aislada rodeada por una multitud enorme de zombies.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-omaha-base",
+    "name": "Base en las afueras de Omaha",
+    "bookName": "La base en las afueras de Omaha",
+    "type": "base",
+    "emoji": null,
+    "coords": [
+      41.26,
+      -95.94
+    ],
+    "precision": "approximate",
+    "country": "USA",
+    "description": "Centro estratégico de entrega de provisiones. Se marca la ciudad.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-janesville",
+    "name": "Janesville",
+    "bookName": "Janesville, en Wisconsin",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      42.6828,
+      -89.0187
+    ],
+    "precision": "exact",
+    "country": "USA",
+    "description": "Zona civil liberada por el ejército.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-valley-city",
+    "name": "Valley City",
+    "bookName": "Valley City, Dakota del Norte",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      46.9233,
+      -98.0032
+    ],
+    "precision": "exact",
+    "country": "USA",
+    "description": "Zona cuyos habitantes rechazan a los soldados.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-rochester",
+    "name": "Rochester",
+    "bookName": "Rochester, Nueva York",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      43.1566,
+      -77.6088
+    ],
+    "precision": "exact",
+    "country": "USA",
+    "description": "Todd Wainio pierde a un compañero por una trampa.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-pulaski",
+    "name": "Cerca de Pulaski",
+    "bookName": "Autopista cerca de Pulaski, en Nueva York",
+    "type": "pueblo",
+    "emoji": null,
+    "coords": [
+      43.567,
+      -76.128
+    ],
+    "precision": "approximate",
+    "country": "USA",
+    "description": "Patrulla en la autopista cercana.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-portland-deering-oaks",
+    "name": "Parque Deering Oaks, Portland",
+    "bookName": "Parque Deering Oaks, Portland, Maine",
+    "type": "parque",
+    "emoji": null,
+    "coords": [
+      43.6617,
+      -70.2724
+    ],
+    "precision": "exact",
+    "country": "USA",
+    "description": "Recogida de restos humanos que llevaban allí desde el Pánico.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-orilla-jersey",
+    "name": "Orilla de Nueva Jersey frente a Nueva York",
+    "bookName": "La orilla de Jersey, mirando el amanecer sobre Nueva York",
+    "type": "otro",
+    "emoji": "🌅",
+    "coords": [
+      40.72,
+      -74.03
+    ],
+    "precision": "approximate",
+    "country": "USA",
+    "description": "Donde el escuadrón de Todd Wainio recibe la noticia de la victoria. La escena del Mural de la Victoria.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-sydney",
+    "name": "Sídney",
+    "bookName": "Sydney, Australia",
+    "type": "ciudad",
+    "emoji": "🏥",
+    "coords": [
+      -33.8688,
+      151.2093
+    ],
+    "precision": "approximate",
+    "country": "AUS",
+    "description": "Entrevista en el hospital Clearwater Memorial, que solo existe en el libro; se marca la ciudad.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-eei",
+    "name": "Estación Espacial Internacional",
+    "bookName": "La EEI",
+    "type": "otro",
+    "emoji": "🛰️",
+    "coords": null,
+    "precision": "none",
+    "country": null,
+    "description": "En órbita: no tiene un lugar fijo en el mapa.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-yang-liwei",
+    "name": "Estación espacial Yang Liwei",
+    "bookName": "La estación espacial china, Yang Liwei",
+    "type": "otro",
+    "emoji": "🛰️",
+    "coords": null,
+    "precision": "none",
+    "country": null,
+    "description": "Estación china en órbita que termina ardiendo al entrar en la atmósfera.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-chongqing",
+    "name": "Gran Chongqing",
+    "bookName": "Gran Chongqing, Federación Unida de China",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      29.563,
+      106.551
+    ],
+    "precision": "exact",
+    "country": "CHN",
+    "description": "Lugar de la entrevista con Kwang Jingshu, que sigue atendiendo pacientes en casa.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-nuevo-dachang",
+    "name": "Nuevo Dachang",
+    "bookName": "Una remota aldea que oficialmente no tenía nombre, «Nuevo Dachang»",
+    "type": "pueblo",
+    "emoji": "🛖",
+    "coords": [
+      31.27,
+      109.77
+    ],
+    "precision": "approximate",
+    "country": "CHN",
+    "description": "Aldea sin nombre oficial junto al embalse de las Tres Gargantas, cerca del Viejo Dachang sumergido. Se marca la zona de Dachang.",
+    "status": "aproximado"
+  },
+  {
+    "id": "loc-lhasa",
+    "name": "Lhasa",
+    "bookName": "Lhasa, República Popular del Tíbet",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      29.652,
+      91.172
+    ],
+    "precision": "exact",
+    "country": "CHN",
+    "description": "Lugar de la entrevista con Nury Televaldi. En la posguerra es la capital de un Tíbet independiente.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-kashi",
+    "name": "Kashi",
+    "bookName": "Kashi",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      39.47,
+      75.99
+    ],
+    "precision": "exact",
+    "country": "CHN",
+    "description": "Base de Nury Televaldi y punto de paso de casi todo el contrabando terrestre de personas.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-meteora",
+    "name": "Meteora",
+    "bookName": "Meteora, Grecia",
+    "type": "monumento",
+    "emoji": "⛪",
+    "coords": [
+      39.721,
+      21.631
+    ],
+    "precision": "exact",
+    "country": "GRC",
+    "description": "Monasterios sobre columnas de roca que sirvieron de refugio durante la guerra. Lugar de la entrevista con Stanley MacDonald.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-edmonton",
+    "name": "Edmonton",
+    "bookName": "Edmonton",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      53.546,
+      -113.494
+    ],
+    "precision": "exact",
+    "country": "CAN",
+    "description": "Donde MacDonald es sometido a una «evaluación» al volver de Kirguistán.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-amazonas-yanomami",
+    "name": "Selva amazónica (aldea yanomami)",
+    "bookName": "Selva lluviosa del Amazonas, Brasil",
+    "type": "region",
+    "emoji": "🌳",
+    "coords": [
+      2.5,
+      -63.5
+    ],
+    "precision": "regional",
+    "country": "BRA",
+    "label": "Amazonas (ubicación oculta)",
+    "description": "El entrevistador llega con los ojos vendados: la ubicación de la aldea es secreta. Se marca el territorio yanomami de forma aproximada.",
+    "status": "aproximado"
+  },
+  {
+    "id": "loc-rio",
+    "name": "Río de Janeiro",
+    "bookName": "Río",
+    "type": "ciudad",
+    "emoji": "🏥",
+    "coords": [
+      -22.907,
+      -43.173
+    ],
+    "precision": "approximate",
+    "country": "BRA",
+    "description": "Ciudad de la clínica de Oliveira. El libro no sitúa la clínica.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-bridgetown",
+    "name": "Bridgetown",
+    "bookName": "Bridgetown, Barbados, Federación de las Indias Occidentales",
+    "type": "puerto",
+    "emoji": null,
+    "coords": [
+      13.097,
+      -59.618
+    ],
+    "precision": "exact",
+    "country": null,
+    "description": "Puerto de Barbados, «Zona Económica Especial» en la posguerra. Lugar de entrevistas.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-kayelitsha",
+    "name": "Kayelitsha",
+    "bookName": "Kayelitsha",
+    "type": "pueblo",
+    "emoji": "🏚️",
+    "coords": [
+      -34.04,
+      18.67
+    ],
+    "precision": "exact",
+    "country": "ZAF",
+    "description": "Barrio de chabolas de Ciudad del Cabo donde se produce uno de los primeros brotes conocidos.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-groote-schuur",
+    "name": "Hospital Groote Schuur",
+    "bookName": "Hospital Groote Schuur",
+    "type": "edificio",
+    "emoji": "🏥",
+    "coords": [
+      -33.941,
+      18.463
+    ],
+    "precision": "exact",
+    "country": "ZAF",
+    "description": "Hospital de Ciudad del Cabo que recibe a las primeras víctimas de Kayelitsha.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-tel-aviv",
+    "name": "Tel Aviv",
+    "bookName": "Tel Aviv, Israel",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      32.085,
+      34.781
+    ],
+    "precision": "exact",
+    "country": "ISR",
+    "description": "Lugar de la entrevista con Jurgen Warmbrunn, en un restaurante etíope.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-bethesda",
+    "name": "Bethesda",
+    "bookName": "Bethesda, Maryland",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      38.984,
+      -77.094
+    ],
+    "precision": "approximate",
+    "country": "USA",
+    "description": "Casa de Paul Knight, donde nace el informe Warmbrunn-Knight.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-belen",
+    "name": "Belén",
+    "bookName": "Belén, Palestina",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      31.705,
+      35.2
+    ],
+    "precision": "exact",
+    "country": "PSX",
+    "description": "Lugar de la entrevista con Saladin Kader, en la Universidad Khalil Gibrán.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-kuwait",
+    "name": "Ciudad de Kuwait",
+    "bookName": "Ciudad de Kuwait",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      29.376,
+      47.977
+    ],
+    "precision": "exact",
+    "country": "KWT",
+    "description": "Ciudad natal de Saladin Kader. Allí ocurren los brotes del Hospital Amiri y de Al-Jahra.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-el-cairo",
+    "name": "El Cairo",
+    "bookName": "El Cairo",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      30.044,
+      31.236
+    ],
+    "precision": "exact",
+    "country": "EGY",
+    "description": "Escala de la familia Kader camino de Israel.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-taba",
+    "name": "Cruce fronterizo de Taba",
+    "bookName": "El cruce de Taba",
+    "type": "base",
+    "emoji": "🛂",
+    "coords": [
+      29.49,
+      34.89
+    ],
+    "precision": "exact",
+    "country": "EGY",
+    "description": "Frontera donde perros detectan a los infectados entre los refugiados.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-yerohan",
+    "name": "Campo de reubicación de Yerohán",
+    "bookName": "Las afueras de Yerohán",
+    "type": "campamento",
+    "emoji": null,
+    "coords": [
+      30.99,
+      34.93
+    ],
+    "precision": "approximate",
+    "country": "ISR",
+    "description": "Campo de cuarentena en el desierto del Néguev. Se marca la localidad.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-beer-sheva",
+    "name": "Beer-Sheva",
+    "bookName": "Beer-Sheva",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      31.252,
+      34.791
+    ],
+    "precision": "exact",
+    "country": "ISR",
+    "description": "Donde el autobús de la familia Kader queda atrapado en el inicio de la guerra civil israelí.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-langley",
+    "name": "Langley (sede de la CIA)",
+    "bookName": "Langley, Virginia, Estados Unidos",
+    "type": "edificio",
+    "emoji": "🕵️",
+    "coords": [
+      38.951,
+      -77.146
+    ],
+    "precision": "exact",
+    "country": "USA",
+    "description": "Sede de la Agencia Central de Inteligencia. Lugar de la entrevista con Bob Archer.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-buenos-aires",
+    "name": "Buenos Aires",
+    "bookName": "Buenos Aires",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      -34.604,
+      -58.382
+    ],
+    "precision": "exact",
+    "country": "ARG",
+    "description": "Destino al que trasladan a Archer tras advertir del peligro.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-vaalajarvi",
+    "name": "Vaalajarvi",
+    "bookName": "Vaalajarvi, Finlandia",
+    "type": "pueblo",
+    "emoji": "❄️",
+    "coords": [
+      67.7,
+      27.0
+    ],
+    "precision": "approximate",
+    "country": "FIN",
+    "description": "Zona de Laponia donde se libró una gran batalla de la guerra y donde cada primavera se hace el «Barrido y Limpieza». Coordenadas aproximadas.",
+    "status": "aproximado"
+  },
+  {
+    "id": "loc-pentagono",
+    "name": "Alto mando militar (Washington)",
+    "bookName": "La Junta de Mando",
+    "type": "base",
+    "emoji": null,
+    "coords": [
+      38.871,
+      -77.056
+    ],
+    "precision": "approximate",
+    "country": "USA",
+    "description": "Reunión del alto mando tras la declaración israelí. El libro no dice dónde; se marca el Pentágono como referencia.",
+    "status": "aproximado"
+  },
+  {
+    "id": "loc-vostok",
+    "name": "Estación Vostok",
+    "bookName": "Estación Vostok: Antártida",
+    "type": "base",
+    "emoji": "🧊",
+    "coords": [
+      -78.464,
+      106.837
+    ],
+    "precision": "exact",
+    "country": null,
+    "description": "Estación antártica alquilada por Breck Scott, donde vive desde el Gran Pánico.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-amarillo",
+    "name": "Amarillo",
+    "bookName": "Amarillo, Texas, Estados Unidos",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      35.222,
+      -101.831
+    ],
+    "precision": "exact",
+    "country": "USA",
+    "description": "Lugar de la entrevista con Grover Carlson, en una planta de bioconversión.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-casa-blanca",
+    "name": "Casa Blanca",
+    "bookName": "La Casa Blanca",
+    "type": "edificio",
+    "emoji": "🏛️",
+    "coords": [
+      38.8977,
+      -77.0365
+    ],
+    "precision": "exact",
+    "country": "USA",
+    "description": "Sede del gobierno estadounidense durante la etapa de negación.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-troya",
+    "name": "Troya (Troy), Montana",
+    "bookName": "Troya, Montana, Estados Unidos",
+    "type": "pueblo",
+    "emoji": "🏘️",
+    "coords": [
+      48.463,
+      -115.889
+    ],
+    "precision": "approximate",
+    "country": "USA",
+    "description": "Comunidad fortificada de posguerra diseñada por Mary Jo Miller. La traducción usa «Troya»; la localidad real se llama Troy.",
+    "status": "aproximado"
+  },
+  {
+    "id": "loc-north-county",
+    "name": "North County (San Diego)",
+    "bookName": "North County, cerca de San Diego",
+    "type": "pueblo",
+    "emoji": "🏡",
+    "coords": [
+      33.2,
+      -117.2
+    ],
+    "precision": "regional",
+    "country": "USA",
+    "label": "North County, San Diego",
+    "description": "Urbanización donde vivía la familia Miller antes de la guerra.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-parnell",
+    "name": "Base aérea de Parnell (Memphis)",
+    "bookName": "Base Aérea Nacional Parnell: Memphis, Tennessee",
+    "type": "base",
+    "emoji": "✈️",
+    "coords": [
+      35.149,
+      -90.049
+    ],
+    "precision": "approximate",
+    "country": "USA",
+    "description": "Base de la Guardia Nacional donde se entrevista a Gavin Blaire y Christina Eliópolis. Se marca Memphis.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-i80-nebraska",
+    "name": "Interestatal 80 (Nebraska)",
+    "bookName": "La Interestatal 80, entre Lincoln y North Platte",
+    "type": "region",
+    "emoji": "🛣️",
+    "coords": [
+      40.95,
+      -98.7
+    ],
+    "precision": "regional",
+    "country": "USA",
+    "label": "Interestatal 80, entre Lincoln y North Platte",
+    "description": "Tramo de autopista colapsado por el éxodo de refugiados.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-alang",
+    "name": "Alang",
+    "bookName": "Alang, India",
+    "type": "puerto",
+    "emoji": "🚢",
+    "coords": [
+      21.4,
+      72.2
+    ],
+    "precision": "exact",
+    "country": "IND",
+    "description": "El mayor desguace de barcos del mundo antes de la guerra. Lugar de la evacuación desesperada y de la entrevista.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-bhavnagar",
+    "name": "Bhavnagar",
+    "bookName": "Bhavnagar",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      21.764,
+      72.152
+    ],
+    "precision": "exact",
+    "country": "IND",
+    "description": "Ciudad de Ajay Shah, desde donde camina hasta Alang.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-sir-wilfred-grenfell",
+    "name": "Sir Wilfred Grenfell",
+    "bookName": "Sir Wilfred Grenfell",
+    "type": "barco",
+    "emoji": null,
+    "coords": null,
+    "precision": "mobile",
+    "country": null,
+    "description": "Barco que había pertenecido a la Guardia Costera canadiense; rescata a Ajay Shah.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-topeka",
+    "name": "Topeka (Centro Rothman)",
+    "bookName": "Topeka, Kansas, Estados Unidos",
+    "type": "ciudad",
+    "emoji": "🏥",
+    "coords": [
+      39.048,
+      -95.678
+    ],
+    "precision": "approximate",
+    "country": "USA",
+    "description": "Centro de rehabilitación para «niños salvajes» donde se entrevista a Sharon. Se marca la ciudad.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-khuzhir",
+    "name": "Khuzhir (isla de Olkhon)",
+    "bookName": "Khuzhir, Isla Olkhon, Lago Baikal, Sagrado Imperio Ruso",
+    "type": "isla",
+    "emoji": null,
+    "coords": [
+      53.193,
+      107.34
+    ],
+    "precision": "exact",
+    "country": "RUS",
+    "description": "Lugar de la entrevista con María Zhuganova, bajo vigilancia del Sagrado Imperio Ruso.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-long-island",
+    "name": "Mansión en Long Island",
+    "bookName": "Una isla grande… una isla larga, justo al lado de Manhattan",
+    "type": "edificio",
+    "emoji": "🏰",
+    "coords": [
+      40.85,
+      -73.0
+    ],
+    "precision": "regional",
+    "country": "USA",
+    "label": "Long Island (mansión sin identificar)",
+    "description": "Collins no da nombres ni lugares; describe una isla larga junto a Manhattan.",
+    "status": "aproximado"
+  },
+  {
+    "id": "loc-ciudad-de-hielo",
+    "name": "Ciudad de Hielo",
+    "bookName": "Ciudad de Hielo, Groenlandia",
+    "type": "region",
+    "emoji": "🧊",
+    "coords": [
+      72.0,
+      -40.0
+    ],
+    "precision": "regional",
+    "country": "GRL",
+    "label": "Ciudad de Hielo (ubicación no precisada)",
+    "description": "Laberinto de túneles excavado en el hielo que albergó a un cuarto de millón de personas. El libro no la sitúa dentro de Groenlandia.",
+    "status": "aproximado"
+  },
+  {
+    "id": "loc-puente-ketch",
+    "name": "Puente del río Ketch",
+    "bookName": "El puente del río Ketch",
+    "type": "infraestructura",
+    "emoji": "🌉",
+    "coords": [
+      26.0,
+      63.1
+    ],
+    "precision": "approximate",
+    "country": "PAK",
+    "description": "Puente de la principal carretera de Baluchistán, bombardeado por la aviación iraní. Coordenadas aproximadas del río.",
+    "status": "aproximado"
+  },
+  {
+    "id": "loc-teheran",
+    "name": "Teherán",
+    "bookName": "Teherán",
+    "type": "ciudad",
+    "emoji": "☢️",
+    "coords": [
+      35.689,
+      51.389
+    ],
+    "precision": "exact",
+    "country": "IRN",
+    "description": "Una de las ciudades destruidas en el intercambio nuclear.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-qom",
+    "name": "Qom",
+    "bookName": "Qom",
+    "type": "ciudad",
+    "emoji": "☢️",
+    "coords": [
+      34.64,
+      50.876
+    ],
+    "precision": "exact",
+    "country": "IRN",
+    "description": "Una de las ciudades destruidas en el intercambio nuclear.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-bandar-abbas",
+    "name": "Bandar Abbas",
+    "bookName": "Bandar Abbas",
+    "type": "ciudad",
+    "emoji": "☢️",
+    "coords": [
+      27.183,
+      56.266
+    ],
+    "precision": "exact",
+    "country": "IRN",
+    "description": "Una de las ciudades destruidas en el intercambio nuclear.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-islamabad",
+    "name": "Islamabad",
+    "bookName": "Islamabad",
+    "type": "ciudad",
+    "emoji": "☢️",
+    "coords": [
+      33.684,
+      73.048
+    ],
+    "precision": "exact",
+    "country": "PAK",
+    "description": "Una de las ciudades destruidas en el intercambio nuclear.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-lahore",
+    "name": "Lahore",
+    "bookName": "Lahore",
+    "type": "ciudad",
+    "emoji": "☢️",
+    "coords": [
+      31.52,
+      74.358
+    ],
+    "precision": "exact",
+    "country": "PAK",
+    "description": "Una de las ciudades destruidas en el intercambio nuclear.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-faisalabad",
+    "name": "Faisalabad",
+    "bookName": "Faisalabad",
+    "type": "ciudad",
+    "emoji": "☢️",
+    "coords": [
+      31.45,
+      73.135
+    ],
+    "precision": "exact",
+    "country": "PAK",
+    "description": "Una de las ciudades destruidas en el intercambio nuclear.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-ormara",
+    "name": "Ormara",
+    "bookName": "Ormara",
+    "type": "ciudad",
+    "emoji": "☢️",
+    "coords": [
+      25.21,
+      64.64
+    ],
+    "precision": "exact",
+    "country": "PAK",
+    "description": "Una de las ciudades destruidas en el intercambio nuclear.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-robben",
+    "name": "Isla Robben",
+    "bookName": "Isla Robben, Provincia del Cabo, Estados Unidos de Sudáfrica",
+    "type": "isla",
+    "emoji": null,
+    "coords": [
+      -33.806,
+      18.366
+    ],
+    "precision": "exact",
+    "country": "ZAF",
+    "description": "Isla frente a Ciudad del Cabo. Lugar de la entrevista con Xolelwa Azania.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-drakensberg",
+    "name": "Drakensberg",
+    "bookName": "Su cabaña de Drakensberg",
+    "type": "region",
+    "emoji": "⛰️",
+    "coords": [
+      -29.3,
+      29.4
+    ],
+    "precision": "regional",
+    "country": "ZAF",
+    "label": "Drakensberg (cabaña de Redeker)",
+    "description": "Montañas donde Paul Redeker se aísla durante el Gran Pánico sudafricano.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-kimberley",
+    "name": "Base subterránea de Kimberley",
+    "bookName": "Kimberley, la misma base subterránea",
+    "type": "bunker",
+    "emoji": null,
+    "coords": [
+      -28.738,
+      24.763
+    ],
+    "precision": "approximate",
+    "country": "ZAF",
+    "description": "Búnker del gobierno donde se presenta el Plan Redeker. Se marca la ciudad.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-armagh",
+    "name": "Armagh",
+    "bookName": "Armagh, Irlanda",
+    "type": "ciudad",
+    "emoji": "⛪",
+    "coords": [
+      54.35,
+      -6.654
+    ],
+    "precision": "exact",
+    "country": "GBR",
+    "description": "Refugio de emergencia del Papa durante la guerra y lugar de peregrinación. El libro dice «Irlanda»; Armagh está en Irlanda del Norte.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-hamburgo",
+    "name": "Hamburgo",
+    "bookName": "Hamburgo",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      53.551,
+      9.993
+    ],
+    "precision": "exact",
+    "country": "DEU",
+    "description": "Ciudad infestada de la que la unidad de Adler recibe orden de retirarse, abandonando a los civiles.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-schafstedt",
+    "name": "Schafstedt",
+    "bookName": "Schafstedt, al norte del Canal Nord-Ostsee",
+    "type": "pueblo",
+    "emoji": null,
+    "coords": [
+      54.08,
+      9.28
+    ],
+    "precision": "approximate",
+    "country": "DEU",
+    "description": "Punto de reunión de la retirada alemana al norte del canal de Kiel.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-odessa",
+    "name": "Odesa (sanatorio Yevchenko)",
+    "bookName": "Sanatorio para veteranos Yevchenko, Odessa, Ucrania",
+    "type": "ciudad",
+    "emoji": "🏥",
+    "coords": [
+      46.482,
+      30.723
+    ],
+    "precision": "approximate",
+    "country": "UKR",
+    "description": "Sanatorio de veteranos donde se entrevista a Bohdan Kondratiuk. Se marca la ciudad.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-lutsk",
+    "name": "Lutsk",
+    "bookName": "Lutsk",
+    "type": "campo-batalla",
+    "emoji": null,
+    "coords": [
+      50.747,
+      25.325
+    ],
+    "precision": "approximate",
+    "country": "UKR",
+    "description": "Una de las cuatro batallas de la retirada ucraniana.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-rovno",
+    "name": "Rovno (Rivne)",
+    "bookName": "Rovno",
+    "type": "campo-batalla",
+    "emoji": null,
+    "coords": [
+      50.62,
+      26.25
+    ],
+    "precision": "approximate",
+    "country": "UKR",
+    "description": "Una de las cuatro batallas de la retirada ucraniana.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-novogrado",
+    "name": "Novogrado (Novohrad-Volynskyi)",
+    "bookName": "Novogrado",
+    "type": "campo-batalla",
+    "emoji": null,
+    "coords": [
+      50.594,
+      27.617
+    ],
+    "precision": "approximate",
+    "country": "UKR",
+    "description": "Una de las cuatro batallas de la retirada ucraniana.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-zhytomyr",
+    "name": "Zhytomyr",
+    "bookName": "Zhytomyr",
+    "type": "campo-batalla",
+    "emoji": null,
+    "coords": [
+      50.254,
+      28.658
+    ],
+    "precision": "approximate",
+    "country": "UKR",
+    "description": "Batalla en la que las armas químicas no funcionaron contra los muertos vivientes.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-puente-patona",
+    "name": "Puente Patona (Kiev)",
+    "bookName": "El puente de Patona",
+    "type": "infraestructura",
+    "emoji": "🌉",
+    "coords": [
+      50.4335,
+      30.5715
+    ],
+    "precision": "exact",
+    "country": "UKR",
+    "description": "Puente sobre el Dniéper que la compañía de Kondratiuk debía vigilar durante la evacuación de Kiev.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-udaipur",
+    "name": "Palacio del Lago (Udaipur)",
+    "bookName": "Palacio de Udaipur, Lago Pichola, Rajastán, India",
+    "type": "monumento",
+    "emoji": "🏯",
+    "coords": [
+      24.575,
+      73.68
+    ],
+    "precision": "exact",
+    "country": "IND",
+    "description": "Antigua residencia del maharajá sobre la isla Jagniwas. Lugar de la entrevista con Sardar Khan.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-chandigarh",
+    "name": "Chandigarh",
+    "bookName": "Chandigarh",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      30.733,
+      76.779
+    ],
+    "precision": "exact",
+    "country": "IND",
+    "description": "Ciudad desde donde huye Sardar Khan hacia las montañas.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-shimla",
+    "name": "Shimla",
+    "bookName": "Shimla",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      31.104,
+      77.173
+    ],
+    "precision": "exact",
+    "country": "IND",
+    "description": "Zona de reunión del ejército indio en su retirada a los Himalayas.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-paso-himalaya",
+    "name": "Paso de montaña hacia Shimla",
+    "bookName": "Un estrecho y retorcido paso de cabras en los Himalayas",
+    "type": "region",
+    "emoji": "⛰️",
+    "coords": [
+      30.95,
+      77.0
+    ],
+    "precision": "regional",
+    "country": "IND",
+    "label": "Paso de montaña hacia Shimla (sin nombre en el libro)",
+    "description": "Camino de montaña que el general Raj-Singh hace volar. El libro no lo nombra; se marca una zona aproximada.",
+    "status": "aproximado"
+  },
+  {
+    "id": "loc-parque-gandhi",
+    "name": "Parque Gandhi (Delhi)",
+    "bookName": "Parque Gandhi",
+    "type": "parque",
+    "emoji": null,
+    "coords": [
+      28.64,
+      77.23
+    ],
+    "precision": "approximate",
+    "country": "IND",
+    "description": "Donde las tropas del general Raj-Singh resisten en cuadrado tras el estadio Ambedkar.",
+    "status": "aproximado"
+  },
+  {
+    "id": "loc-taos",
+    "name": "Taos",
+    "bookName": "Taos, Nuevo México",
+    "type": "pueblo",
+    "emoji": null,
+    "coords": [
+      36.407,
+      -105.573
+    ],
+    "precision": "exact",
+    "country": "USA",
+    "description": "Lugar de las entrevistas con Arthur Sinclair.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-los-angeles",
+    "name": "Los Ángeles",
+    "bookName": "Los Ángeles",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      34.052,
+      -118.244
+    ],
+    "precision": "exact",
+    "country": "USA",
+    "description": "Ciudad de la zona segura occidental donde se reentrena a la antigua élite y se estrenan las películas de Roy Elliot.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-burlington",
+    "name": "Burlington",
+    "bookName": "Burlington, Vermont",
+    "type": "ciudad",
+    "emoji": "❄️",
+    "coords": [
+      44.476,
+      -73.212
+    ],
+    "precision": "approximate",
+    "country": "USA",
+    "description": "Casa de campo junto al río donde vive «el Loco». Se marca la ciudad.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-honolulu",
+    "name": "Honolulu",
+    "bookName": "Honolulu",
+    "type": "ciudad",
+    "emoji": "🏛️",
+    "coords": [
+      21.307,
+      -157.858
+    ],
+    "precision": "exact",
+    "country": "USA",
+    "description": "Sede del gobierno de Estados Unidos durante la guerra y de la conferencia que decide la ofensiva mundial.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-black-hills",
+    "name": "Black Hills",
+    "bookName": "Black Hills",
+    "type": "region",
+    "emoji": "⛰️",
+    "coords": [
+      44.0,
+      -103.75
+    ],
+    "precision": "regional",
+    "country": "USA",
+    "label": "Black Hills (enclave separatista)",
+    "description": "Uno de los territorios separatistas que el gobierno recupera por la fuerza.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-wenatchee",
+    "name": "Wenatchee",
+    "bookName": "Wenatchee, Washington",
+    "type": "pueblo",
+    "emoji": "🚲",
+    "coords": [
+      47.423,
+      -120.31
+    ],
+    "precision": "exact",
+    "country": "USA",
+    "description": "Pueblo donde vive Joe Muhammad y trabaja en un taller de bicicletas.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-malibu",
+    "name": "Fortaleza del Muelle de Malibú",
+    "bookName": "La Fortaleza del Muelle de Malibú",
+    "type": "edificio",
+    "emoji": "🎬",
+    "coords": [
+      34.036,
+      -118.678
+    ],
+    "precision": "approximate",
+    "country": "USA",
+    "description": "Lugar de la entrevista con Roy Elliot.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-claremont",
+    "name": "Claremont (las Cinco Universidades)",
+    "bookName": "Claremont",
+    "type": "campo-batalla",
+    "emoji": "🎓",
+    "coords": [
+      34.097,
+      -117.719
+    ],
+    "precision": "exact",
+    "country": "USA",
+    "description": "Trescientos estudiantes resisten cuatro meses en el Scripps College fortificado.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-phoenix",
+    "name": "Phoenix",
+    "bookName": "Phoenix",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      33.448,
+      -112.074
+    ],
+    "precision": "exact",
+    "country": "USA",
+    "description": "Origen del vuelo de abastecimiento de Christina Eliópolis.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-atchafalaya",
+    "name": "Cuenca del Atchafalaya",
+    "bookName": "La cuenca del río Atchafalaya, en el sur de Luisiana",
+    "type": "region",
+    "emoji": "🐊",
+    "coords": [
+      30.3,
+      -91.75
+    ],
+    "precision": "regional",
+    "country": "USA",
+    "label": "Pantanos del Atchafalaya (Luisiana)",
+    "description": "Pantano donde cae Christina Eliópolis tras perder su avión.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-i10-atchafalaya",
+    "name": "Interestatal 10 sobre el pantano",
+    "bookName": "La autopista interestatal I-10",
+    "type": "infraestructura",
+    "emoji": "🛣️",
+    "coords": [
+      30.37,
+      -91.6
+    ],
+    "precision": "approximate",
+    "country": "USA",
+    "description": "Tramo elevado sobre el pantano donde la recoge un helicóptero.",
+    "status": "aproximado"
+  },
+  {
+    "id": "loc-hrad-kost",
+    "name": "Castillo de Kost",
+    "bookName": "Provincia de Bohemia, Unión Europea",
+    "type": "monumento",
+    "emoji": "🏰",
+    "coords": [
+      50.49,
+      15.135
+    ],
+    "precision": "exact",
+    "country": "CZE",
+    "description": "Castillo gótico del valle de Plakanek donde David Allen Forbes dibuja durante la entrevista.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-windsor",
+    "name": "Castillo de Windsor",
+    "bookName": "Windsor",
+    "type": "monumento",
+    "emoji": "🏰",
+    "coords": [
+      51.4839,
+      -0.6044
+    ],
+    "precision": "exact",
+    "country": "GBR",
+    "description": "Castillo donde Forbes pasó la guerra. Tenía pozo propio, sistemas de seguridad y un yacimiento de petróleo y gas bajo sus cimientos.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-ulithi",
+    "name": "Atolón Ulithi",
+    "bookName": "Atolón Ulithi, Estados Confederados de Micronesia",
+    "type": "isla",
+    "emoji": null,
+    "coords": [
+      10.0,
+      139.7
+    ],
+    "precision": "approximate",
+    "country": "FSM",
+    "description": "Atolón que sirvió de refugio a la armada estadounidense y a cientos de barcos civiles, entre ellos el Ural. Hoy el Ural es un museo allí.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-ural",
+    "name": "U.N.S. Ural",
+    "bookName": "U.N.S. Ural (SSV-33)",
+    "type": "barco",
+    "emoji": "📻",
+    "coords": null,
+    "precision": "mobile",
+    "country": null,
+    "description": "Antiguo buque ruso de mando y vigilancia electrónica, primer centro de transmisión de Radio Mundo Libre.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-varanasi",
+    "name": "Varanasi",
+    "bookName": "Varanasi",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      25.3176,
+      82.9739
+    ],
+    "precision": "exact",
+    "country": "IND",
+    "description": "Ciudad sagrada a orillas del Ganges que se convirtió en una de las mayores Zonas Blancas por la llegada masiva de peregrinos.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-panmunjom",
+    "name": "Panmunjom (Zona Desmilitarizada)",
+    "bookName": "Zona Desmilitarizada: Corea del Sur",
+    "type": "base",
+    "emoji": null,
+    "coords": [
+      37.956,
+      126.677
+    ],
+    "precision": "approximate",
+    "country": "KOR",
+    "description": "Único punto de la frontera donde ambos lados se veían cara a cara. La entrevista se hace en la zona desmilitarizada, sin punto exacto.",
+    "status": "aproximado"
+  },
+  {
+    "id": "loc-kyoto",
+    "name": "Kioto",
+    "bookName": "Kyoto, Japón",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      35.0116,
+      135.7681
+    ],
+    "precision": "exact",
+    "country": "JPN",
+    "description": "Ciudad donde la Sociedad del Escudo tiene su sede y donde se entrevista a Kondo Tatsumi y a Tomonaga Ijiro.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-kokura",
+    "name": "Kokura",
+    "bookName": "Kokura",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      33.884,
+      130.875
+    ],
+    "precision": "approximate",
+    "country": "JPN",
+    "description": "Ciudad donde vivía Kondo Tatsumi. El libro no identifica su edificio.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-sapporo",
+    "name": "Sapporo",
+    "bookName": "Sapporo, isla de Hokkaido",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      43.0618,
+      141.3545
+    ],
+    "precision": "approximate",
+    "country": "JPN",
+    "description": "Ciudad donde Tomonaga trabajaba como jardinero en el hotel Akakaze. El libro no ubica el hotel.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-montes-hidaka",
+    "name": "Montes Hidaka",
+    "bookName": "Montañas Hiddaka",
+    "type": "parque",
+    "emoji": "⛰️",
+    "coords": [
+      42.7,
+      142.7
+    ],
+    "precision": "approximate",
+    "country": "JPN",
+    "description": "Parque nacional de Hokkaido donde Tomonaga vivió escondido y donde conoció a Kondo. Punto aproximado en la cordillera.",
+    "status": "aproximado"
+  },
+  {
+    "id": "loc-tokachi-dake",
+    "name": "Tokachi-dake",
+    "bookName": "Tokachi-dake",
+    "type": "campo-batalla",
+    "emoji": "🌋",
+    "coords": [
+      43.418,
+      142.686
+    ],
+    "precision": "approximate",
+    "country": "JPN",
+    "description": "Volcán donde Tomonaga destruyó a cuarenta y uno de ellos en un solo combate y arrojó las cabezas al cráter.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-cienfuegos",
+    "name": "Cienfuegos",
+    "bookName": "Cienfuegos, Cuba",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      22.1461,
+      -80.4356
+    ],
+    "precision": "exact",
+    "country": "CUB",
+    "description": "Ciudad portuaria donde se entrevista a Sergio García Álvarez, en un rascacielos de la posguerra.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-ancud",
+    "name": "Ancud",
+    "bookName": "Ancud, Isla Grande de Chiloé, Chile",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      -41.8697,
+      -73.8203
+    ],
+    "precision": "exact",
+    "country": "CHL",
+    "description": "Antigua base de refugio chilena, hoy centro económico y cultural del país. Lugar de la entrevista con Ernesto Holguín.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-uss-saratoga",
+    "name": "USS Saratoga",
+    "bookName": "USS Saratoga («Super Sara»)",
+    "type": "barco",
+    "emoji": null,
+    "coords": null,
+    "precision": "mobile",
+    "country": null,
+    "description": "Antiguo portaaviones convertido en transporte de refugiados y luego en sede flotante de las Naciones Unidas. Allí se celebra la Conferencia de Honolulu.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-ainsworth",
+    "name": "Ainsworth",
+    "bookName": "Ainsworth, Nebraska, Estados Unidos",
+    "type": "pueblo",
+    "emoji": null,
+    "coords": [
+      42.55,
+      -99.862
+    ],
+    "precision": "exact",
+    "country": "USA",
+    "description": "Pueblo donde Darnell Hackworth dirige la última granja de retiro para perros veteranos.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-atlanta",
+    "name": "Atlanta",
+    "bookName": "Atlanta",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      33.749,
+      -84.388
+    ],
+    "precision": "approximate",
+    "country": "USA",
+    "description": "Ciudad donde vivía Darnell Hackworth antes de huir a pie durante el Gran Pánico. El libro no ubica su apartamento.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-mitchell-oregon",
+    "name": "Mitchell («Ciudad Perro»)",
+    "bookName": "Mitchell, en Oregon",
+    "type": "pueblo",
+    "emoji": "🐕",
+    "coords": [
+      44.566,
+      -120.153
+    ],
+    "precision": "exact",
+    "country": "USA",
+    "description": "Pueblo abandonado y lleno de muertos convertido en la Escuela K-9 de Combate Urbano.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-siberia-ryzhkov",
+    "name": "Aldea de Siberia",
+    "bookName": "Siberia, Sagrado Imperio Ruso",
+    "type": "pueblo",
+    "emoji": null,
+    "coords": null,
+    "precision": "none",
+    "country": "RUS",
+    "description": "Poblado amurallado donde vive el padre Ryzhkov. El libro no dice dónde está, así que no se sitúa en el mapa.",
+    "status": "pendiente"
+  },
+  {
+    "id": "loc-ufa",
+    "name": "Ufá",
+    "bookName": "Ufa",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      54.735,
+      55.958
+    ],
+    "precision": "exact",
+    "country": "RUS",
+    "description": "Primera gran batalla de la ofensiva rusa.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-kostroma",
+    "name": "Kostromá",
+    "bookName": "Kostroma",
+    "type": "ciudad",
+    "emoji": null,
+    "coords": [
+      57.767,
+      40.927
+    ],
+    "precision": "approximate",
+    "country": "RUS",
+    "description": "Tras la batalla de Kostromá, en un hospital de campaña, el padre Ryzhkov dispara por primera vez a un soldado infectado. El libro no ubica el hospital.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-frente-hawaii",
+    "name": "Frente a Hawái",
+    "bookName": "Cerca de las costas de Hawaii",
+    "type": "oceano",
+    "emoji": null,
+    "coords": [
+      20.6,
+      -157.6
+    ],
+    "precision": "approximate",
+    "country": null,
+    "label": "Sucede en el océano Pacífico, cerca de Hawái",
+    "description": "Aguas donde el buque USS Holo Kai baja el minisubmarino de Michael Choi durante la entrevista. Punto aproximado.",
+    "status": "aproximado"
+  },
+  {
+    "id": "loc-uss-tracy-bowden",
+    "name": "USS Tracy Bowden",
+    "bookName": "U.S.S. Tracy Bowden",
+    "type": "barco",
+    "emoji": null,
+    "coords": null,
+    "precision": "mobile",
+    "country": null,
+    "description": "Barco donde se hace la despedida de Michael Choi. El libro no da su posición.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-troll",
+    "name": "Plataforma Troll",
+    "bookName": "Troll, Mar del Norte",
+    "type": "infraestructura",
+    "emoji": "🛢️",
+    "coords": [
+      60.646,
+      3.726
+    ],
+    "precision": "approximate",
+    "country": null,
+    "label": "Sucede en el mar del Norte",
+    "description": "Plataforma noruega de gas natural donde un enjambre sorprendió a los buzos que la reparaban.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-bermuda",
+    "name": "Bermudas",
+    "bookName": "Bermuda",
+    "type": "isla",
+    "emoji": null,
+    "coords": [
+      32.3,
+      -64.78
+    ],
+    "precision": "exact",
+    "country": "BMU",
+    "description": "Primer desembarco anfibio de la ofensiva, donde se aprendió a proteger las playas con redes submarinas.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-charleston",
+    "name": "Puerto de Charleston",
+    "bookName": "Charleston",
+    "type": "puerto",
+    "emoji": null,
+    "coords": [
+      32.776,
+      -79.925
+    ],
+    "precision": "approximate",
+    "country": "USA",
+    "description": "Uno de los puertos que Michael Choi ayudó a limpiar.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-norfolk",
+    "name": "Puerto de Norfolk",
+    "bookName": "Norfolk",
+    "type": "puerto",
+    "emoji": null,
+    "coords": [
+      36.85,
+      -76.3
+    ],
+    "precision": "approximate",
+    "country": "USA",
+    "description": "Uno de los puertos que Michael Choi ayudó a limpiar.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-boston",
+    "name": "Puerto de Boston",
+    "bookName": "Boston",
+    "type": "puerto",
+    "emoji": null,
+    "coords": [
+      42.355,
+      -71.045
+    ],
+    "precision": "approximate",
+    "country": "USA",
+    "description": "Uno de los puertos que Michael Choi ayudó a limpiar; lo recuerda como especialmente duro.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-puerto-nueva-york",
+    "name": "Puerto de Nueva York («Ciudad de los Héroes»)",
+    "bookName": "La Ciudad de los Héroes",
+    "type": "puerto",
+    "emoji": null,
+    "coords": [
+      40.69,
+      -74.04
+    ],
+    "precision": "approximate",
+    "country": "USA",
+    "description": "El libro llama «Ciudad de los Héroes» a Nueva York. Su fondo, lleno de barcos hundidos y restos arrojados en la evacuación, fue la peor limpieza submarina.",
+    "status": "confirmado"
+  },
+  {
+    "id": "loc-paris-subterraneo",
+    "name": "Subterráneos de París",
+    "bookName": "París: catacumbas, túneles y alcantarillas",
+    "type": "infraestructura",
+    "emoji": "💀",
+    "coords": [
+      48.834,
+      2.332
+    ],
+    "precision": "approximate",
+    "country": "FRA",
+    "description": "Red de catacumbas, canteras, metro y alcantarillas donde se refugiaron unas 250 000 personas. El punto marca las catacumbas; la lucha se extendió bajo toda la ciudad.",
+    "status": "aproximado"
+  },
+  {
+    "id": "loc-quebec-granja",
+    "name": "Granja de André Renard",
+    "bookName": "Quebec, Canadá",
+    "type": "otro",
+    "emoji": null,
+    "coords": null,
+    "precision": "none",
+    "country": "CAN",
+    "description": "Renard pidió mantener en secreto su ubicación exacta, así que no se sitúa en el mapa.",
+    "status": "confirmado"
+  }
+]

@@ -1,0 +1,698 @@
+[
+  {
+    "id": "per-xu-zhicai",
+    "name": "Xu Zhicai",
+    "nationality": "China",
+    "role": "Almirante. Durante la guerra, oficial del submarino Almirante Zheng He",
+    "description": "Oficial de confianza del capitán Chen. Vivió todo el exilio del submarino y fue quien cuidó al capitán en sus últimos meses.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "per-capitan-chen",
+    "name": "Capitán Chen",
+    "nationality": "China",
+    "role": "Capitán del submarino Almirante Zheng He",
+    "description": "Propone huir con el submarino y lo dirige durante todo su exilio.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "per-chen-zhi-xiao",
+    "name": "Chen Zhi Xiao",
+    "nationality": "China",
+    "role": "Comandante de un submarino Tipo 95; hijo del capitán Chen",
+    "description": "Se une a los rebeldes tras el desastre de las Tres Gargantas y encuentra al Almirante Zheng He en el Ártico para llevarlo de vuelta a casa.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "per-song",
+    "name": "Teniente comandante Song",
+    "nationality": "China",
+    "role": "Oficial a cargo del reactor del Almirante Zheng He",
+    "description": "Pinta murales a bordo del submarino.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "per-jesika-hendricks",
+    "name": "Jesika Hendricks",
+    "nationality": "Estadounidense de nacimiento (Waukesha, Wisconsin), nacionalizada canadiense",
+    "role": "Voluntaria del Proyecto de Recuperación Silvestre",
+    "description": "De niña huyó al norte con sus padres y pasó el primer invierno en un campamento de refugiados de Manitoba. Sus padres no sobrevivieron a la guerra.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Cambiando la marea; Despedidas"
+    }
+  },
+  {
+    "id": "per-patty",
+    "name": "Patty",
+    "nationality": "Canadiense (de Winnipeg)",
+    "role": "Mujer a la que la familia Hendricks recoge en la carretera",
+    "description": "Lleva una mano vendada y manchada de sangre. Durante la noche la familia la deja atrás sin explicaciones.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Cambiando la marea"
+    }
+  },
+  {
+    "id": "per-todd-wainio",
+    "name": "Todd Wainio",
+    "nationality": "Estados Unidos",
+    "role": "Soldado retirado del Ejército de los Estados Unidos",
+    "description": "Sobrevivió a la derrota de Yonkers, combatió en la Batalla de Esperanza y cruzó el país con el Grupo Norte hasta Nueva York, donde terminó como líder de escuadrón.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "El Gran Pánico; Guerra total; Despedidas"
+    }
+  },
+  {
+    "id": "per-hermana-montoya",
+    "name": "Hermana Montoya",
+    "nationality": "Estados Unidos",
+    "role": "Compañera de equipo de Todd Wainio; antigua monja",
+    "description": "Con cincuenta y dos años y poco más de metro y medio, protegió durante nueve días a sus alumnos de catequesis con un candelabro de hierro.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total"
+    }
+  },
+  {
+    "id": "per-doctor-chandra",
+    "name": "Doctor Chandra (Ted Chandrasekhar)",
+    "nationality": "Estados Unidos",
+    "role": "Médico de la compañía de Todd Wainio",
+    "description": "Vigila el estado mental de los soldados. El nombre completo aparece en una nota al pie.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total (nota 94); Despedidas"
+    }
+  },
+  {
+    "id": "per-sargento-avalon",
+    "name": "Sargento Avalon",
+    "nationality": "Estados Unidos",
+    "role": "Líder del escuadrón de Todd Wainio",
+    "description": "Superviviente de la Batalla de las Cinco Universidades, en parte sioux. Fue dada de baja por agotamiento mental y Todd la sustituyó.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total"
+    }
+  },
+  {
+    "id": "per-terry-knox",
+    "name": "Terry Knox",
+    "nationality": "Australia",
+    "role": "Comandante de la Estación Espacial Internacional",
+    "description": "Hijo de un minero de ópalos de Andamooka. Muere tres días después de la entrevista.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "per-zhai",
+    "name": "Zhai",
+    "nationality": "China",
+    "role": "Taikonauta de la estación espacial Yang Liwei",
+    "description": "Terry Knox lo encuentra muerto en la estación china, con la mano en la palanca que la despresurizó. Lo que pasó exactamente a bordo no se sabe.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "per-kwang-jingshu",
+    "name": "Kwang Jingshu",
+    "nationality": "China",
+    "role": "Médico; director del concejo de seguridad de Gran Chongqing",
+    "description": "Médico formado en el Ejército de Liberación Popular. Atiende uno de los primeros brotes conocidos y es encarcelado por el gobierno.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias"
+    }
+  },
+  {
+    "id": "per-gu-wen-kuei",
+    "name": "Gu Wen Kuei",
+    "nationality": "China",
+    "role": "Médico del Instituto de Enfermedades Infecciosas de la Universidad de Chongqing",
+    "description": "Viejo amigo de Kwang Jingshu desde el ejército. Le advierte en clave del peligro.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias"
+    }
+  },
+  {
+    "id": "per-nury-televaldi",
+    "name": "Nury Televaldi",
+    "nationality": "China (Kashi)",
+    "role": "Antiguo contrabandista de personas («shetou»)",
+    "description": "Durante los primeros brotes organiza rutas terrestres desde Kashi hacia Asia Central.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias"
+    }
+  },
+  {
+    "id": "per-stanley-macdonald",
+    "name": "Stanley MacDonald",
+    "nationality": "Canadá",
+    "role": "Veterano del Tercer Batallón de Infantería Ligera Canadiense de la Princesa Patricia",
+    "description": "Su primer encuentro con los muertos vivientes ocurre en una operación antidroga en Kirguistán.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias"
+    }
+  },
+  {
+    "id": "per-fernando-oliveira",
+    "name": "Fernando Oliveira",
+    "nationality": "Brasil",
+    "role": "Antiguo médico de trasplantes ilegales; exiliado",
+    "description": "Vive con los yanomami en la Amazonía. Participó en un trasplante de corazón infectado en Río de Janeiro.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias"
+    }
+  },
+  {
+    "id": "per-jacob-nyathi",
+    "name": "Jacob Nyathi",
+    "nationality": "Sudáfrica",
+    "role": "Capitán del I.S. Imfingo",
+    "description": "Creció en Kayelitsha, cerca de Ciudad del Cabo, donde sobrevivió a uno de los primeros brotes.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias"
+    }
+  },
+  {
+    "id": "per-jurgen-warmbrunn",
+    "name": "Jurgen Warmbrunn",
+    "nationality": "Israel",
+    "role": "Agente de inteligencia israelí; coautor del informe Warmbrunn-Knight",
+    "description": "Reúne las primeras pruebas de la plaga y alerta a su gobierno.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias; Despedidas"
+    }
+  },
+  {
+    "id": "per-paul-knight",
+    "name": "Paul Knight",
+    "nationality": "Estados Unidos",
+    "role": "Antiguo agente de inteligencia estadounidense; coautor del informe Warmbrunn-Knight",
+    "description": "Amigo de Warmbrunn. Entrega en mano una copia del informe dirigida al director de la CIA.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias; Culpa"
+    }
+  },
+  {
+    "id": "per-saladin-kader",
+    "name": "Saladin Kader",
+    "nationality": "Palestina (nacido en Kuwait)",
+    "role": "Profesor de planeación urbana en la Universidad Khalil Gibrán",
+    "description": "Llega a Israel con su familia gracias a la política de cuarentena voluntaria.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Advertencias"
+    }
+  },
+  {
+    "id": "per-bob-archer",
+    "name": "Bob Archer",
+    "nationality": "Estados Unidos",
+    "role": "Director de la Agencia Central de Inteligencia (CIA) en la posguerra",
+    "description": "Explica por qué la CIA no detectó la amenaza a tiempo. El libro lo presenta en la oficina del director.",
+    "status": "aproximado",
+    "pending": [],
+    "source": {
+      "section": "Culpa"
+    }
+  },
+  {
+    "id": "per-travis-dambrosia",
+    "name": "Travis D'Ambrosia",
+    "nationality": "Estados Unidos",
+    "role": "Comandante Supremo de la Alianza Europea",
+    "description": "Durante la guerra formaba parte del alto mando militar estadounidense.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Culpa; Guerra total"
+    }
+  },
+  {
+    "id": "per-breck-scott",
+    "name": "Breckinridge «Breck» Scott",
+    "nationality": "Estados Unidos",
+    "role": "Empresario; creador del Phalanx",
+    "description": "Se hizo rico vendiendo una vacuna inútil y vive retirado en la estación Vostok desde el Gran Pánico.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Culpa"
+    }
+  },
+  {
+    "id": "per-grover-carlson",
+    "name": "Grover Carlson",
+    "nationality": "Estados Unidos",
+    "role": "Antiguo jefe de personal de la Casa Blanca",
+    "description": "Tras la guerra trabaja recogiendo combustible en una planta de bioconversión.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Culpa"
+    }
+  },
+  {
+    "id": "per-mary-jo-miller",
+    "name": "Mary Jo Miller",
+    "nationality": "Estados Unidos",
+    "role": "Arquitecta y primera alcaldesa de Troya (Montana)",
+    "description": "Antes de la guerra vivía con su familia en North County, cerca de San Diego.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Culpa; Despedidas"
+    }
+  },
+  {
+    "id": "per-gavin-blaire",
+    "name": "Gavin Blaire",
+    "nationality": "Estados Unidos",
+    "role": "Piloto de un dirigible de combate D-17 de la Patrulla Aérea Civil",
+    "description": "Antes de la guerra pilotaba un dirigible publicitario.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "El Gran Pánico; Frente local"
+    }
+  },
+  {
+    "id": "per-ajay-shah",
+    "name": "Ajay Shah",
+    "nationality": "India",
+    "role": "Antiguo ejecutivo de oficina de Bhavnagar",
+    "description": "Sobrevive a la huida masiva hacia los barcos de Alang.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "El Gran Pánico"
+    }
+  },
+  {
+    "id": "per-sharon",
+    "name": "Sharon",
+    "nationality": "Estados Unidos",
+    "role": "Antigua «niña salvaje», en rehabilitación",
+    "description": "Encontrada en las ruinas de Wichita. Tiene la mente de una niña de cuatro años.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "El Gran Pánico"
+    }
+  },
+  {
+    "id": "per-maria-zhuganova",
+    "name": "María Zhuganova",
+    "nationality": "Rusia",
+    "role": "Soldado del ejército ruso",
+    "description": "Sirvió en Osetia del Norte durante los primeros días del Gran Pánico. Su familia vivía en Bikin.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "El Gran Pánico; Despedidas"
+    }
+  },
+  {
+    "id": "per-t-sean-collins",
+    "name": "T. Sean Collins",
+    "nationality": "Estados Unidos (Texas)",
+    "role": "Antiguo guardaespaldas y contratista de seguridad privada",
+    "description": "Veterano militar que trabajaba protegiendo a gente rica cuando llegó el Pánico.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "El Gran Pánico; Despedidas"
+    }
+  },
+  {
+    "id": "per-ahmed-farahnakian",
+    "name": "Ahmed Farahnakian",
+    "nationality": "Irán",
+    "role": "Antiguo mayor de la Fuerza Aérea Revolucionaria Iraní",
+    "description": "Piloto que bombardeó el puente del río Ketch, el primer paso hacia la guerra nuclear entre Irán y Pakistán.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "El Gran Pánico"
+    }
+  },
+  {
+    "id": "per-xolelwa-azania",
+    "name": "Xolelwa Azania",
+    "nationality": "Sudáfrica",
+    "role": "Escritor; autor de «El Puño del Arco Iris: Sudáfrica en Guerra»",
+    "description": "Trabajó durante años junto a Paul Redeker y ayudó a aplicar su plan.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Cambiando la marea"
+    }
+  },
+  {
+    "id": "per-paul-redeker",
+    "name": "Paul Redeker",
+    "nationality": "Sudáfrica",
+    "role": "Estratega; autor del Plan Redeker",
+    "description": "Antiguo asesor del gobierno del apartheid. Su plan de supervivencia es adoptado en todo el mundo.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Cambiando la marea"
+    }
+  },
+  {
+    "id": "per-philip-adler",
+    "name": "Philip Adler",
+    "nationality": "Alemania",
+    "role": "Antiguo oficial del ejército alemán",
+    "description": "Estaba al mando de un sector de Hamburgo cuando llegó la orden de retirada.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Cambiando la marea; Despedidas"
+    }
+  },
+  {
+    "id": "per-bohdan-kondratiuk",
+    "name": "Bohdan Taras Kondratiuk",
+    "nationality": "Ucrania",
+    "role": "Antiguo oficial de tanques; héroe de guerra",
+    "description": "Comandaba una compañía durante la evacuación de Kiev.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Cambiando la marea"
+    }
+  },
+  {
+    "id": "per-sardar-khan",
+    "name": "Sardar Khan",
+    "nationality": "India",
+    "role": "Ingeniero civil; director del proyecto de reconstrucción de Udaipur",
+    "description": "Durante el Pánico era un joven soldado del cuerpo de ingenieros de carreteras.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Cambiando la marea"
+    }
+  },
+  {
+    "id": "per-raj-singh",
+    "name": "General Raj-Singh",
+    "nationality": "India",
+    "role": "General del ejército indio, «el Tigre de Delhi»",
+    "description": "Inventó la formación en cuadrado que usarían otros ejércitos. Se sacrifica para volar un paso de montaña.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Cambiando la marea; Alrededor del mundo"
+    }
+  },
+  {
+    "id": "per-arthur-sinclair",
+    "name": "Arthur Sinclair Jr.",
+    "nationality": "Estados Unidos",
+    "role": "Director del DEstRe (Departamento para el uso Estratégico de Recursos)",
+    "description": "Antiguo corredor de bolsa encargado de reorganizar la economía y la mano de obra del país durante la guerra.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Frente local; Despedidas"
+    }
+  },
+  {
+    "id": "per-el-loco",
+    "name": "«El Loco»",
+    "nationality": "Estados Unidos",
+    "role": "Vicepresidente de Estados Unidos durante la guerra",
+    "description": "Político de carácter explosivo; luego sucede al presidente. El libro no da su nombre.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Frente local; Despedidas"
+    }
+  },
+  {
+    "id": "per-joe-muhammad",
+    "name": "Joe Muhammad",
+    "nationality": "Estados Unidos",
+    "role": "Escultor y antiguo miembro de los Equipos de Vigilancia Comunitaria",
+    "description": "Usa silla de ruedas. Autor del Monumento a los Vigilantes Comunitarios de Washington D. C.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Frente local; Despedidas"
+    }
+  },
+  {
+    "id": "per-roy-elliot",
+    "name": "Roy Elliot",
+    "nationality": "Estados Unidos",
+    "role": "Director de cine",
+    "description": "Durante la guerra rueda documentales para combatir el Síndrome de Depresión Apocalíptica.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Frente local"
+    }
+  },
+  {
+    "id": "per-christina-eliopolis",
+    "name": "Christina Eliópolis",
+    "nationality": "Estados Unidos",
+    "role": "Coronel; comandante de un escuadrón de la Patrulla Aérea Civil",
+    "description": "Antigua piloto de caza. Durante la guerra vuela misiones de abastecimiento aéreo.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Frente local"
+    }
+  },
+  {
+    "id": "per-david-allen-forbes",
+    "name": "David Allen Forbes",
+    "nationality": "Reino Unido (Inglaterra)",
+    "role": "Dibujante y autor de libros sobre castillos de la guerra",
+    "description": "Sobrevivió a la guerra dentro del castillo de Windsor, donde aprendió a luchar con un montante. En la posguerra dibuja fortalezas europeas para su segundo libro.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "per-barati-palshigar",
+    "name": "Barati Palshigar",
+    "nationality": "India",
+    "role": "Intérprete de Radio Mundo Libre a bordo del Ural",
+    "description": "Especialista en lenguas del subcontinente indio. Tradujo y grabó durante la guerra los boletines de supervivencia que se emitían desde el Ural.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "per-hyungchol-choi",
+    "name": "Hyungchol Choi",
+    "nationality": "Corea del Sur",
+    "role": "Director general de la Oficina Central de Inteligencia Coreana",
+    "description": "Siguió desde el sur la misteriosa desaparición de toda la población de Corea del Norte y todavía pide que se organice una expedición para averiguar qué pasó.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "per-kondo-tatsumi",
+    "name": "Kondo Tatsumi",
+    "nationality": "Japón",
+    "role": "Monje guerrero; segundo al mando de la Sociedad del Escudo (Tatenokai)",
+    "description": "Antes de la guerra era un otaku encerrado en su cuarto de Kokura. Escapó de su edificio infestado y acabó uniéndose a Tomonaga Ijiro.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "per-tomonaga-ijiro",
+    "name": "Tomonaga Ijiro",
+    "nationality": "Japón",
+    "role": "Sensei y fundador de la Sociedad del Escudo (Tatenokai)",
+    "description": "Superviviente ciego de la bomba de Nagasaki. Trabajó toda su vida como jardinero en Hokkaido y durante la guerra se convirtió en un cazador de zombis en las montañas.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él; Despedidas"
+    }
+  },
+  {
+    "id": "per-doctor-komatsu",
+    "name": "Doctor Komatsu",
+    "nationality": "Japón",
+    "role": "Científico que recomendó evacuar Japón",
+    "description": "Analizó los datos de población y defensa del país y concluyó públicamente que Japón debía ser evacuado por completo.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "per-sergio-garcia-alvarez",
+    "name": "Sergio García Álvarez",
+    "nationality": "Cuba",
+    "role": "Ciudadano cubano; entrevistado en su oficina de Cienfuegos",
+    "description": "Cuenta cómo Cuba resistió la guerra, acogió a millones de refugiados estadounidenses y salió convertida en una potencia económica y en una democracia.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "per-ernesto-holguin",
+    "name": "Ernesto Holguín",
+    "nationality": "Chile",
+    "role": "Agregado naval chileno en la Conferencia de Honolulu; hoy capitán de un barco mercante",
+    "description": "Su tarea en la conferencia era coordinar lo que quedaba de las flotas para rehacer el transporte marítimo internacional.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "per-emile-renard",
+    "name": "Emile Renard",
+    "nationality": "Francia",
+    "role": "Comandante; agregado naval francés en la Conferencia de Honolulu",
+    "description": "Comparte con sus colegas su última botella de vino de Burdeos tras el discurso del presidente estadounidense.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Alrededor del mundo, y sobre él"
+    }
+  },
+  {
+    "id": "per-darnell-hackworth",
+    "name": "Darnell Hackworth",
+    "nationality": "Estados Unidos",
+    "role": "Entrenador de la división K-9 del ejército; hoy dirige una granja de retiro para perros veteranos",
+    "description": "Huyó a pie desde Atlanta durante el Gran Pánico. Fue reclutado tras defender a un perro herido y trabajó en la escuela de combate urbano de Mitchell, Oregón.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total"
+    }
+  },
+  {
+    "id": "per-maze",
+    "name": "Maze (Maisey)",
+    "nationality": "—",
+    "role": "Perra K-9 de Darnell Hackworth, cruce de dachshund miniatura",
+    "description": "Especialista en misiones de exploración y en derribar zombis metiéndose entre sus piernas. Tenía dos perros escolta, Pongo y Perdi.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total"
+    }
+  },
+  {
+    "id": "per-sergei-ryzhkov",
+    "name": "Padre Sergei Ryzhkov",
+    "nationality": "Rusia",
+    "role": "Capellán de la 32.ª división motorizada de artilleros",
+    "description": "Inició la práctica de que los sacerdotes acabaran con los soldados infectados, origen del giro religioso del Estado ruso. Hoy vive apartado en una aldea de Siberia.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total; Despedidas"
+    }
+  },
+  {
+    "id": "per-michael-choi",
+    "name": "Michael Choi",
+    "nationality": "Estados Unidos",
+    "role": "Suboficial mayor y buzo del Equipo de Combate Profundo (ECP) de la Armada",
+    "description": "Combatió bajo el agua con un traje exoesqueleto blindado. Después de la guerra sigue rastreando a los muertos del fondo del mar.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total; Despedidas"
+    }
+  },
+  {
+    "id": "per-andre-renard",
+    "name": "André Renard",
+    "nationality": "Francia (emigrado a Canadá)",
+    "role": "Veterano de la limpieza de los subterráneos de París",
+    "description": "Hermano mayor de Emil Renard. Tras la guerra se fue a vivir a una granja aislada en Quebec y nunca volvió a Francia.",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total"
+    }
+  },
+  {
+    "id": "per-emil-renard",
+    "name": "Emil Renard",
+    "nationality": "Francia",
+    "role": "Héroe de guerra francés; jefe de escuadrón en los subterráneos de París",
+    "description": "Hermano menor de André. Murió con su escuadrón al enfrentarse a cientos de muertos en «el Hospital». Sus últimas palabras fueron «¡On ne passe pas!».",
+    "status": "confirmado",
+    "pending": [],
+    "source": {
+      "section": "Guerra total"
+    }
+  }
+]

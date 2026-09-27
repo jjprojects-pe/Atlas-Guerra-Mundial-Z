@@ -1,0 +1,126 @@
+/* Design tokens, reset and typography. */
+
+/* "Impreso" (paper atlas) is the default theme; "dark" is the alternative. */
+:root {
+  --bg: #e9dfc8;
+  --surface: #f4ecda;
+  --surface-2: #ebe0c7;
+  --surface-3: #e0d2b3;
+  --line: #d3c29d;
+  --line-strong: #b9a47a;
+  --text: #2a2017;
+  --text-soft: #4b3d2d;
+  --muted: #7a6a54;
+  --accent: #8f3a1a;
+  --accent-rgb: 143, 58, 26;
+  --accent-ink: #fbf5e8;
+  --accent-soft: rgba(143, 58, 26, 0.1);
+  --accent-hover: #a8471f;
+  --warn: #a8432a;
+  --warn-rgb: 168, 67, 42;
+  --pending-text: #8f3a1a;
+  --ok: #4f6e3c;
+
+  --map-bg: #d9cfb6;
+  --map-accent: #a0521d;
+  --map-accent-rgb: 160, 82, 29;
+  --country-line: #6d5a3d;
+  --tiles-filter: sepia(0.45) saturate(0.75) hue-rotate(-6deg) brightness(1.02) contrast(0.92);
+  --overlay: rgba(244, 236, 218, 0.95);
+  --marker-bg: #fbf5e8;
+  --label-bg: rgba(251, 245, 232, 0.9);
+  --label-border: rgba(42, 32, 23, 0.45);
+  --label-shadow: none;
+  --int-bg: #f6e3c4;
+  --shadow: rgba(60, 40, 20, 0.35);
+  --grid-line: rgba(42, 32, 23, 0.06);
+  --demo-bg: #f1d5cb;
+  --demo-text: #7a2616;
+
+  --font-sans: 'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, 'SFMono-Regular', Menlo, monospace;
+  --font-serif: 'IBM Plex Serif', Georgia, serif;
+
+  --radius: 6px;
+  --gutter: 16px;
+  --topbar-h: 56px;
+  color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+  --bg: #0e1112;
+  --surface: #151a1b;
+  --surface-2: #1c2324;
+  --surface-3: #242d2e;
+  --line: #2b3536;
+  --line-strong: #3b4748;
+  --text: #e7e2d6;
+  --text-soft: #bdb8ab;
+  --muted: #8a9593;
+  --accent: #d9a441;
+  --accent-rgb: 217, 164, 65;
+  --accent-ink: #1a1408;
+  --accent-soft: rgba(217, 164, 65, 0.14);
+  --accent-hover: #e6b458;
+  --warn: #c46a4f;
+  --warn-rgb: 196, 106, 79;
+  --pending-text: #e2a08c;
+  --ok: #7fa27a;
+
+  --map-bg: #0b0e0f;
+  --map-accent: #d9a441;
+  --map-accent-rgb: 217, 164, 65;
+  --country-line: #6e7a7a;
+  --tiles-filter: invert(1) hue-rotate(180deg) brightness(0.72) contrast(0.95) saturate(0.2);
+  --overlay: rgba(21, 26, 27, 0.94);
+  --marker-bg: #121819;
+  --label-bg: rgba(14, 17, 18, 0.72);
+  --label-border: rgba(231, 226, 214, 0.45);
+  --label-shadow: 0 1px 2px #000;
+  --int-bg: #2a2112;
+  --shadow: rgba(0, 0, 0, 0.6);
+  --grid-line: rgba(231, 226, 214, 0.04);
+  --demo-bg: #5a2a2a;
+  --demo-text: #ffd9d0;
+  color-scheme: dark;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html, body { margin: 0; }
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
+  font-size: 15px;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, p, ul, ol { margin: 0; }
+ul, ol { padding: 0; list-style: none; }
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+button, input, select { font: inherit; color: inherit; }
+
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+[hidden] { display: none !important; }
+
+.muted { color: var(--muted); }
+.small { font-size: 13px; }
+
+.emo {
+  display: inline-block;
+  width: 1.4em;
+  text-align: center;
+  margin-right: 4px;
+  font-style: normal;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { transition: none !important; animation: none !important; }
+}
